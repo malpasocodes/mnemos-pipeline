@@ -104,16 +104,16 @@ def _get_content_elements(soup: BeautifulSoup) -> list[Tag]:
             continue
 
         # Skip title page and TOC (before first content heading)
+        _content_start_re = re.compile(
+            r"^(PREFACE|CHAP\b|CHAPTER\b|INTRODUCTION|PART\b|SECTION\b)", re.IGNORECASE
+        )
         if not past_title_page:
             text_check = el.get_text(strip=True)
-            if el.name == "h4" and re.match(r"^(PREFACE|CHAP\b|CHAPTER\b|INTRODUCTION)", text_check, re.IGNORECASE):
-                past_title_page = True
-            elif el.name in ("h2", "h3") and re.match(r"^(PART|SECTION)\b", text_check, re.IGNORECASE):
+            if el.name in ("h2", "h3", "h4") and _content_start_re.match(text_check):
                 past_title_page = True
             elif el.name == "div" and el.get("class") and "chapter" in el.get("class", []):
-                # Check if this div.chapter contains a PART heading
-                h2 = el.find("h2")
-                if h2 and re.match(r"^PART\b", h2.get_text(strip=True), re.IGNORECASE):
+                h_tag = el.find(["h2", "h3", "h4"])
+                if h_tag and _content_start_re.match(h_tag.get_text(strip=True)):
                     past_title_page = True
                 else:
                     continue
@@ -181,17 +181,32 @@ def _segment_chapters(elements: list[Tag], footnotes: dict[str, str]) -> list[di
     _chap_re = re.compile(r"^(CHAPTER|CHAP\b|PREFACE|INTRODUCTION)", re.IGNORECASE)
 
     for el in elements:
-        # Track Part headings (h2) for context
+        # h2 can be a Part heading (context) or a Chapter/Preface heading
         if el.name == "h2":
             text = _heading_text(el)
             if re.match(r"^PART\b", text, re.IGNORECASE):
                 current_part = text
                 current_section = None
                 continue
+            if _chap_re.match(text):
+                if current_chapter:
+                    chapters.append(_finalize_chapter(current_chapter, footnotes))
+                title_parts = []
+                if current_part:
+                    title_parts.append(current_part)
+                if current_section:
+                    title_parts.append(current_section)
+                title_parts.append(text)
+                current_chapter = {"title_parts": title_parts, "elements": []}
+                continue
 
-        # h3 can be either a Section heading or a Chapter heading
+        # h3 can be a Section heading, Chapter heading, or subtitle
         if el.name == "h3":
             text = _heading_text(el)
+            # If we just started a chapter (no content yet), treat h3 as subtitle
+            if current_chapter and not current_chapter["elements"]:
+                current_chapter["title_parts"].append(text)
+                continue
             if re.match(r"^SECTION\b", text, re.IGNORECASE):
                 current_section = text
                 # Start a chapter for this section; if a CHAP heading follows,
@@ -232,8 +247,8 @@ def _segment_chapters(elements: list[Tag], footnotes: dict[str, str]) -> list[di
                 current_chapter = {"title_parts": title_parts, "elements": []}
                 continue
 
-        # Capture subtitle (h5 near start of chapter, possibly after <hr>)
-        if el.name == "h5" and current_chapter and not current_chapter["elements"]:
+        # Capture subtitle (h3/h5 near start of chapter, possibly after <hr>)
+        if el.name in ("h3", "h5") and current_chapter and not current_chapter["elements"]:
             current_chapter["title_parts"].append(_heading_text(el))
             continue
 
