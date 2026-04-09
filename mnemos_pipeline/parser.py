@@ -103,23 +103,39 @@ def _get_content_elements(soup: BeautifulSoup) -> list[Tag]:
         if el.get("class") and "box" in el.get("class", []):
             continue
 
-        # Skip title page elements (before PREFACE)
+        # Skip title page and TOC (before first content heading)
         if not past_title_page:
-            if el.name == "h4" and "PREFACE" in el.get_text():
+            text_check = el.get_text(strip=True)
+            if el.name == "h4" and re.match(r"^(PREFACE|CHAP\b|CHAPTER\b|INTRODUCTION)", text_check, re.IGNORECASE):
                 past_title_page = True
+            elif el.name in ("h2", "h3") and re.match(r"^(PART|SECTION)\b", text_check, re.IGNORECASE):
+                past_title_page = True
+            elif el.name == "div" and el.get("class") and "chapter" in el.get("class", []):
+                # Check if this div.chapter contains a PART heading
+                h2 = el.find("h2")
+                if h2 and re.match(r"^PART\b", h2.get_text(strip=True), re.IGNORECASE):
+                    past_title_page = True
+                else:
+                    continue
             else:
                 continue
 
         # Stop at excluded back-matter sections
-        if el.name in ("h4", "h5"):
+        heading_text = ""
+        if el.name in ("h2", "h3", "h4", "h5"):
             heading_text = el.get_text(strip=True).upper()
+        elif el.name == "div" and el.get("class") and "chapter" in el.get("class", []):
+            h_tag = el.find(["h2", "h3", "h4"])
+            if h_tag:
+                heading_text = h_tag.get_text(strip=True).upper()
+        if heading_text:
             if heading_text in ("CONTENTS.", "ERRATA.", "INDEX.", "NEW PUBLICATIONS."):
                 in_excluded_section = True
                 continue
             if heading_text == "THE END.":
                 in_excluded_section = True
                 continue
-            if re.match(r"^(CHAPTER|PREFACE)", heading_text):
+            if re.match(r"^(CHAPTER|CHAP\b|PREFACE|INTRODUCTION|PART\b|SECTION\b)", heading_text):
                 in_excluded_section = False
             elif in_excluded_section:
                 continue
@@ -131,29 +147,94 @@ def _get_content_elements(soup: BeautifulSoup) -> list[Tag]:
         if el.get("class") and "footnote" in el.get("class", []):
             continue
 
+        # Unwrap div containers that hold structural headings (Part, Section, Chapter)
+        if el.name == "div":
+            has_heading = el.find(["h2", "h3", "h4"])
+            if has_heading:
+                for child in el.children:
+                    if isinstance(child, Tag):
+                        elements.append(child)
+                continue
+
         elements.append(el)
 
     return elements
 
 
+def _heading_text(el: Tag) -> str:
+    """Extract clean text from a heading element, preserving word boundaries."""
+    text = el.get_text(" ", strip=True)
+    # Clean up extra spaces before punctuation added by separator
+    text = re.sub(r"\s+([.,;:!?])", r"\1", text)
+    text = re.sub(r"\s+", " ", text)
+    return text.strip()
+
+
 def _segment_chapters(elements: list[Tag], footnotes: dict[str, str]) -> list[dict]:
-    """Split elements into chapters based on h4 CHAPTER headings."""
+    """Split elements into chapters based on CHAPTER/CHAP headings at h3 or h4 level."""
     chapters = []
     current_chapter = None
+    # Track Part/Section context for books with hierarchical headings
+    current_part = None
+    current_section = None
+
+    _chap_re = re.compile(r"^(CHAPTER|CHAP\b|PREFACE|INTRODUCTION)", re.IGNORECASE)
 
     for el in elements:
-        # Detect chapter or preface heading
-        if el.name == "h4":
-            text = el.get_text(strip=True)
-            if re.match(r"^(CHAPTER|PREFACE)", text, re.IGNORECASE):
+        # Track Part headings (h2) for context
+        if el.name == "h2":
+            text = _heading_text(el)
+            if re.match(r"^PART\b", text, re.IGNORECASE):
+                current_part = text
+                current_section = None
+                continue
+
+        # h3 can be either a Section heading or a Chapter heading
+        if el.name == "h3":
+            text = _heading_text(el)
+            if re.match(r"^SECTION\b", text, re.IGNORECASE):
+                current_section = text
+                # Start a chapter for this section; if a CHAP heading follows,
+                # it will finalize this one (possibly empty, which gets filtered out).
                 if current_chapter:
                     chapters.append(_finalize_chapter(current_chapter, footnotes))
-                current_chapter = {"title_parts": [text], "elements": []}
+                title_parts = []
+                if current_part:
+                    title_parts.append(current_part)
+                title_parts.append(current_section)
+                current_chapter = {"title_parts": title_parts, "elements": []}
+                continue
+            if _chap_re.match(text):
+                # Chapter at h3 level (e.g. Parts III-V of Theory of Moral Sentiments)
+                if current_chapter:
+                    chapters.append(_finalize_chapter(current_chapter, footnotes))
+                title_parts = []
+                if current_part:
+                    title_parts.append(current_part)
+                if current_section:
+                    title_parts.append(current_section)
+                title_parts.append(text)
+                current_chapter = {"title_parts": title_parts, "elements": []}
+                continue
+
+        # Detect chapter or preface heading at h4 level
+        if el.name == "h4":
+            text = _heading_text(el)
+            if _chap_re.match(text):
+                if current_chapter:
+                    chapters.append(_finalize_chapter(current_chapter, footnotes))
+                title_parts = []
+                if current_part:
+                    title_parts.append(current_part)
+                if current_section:
+                    title_parts.append(current_section)
+                title_parts.append(text)
+                current_chapter = {"title_parts": title_parts, "elements": []}
                 continue
 
         # Capture subtitle (h5 near start of chapter, possibly after <hr>)
         if el.name == "h5" and current_chapter and not current_chapter["elements"]:
-            current_chapter["title_parts"].append(el.get_text(strip=True))
+            current_chapter["title_parts"].append(_heading_text(el))
             continue
 
         # Skip <hr> between chapter heading and subtitle
@@ -165,6 +246,9 @@ def _segment_chapters(elements: list[Tag], footnotes: dict[str, str]) -> list[di
 
     if current_chapter:
         chapters.append(_finalize_chapter(current_chapter, footnotes))
+
+    # Remove empty chapters (e.g. Section headings that were followed by CHAP sub-headings)
+    chapters = [ch for ch in chapters if ch["paragraphs"]]
 
     # Assign IDs
     for i, ch in enumerate(chapters):
