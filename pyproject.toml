@@ -1,0 +1,16 @@
+[project]
+name = "mnemos-pipeline"
+version = "0.1.0"
+description = "Gutenberg HTML to structured JSON/Markdown pipeline"
+requires-python = ">=3.9"
+dependencies = [
+    "beautifulsoup4>=4.12",
+    "lxml>=5.0",
+]
+
+[project.scripts]
+mnemos = "mnemos_pipeline.cli:main"
+
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.backends._legacy:_Backend"

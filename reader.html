@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Pipeline Reader</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: Georgia, serif; color: #222; background: #faf9f6; }
+  .layout { display: flex; height: 100vh; }
+  nav { width: 280px; min-width: 280px; background: #f0eeeb; border-right: 1px solid #ddd;
+        overflow-y: auto; padding: 1rem; font-size: 0.85rem; }
+  nav h2 { font-size: 0.95rem; margin-bottom: 0.75rem; color: #555; }
+  nav a { display: block; padding: 0.3rem 0.5rem; color: #333; text-decoration: none;
+          border-radius: 3px; margin-bottom: 2px; line-height: 1.3; }
+  nav a:hover, nav a.active { background: #e0ddd8; }
+  main { flex: 1; overflow-y: auto; padding: 2rem 3rem; max-width: 50rem; }
+  main h1 { font-size: 1.6rem; margin-bottom: 0.25rem; }
+  main .author { font-size: 1rem; color: #666; margin-bottom: 2rem; }
+  main h2 { font-size: 1.3rem; margin: 2rem 0 1rem; padding-top: 1rem;
+             border-top: 1px solid #e0ddd8; }
+  main p { margin-bottom: 0.85rem; line-height: 1.7; text-align: justify; }
+  main p .pid { font-size: 0.7rem; color: #aaa; margin-right: 0.3rem; user-select: none; }
+  .fn { font-size: 0.8em; color: #666; }
+  .drop { display: none; margin: 2rem auto; text-align: center; padding: 3rem;
+          border: 2px dashed #ccc; border-radius: 8px; color: #888; font-family: sans-serif; }
+  .drop.show { display: block; }
+  .drop p { text-align: center; line-height: 1.5; }
+</style>
+</head>
+<body>
+<div class="layout">
+  <nav id="nav"><h2>Chapters</h2></nav>
+  <main id="main">
+    <div class="drop show" id="drop">
+      <p>Drag a JSON file here<br>or <a href="#" id="pick">click to select</a></p>
+      <input type="file" id="file" accept=".json" style="display:none">
+    </div>
+  </main>
+</div>
+<script>
+const nav = document.getElementById('nav');
+const main = document.getElementById('main');
+const drop = document.getElementById('drop');
+const fileInput = document.getElementById('file');
+
+document.getElementById('pick').addEventListener('click', e => { e.preventDefault(); fileInput.click(); });
+fileInput.addEventListener('change', () => { if (fileInput.files[0]) loadFile(fileInput.files[0]); });
+main.addEventListener('dragover', e => e.preventDefault());
+main.addEventListener('drop', e => { e.preventDefault(); if (e.dataTransfer.files[0]) loadFile(e.dataTransfer.files[0]); });
+
+function loadFile(file) {
+  const reader = new FileReader();
+  reader.onload = () => {
+    try { render(JSON.parse(reader.result)); }
+    catch (e) { alert('Invalid JSON: ' + e.message); }
+  };
+  reader.readAsText(file);
+}
+
+function render(data) {
+  drop.classList.remove('show');
+  const meta = data.meta || {};
+  let html = '';
+  if (meta.title) html += `<h1>${esc(meta.title)}</h1>`;
+  if (meta.author) html += `<p class="author">${esc(meta.author)}</p>`;
+
+  let navHtml = '<h2>Chapters</h2>';
+  for (const ch of data.chapters) {
+    const label = ch.title || ch.id;
+    navHtml += `<a href="#${ch.id}">${esc(label)}</a>`;
+    html += `<h2 id="${ch.id}">${esc(ch.title || ch.id)}</h2>`;
+    for (const p of ch.paragraphs) {
+      html += `<p><span class="pid">${p.id}</span>${formatText(esc(p.text))}</p>`;
+    }
+  }
+
+  nav.innerHTML = navHtml;
+  main.innerHTML = html;
+
+  nav.querySelectorAll('a').forEach(a => {
+    a.addEventListener('click', e => {
+      e.preventDefault();
+      const target = document.getElementById(a.getAttribute('href').slice(1));
+      if (target) target.scrollIntoView({ behavior: 'smooth' });
+      nav.querySelectorAll('a').forEach(x => x.classList.remove('active'));
+      a.classList.add('active');
+    });
+  });
+}
+
+function esc(s) {
+  const el = document.createElement('span');
+  el.textContent = s;
+  return el.innerHTML;
+}
+
+function formatText(html) {
+  // Inline footnotes: [N] text... up to next [N] or end
+  html = html.replace(/\[(\d+)\]\s/g, '<span class="fn">[$1] </span>');
+  // Bold **text**
+  html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+  // Italic *text*
+  html = html.replace(/\*(.+?)\*/g, '<em>$1</em>');
+  return html;
+}
+</script>
+</body>
+</html>
