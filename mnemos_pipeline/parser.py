@@ -5,7 +5,7 @@ import json
 import re
 from pathlib import Path
 
-from bs4 import BeautifulSoup, NavigableString, Tag
+from bs4 import BeautifulSoup, Comment, NavigableString, Tag
 
 
 def parse_html(html_path: str) -> dict:
@@ -68,6 +68,28 @@ def _extract_footnotes(soup: BeautifulSoup) -> dict[str, str]:
         text = _inline_text(p).strip()
         text = re.sub(r"^\s*\[\d+\]\s*", "", text)
         footnotes[fn_key] = text
+
+    # Gibbon-style: <p class="foot"> with <a class="pginternal" href="#linknoteref-...">
+    for p in soup.find_all("p", class_="foot"):
+        a = p.find("a", class_="pginternal")
+        if not a:
+            continue
+        href = a.get("href", "")
+        m = re.match(r"#linknoteref-(.+)", href)
+        if not m:
+            continue
+        fn_key = m.group(1)
+        text = _inline_text(p).strip()
+        # Strip leading "101 (return) [ ..." pattern
+        text = re.sub(r"^\S+\s*\(return\)\s*", "", text)
+        text = text.strip()
+        if text.startswith("["):
+            text = text[1:].strip()
+        if text.endswith("]"):
+            text = text[:-1].strip()
+        if text:
+            footnotes[fn_key] = text
+
     return footnotes
 
 
@@ -335,6 +357,9 @@ def _finalize_chapter(chapter_data: dict, footnotes: dict[str, str]) -> dict:
             # Skip page-number-only paragraphs
             if _is_pagenum_only(el):
                 continue
+            # Skip footnote paragraphs (Gibbon-style)
+            if el.get("class") and "foot" in el.get("class", []):
+                continue
             text = _inline_text(el)
             text = _attach_footnotes(text, footnotes)
             text = text.strip()
@@ -361,6 +386,8 @@ def _inline_text(el: Tag) -> str:
     Markdown markers and stripping page numbers."""
     parts = []
     for child in el.children:
+        if isinstance(child, Comment):
+            continue
         if isinstance(child, NavigableString):
             parts.append(str(child))
         elif isinstance(child, Tag):
@@ -384,6 +411,10 @@ def _inline_text(el: Tag) -> str:
                 fn_key = href.replace("#Footnote_", "")
                 if fn_key:
                     parts.append(f"[^{fn_key}]")
+            elif child.name == "a" and child.get("href", "").startswith("#linknote-") and "linknoteref" not in child.get("href", ""):
+                # Gibbon-style footnote ref — extract key from href (#linknote-N.M)
+                fn_key = child["href"].replace("#linknote-", "")
+                parts.append(f"[^{fn_key}]")
             elif child.name == "a":
                 parts.append(_inline_text(child))
             elif child.name == "span":
@@ -412,8 +443,11 @@ def _attach_footnotes(text: str, footnotes: dict[str, str]) -> str:
         fn_key = m.group(1)
         fn_text = footnotes.get(fn_key)
         if fn_text:
-            # Display the trailing number for readability (e.g., "1_1" → "1")
+            # Display the trailing number for readability
+            # e.g., "1_1" → "1", "1.101" → "101"
             display_num = fn_key.rsplit("_", 1)[-1] if "_" in fn_key else fn_key
+            if "." in display_num:
+                display_num = display_num.rsplit(".", 1)[-1]
             return f" [{display_num}] {fn_text}"
         return m.group(0)
 
