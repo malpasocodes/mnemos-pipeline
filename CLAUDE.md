@@ -13,7 +13,7 @@ pip3 install beautifulsoup4 lxml
 python3 -m mnemos_pipeline.cli gutenberg/pg33310-images.html -o output --slug ricardo-principles
 ```
 
-Flags: `--slug NAME` for output filename base (e.g. `gibbon-decline-and-fall`), `--no-markdown` to skip Markdown export, `-o DIR` for output directory, `--max-paragraphs N` to control part splitting threshold (default 1500).
+Flags: `--slug NAME` for output filename base (e.g. `gibbon-decline-and-fall`), `--no-markdown` to skip Markdown export, `-o DIR` for output directory, `--max-chars N` to control part splitting threshold in characters (default 650000), `--no-footnotes` to strip all footnote markers and text.
 
 ## Pipeline Architecture
 

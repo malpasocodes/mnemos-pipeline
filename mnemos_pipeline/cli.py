@@ -8,9 +8,14 @@ from mnemos_pipeline.parser import parse_html, write_json
 from mnemos_pipeline.exporter import write_markdown
 
 
-def split_parts(data: dict, max_paragraphs: int) -> list[dict]:
+def _chapter_chars(ch: dict) -> int:
+    """Total character count of all paragraphs in a chapter."""
+    return sum(len(p["text"]) for p in ch["paragraphs"])
+
+
+def split_parts(data: dict, max_chars: int) -> list[dict]:
     """Split parsed data into parts at chapter boundaries when total
-    paragraph count exceeds max_paragraphs.
+    character count exceeds max_chars.
 
     Returns a list of data dicts. Each has the same meta (extended with
     part/total_parts) and a slice of the chapters array with global IDs
@@ -18,23 +23,23 @@ def split_parts(data: dict, max_paragraphs: int) -> list[dict]:
     part/total_parts fields added).
     """
     chapters = data["chapters"]
-    total_paras = sum(len(ch["paragraphs"]) for ch in chapters)
-    if total_paras <= max_paragraphs:
+    total_chars = sum(_chapter_chars(ch) for ch in chapters)
+    if total_chars <= max_chars:
         return [data]
 
-    # Greedily pack chapters into parts without exceeding max_paragraphs
+    # Greedily pack chapters into parts without exceeding max_chars
     parts_chapters = []
     current_part = []
     current_count = 0
 
     for ch in chapters:
-        ch_paras = len(ch["paragraphs"])
-        if current_part and current_count + ch_paras > max_paragraphs:
+        ch_chars = _chapter_chars(ch)
+        if current_part and current_count + ch_chars > max_chars:
             parts_chapters.append(current_part)
             current_part = []
             current_count = 0
         current_part.append(ch)
-        current_count += ch_paras
+        current_count += ch_chars
 
     if current_part:
         parts_chapters.append(current_part)
@@ -63,10 +68,10 @@ def main():
         help="Skip Markdown export",
     )
     parser.add_argument(
-        "--max-paragraphs",
+        "--max-chars",
         type=int,
-        default=1500,
-        help="Max paragraphs per output file; larger texts are split into parts (default: 1500)",
+        default=650_000,
+        help="Max characters per output file; larger texts are split into parts (default: 650000)",
     )
     parser.add_argument(
         "--no-footnotes",
@@ -96,7 +101,7 @@ def main():
     n_paragraphs = sum(len(ch["paragraphs"]) for ch in data["chapters"])
     print(f"Found {n_chapters} chapters, {n_paragraphs} paragraphs")
 
-    parts = split_parts(data, args.max_paragraphs)
+    parts = split_parts(data, args.max_chars)
 
     for part_data in parts:
         part_num = part_data["meta"].get("part")
@@ -115,7 +120,7 @@ def main():
             print(f"Wrote {md_path}")
 
     if len(parts) > 1:
-        print(f"Split into {len(parts)} parts (max {args.max_paragraphs} paragraphs each)")
+        print(f"Split into {len(parts)} parts (max {args.max_chars:,} chars each)")
 
 
 if __name__ == "__main__":
