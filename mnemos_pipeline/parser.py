@@ -1,5 +1,6 @@
 """Stage 1: HTML → Canonical JSON."""
 
+import copy
 import json
 import re
 from pathlib import Path
@@ -59,14 +60,14 @@ def _extract_footnotes(soup: BeautifulSoup) -> dict[str, str]:
         p = div.find("p")
         if not p:
             continue
-        anchor = p.find("a", id=re.compile(r"^Footnote_\d+$"))
+        anchor = p.find("a", id=re.compile(r"^Footnote_\d+(_\d+)?$"))
         if not anchor:
             continue
-        num = anchor["id"].replace("Footnote_", "")
+        fn_key = anchor["id"].replace("Footnote_", "")
         # Get full text, then strip the leading [N] label
         text = _inline_text(p).strip()
         text = re.sub(r"^\s*\[\d+\]\s*", "", text)
-        footnotes[num] = text
+        footnotes[fn_key] = text
     return footnotes
 
 
@@ -110,6 +111,9 @@ def _get_content_elements(soup: BeautifulSoup) -> list[Tag]:
         if not past_title_page:
             text_check = el.get_text(strip=True)
             if el.name in ("h2", "h3", "h4") and _content_start_re.match(text_check):
+                past_title_page = True
+            elif el.name in ("h2", "h3", "h4") and _has_anchor_id(el):
+                # Essay collections: h2 with <a id="..."> marks content start
                 past_title_page = True
             elif el.name == "div" and el.get("class") and "chapter" in el.get("class", []):
                 h_tag = el.find(["h2", "h3", "h4"])
@@ -161,9 +165,21 @@ def _get_content_elements(soup: BeautifulSoup) -> list[Tag]:
     return elements
 
 
+def _has_anchor_id(el: Tag) -> bool:
+    """Check if an element contains an <a> child with an id attribute."""
+    a_tag = el.find("a", id=True)
+    return a_tag is not None
+
+
 def _heading_text(el: Tag) -> str:
     """Extract clean text from a heading element, preserving word boundaries."""
-    text = el.get_text(" ", strip=True)
+    # Remove footnote anchors before extracting text
+    el_copy = copy.copy(el)
+    for a in el_copy.find_all("a", class_="fnanchor"):
+        a.decompose()
+    for a in el_copy.find_all("a", id=re.compile(r"^FNanchor")):
+        a.decompose()
+    text = el_copy.get_text(" ", strip=True)
     # Clean up extra spaces before punctuation added by separator
     text = re.sub(r"\s+([.,;:!?])", r"\1", text)
     text = re.sub(r"\s+", " ", text)
@@ -179,6 +195,10 @@ def _segment_chapters(elements: list[Tag], footnotes: dict[str, str]) -> list[di
     current_section = None
 
     _chap_re = re.compile(r"^(CHAPTER|CHAP\b|PREFACE|INTRODUCTION)", re.IGNORECASE)
+    _roman_re = re.compile(r"^(I{1,3}|IV|V|VI{0,3}|IX|X)$")
+    # Track essay group name and roman numeral sub-sections for essay collections
+    current_essay_group = None
+    pending_roman = None
 
     for el in elements:
         # h2 can be a Part heading (context) or a Chapter/Preface heading
@@ -188,6 +208,13 @@ def _segment_chapters(elements: list[Tag], footnotes: dict[str, str]) -> list[di
                 current_part = text
                 current_section = None
                 continue
+            # Bare roman numeral sub-section (e.g. "I", "II") — store as prefix
+            if _roman_re.match(text):
+                # First roman numeral after an essay → remember the parent name
+                if current_essay_group is None and current_chapter and current_chapter["title_parts"]:
+                    current_essay_group = current_chapter["title_parts"][-1]
+                pending_roman = text
+                continue
             if _chap_re.match(text):
                 if current_chapter:
                     chapters.append(_finalize_chapter(current_chapter, footnotes))
@@ -196,6 +223,25 @@ def _segment_chapters(elements: list[Tag], footnotes: dict[str, str]) -> list[di
                     title_parts.append(current_part)
                 if current_section:
                     title_parts.append(current_section)
+                title_parts.append(text)
+                pending_roman = None
+                current_essay_group = None
+                current_chapter = {"title_parts": title_parts, "elements": []}
+                continue
+            # Essay collections: h2 with <a id="..."> starts a new essay/chapter
+            if _has_anchor_id(el):
+                if current_chapter:
+                    chapters.append(_finalize_chapter(current_chapter, footnotes))
+                title_parts = []
+                if pending_roman:
+                    # Sub-section: prepend parent essay name and roman numeral
+                    if current_essay_group:
+                        title_parts.append(current_essay_group)
+                    title_parts.append(pending_roman)
+                    pending_roman = None
+                else:
+                    # Standalone essay — clear essay group context
+                    current_essay_group = None
                 title_parts.append(text)
                 current_chapter = {"title_parts": title_parts, "elements": []}
                 continue
@@ -333,9 +379,11 @@ def _inline_text(el: Tag) -> str:
             elif child.name == "br":
                 parts.append(" ")
             elif child.name == "a" and "fnanchor" in " ".join(child.get("class", [])):
-                # Footnote anchor — keep the reference number
-                num = child.get_text(strip=True)
-                parts.append(f"[^{num}]")
+                # Footnote anchor — extract key from href (#Footnote_N or #Footnote_N_N)
+                href = child.get("href", "")
+                fn_key = href.replace("#Footnote_", "")
+                if fn_key:
+                    parts.append(f"[^{fn_key}]")
             elif child.name == "a":
                 parts.append(_inline_text(child))
             elif child.name == "span":
@@ -359,15 +407,17 @@ def _inline_text(el: Tag) -> str:
 
 
 def _attach_footnotes(text: str, footnotes: dict[str, str]) -> str:
-    """Replace footnote markers [^N] with inline footnote text."""
+    """Replace footnote markers [^KEY] with inline footnote text."""
     def replacer(m):
-        num = m.group(1)
-        fn_text = footnotes.get(num)
+        fn_key = m.group(1)
+        fn_text = footnotes.get(fn_key)
         if fn_text:
-            return f" [{num}] {fn_text}"
+            # Display the trailing number for readability (e.g., "1_1" → "1")
+            display_num = fn_key.rsplit("_", 1)[-1] if "_" in fn_key else fn_key
+            return f" [{display_num}] {fn_text}"
         return m.group(0)
 
-    return re.sub(r"\[\^(\d+)\]", replacer, text)
+    return re.sub(r"\[\^([^\]]+)\]", replacer, text)
 
 
 def _render_table(table: Tag) -> str:

@@ -16,6 +16,9 @@ def to_markdown(data: dict) -> str:
         lines.append(f"author: \"{meta['author']}\"")
     if meta.get("gutenberg_id"):
         lines.append(f"gutenberg_id: \"{meta['gutenberg_id']}\"")
+    if meta.get("part"):
+        lines.append(f"part: {meta['part']}")
+        lines.append(f"total_parts: {meta['total_parts']}")
     lines.append("---")
     lines.append("")
 
