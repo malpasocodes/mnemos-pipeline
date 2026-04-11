@@ -89,10 +89,9 @@ def main():
         print(f"Error: {html_path} not found", file=sys.stderr)
         sys.exit(1)
 
-    out_dir = Path(args.output_dir)
-    out_dir.mkdir(parents=True, exist_ok=True)
-
     stem = args.slug or html_path.stem
+    out_dir = Path(args.output_dir) / stem
+    out_dir.mkdir(parents=True, exist_ok=True)
 
     print(f"Parsing {html_path}...")
     data = parse_html(str(html_path), no_footnotes=args.no_footnotes)
