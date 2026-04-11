@@ -10,10 +10,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ```bash
 pip3 install beautifulsoup4 lxml
-python3 -m mnemos_pipeline.cli gutenberg/pg33310-images.html -o output --slug ricardo-principles
+python3 -m mnemos_pipeline.cli gutenberg/pg33310-images.html -o output --author david-ricardo --slug principles
 ```
 
-Flags: `--slug NAME` for output filename base (e.g. `gibbon-decline-and-fall`), `--no-markdown` to skip Markdown export, `-o DIR` for output directory, `--max-chars N` to control part splitting threshold in characters (default 650000), `--no-footnotes` to strip all footnote markers and text.
+Output lands in `output/<author>/<slug>/`. Flags: `--author NAME` (required) for author folder, `--slug NAME` for work folder/filename base (defaults to HTML file stem), `--no-markdown` to skip Markdown export, `-o DIR` for root output directory, `--max-chars N` to control part splitting threshold in characters (default 650000), `--no-footnotes` to strip all footnote markers and text.
 
 ## Pipeline Architecture
 

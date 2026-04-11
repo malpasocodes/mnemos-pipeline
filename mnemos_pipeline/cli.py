@@ -79,8 +79,13 @@ def main():
         help="Strip footnote markers and discard footnote text",
     )
     parser.add_argument(
+        "--author",
+        required=True,
+        help="Author folder name (e.g. 'edward-gibbon')",
+    )
+    parser.add_argument(
         "--slug",
-        help="Base filename for output (e.g. 'gibbon-decline-and-fall'); defaults to HTML file stem",
+        help="Work folder/filename base (e.g. 'decline-and-fall'); defaults to HTML file stem",
     )
     args = parser.parse_args()
 
@@ -90,7 +95,7 @@ def main():
         sys.exit(1)
 
     stem = args.slug or html_path.stem
-    out_dir = Path(args.output_dir) / stem
+    out_dir = Path(args.output_dir) / args.author / stem
     out_dir.mkdir(parents=True, exist_ok=True)
 
     print(f"Parsing {html_path}...")
