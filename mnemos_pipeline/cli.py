@@ -69,6 +69,11 @@ def main():
         help="Max paragraphs per output file; larger texts are split into parts (default: 1500)",
     )
     parser.add_argument(
+        "--no-footnotes",
+        action="store_true",
+        help="Strip footnote markers and discard footnote text",
+    )
+    parser.add_argument(
         "--slug",
         help="Base filename for output (e.g. 'gibbon-decline-and-fall'); defaults to HTML file stem",
     )
@@ -85,7 +90,7 @@ def main():
     stem = args.slug or html_path.stem
 
     print(f"Parsing {html_path}...")
-    data = parse_html(str(html_path))
+    data = parse_html(str(html_path), no_footnotes=args.no_footnotes)
 
     n_chapters = len(data["chapters"])
     n_paragraphs = sum(len(ch["paragraphs"]) for ch in data["chapters"])

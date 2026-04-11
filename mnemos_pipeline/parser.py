@@ -8,15 +8,21 @@ from pathlib import Path
 from bs4 import BeautifulSoup, Comment, NavigableString, Tag
 
 
-def parse_html(html_path: str) -> dict:
+def parse_html(html_path: str, *, no_footnotes: bool = False) -> dict:
     """Parse a Gutenberg HTML file into canonical JSON."""
     html = Path(html_path).read_text(encoding="utf-8")
     soup = BeautifulSoup(html, "lxml")
 
     meta = _extract_metadata(soup)
-    footnotes = _extract_footnotes(soup)
+    footnotes = {} if no_footnotes else _extract_footnotes(soup)
     content_elements = _get_content_elements(soup)
     chapters = _segment_chapters(content_elements, footnotes)
+
+    if no_footnotes:
+        # Strip any remaining footnote markers [^key]
+        for ch in chapters:
+            for p in ch["paragraphs"]:
+                p["text"] = re.sub(r"\s*\[\^[^\]]+\]", "", p["text"]).strip()
 
     return {"meta": meta, "chapters": chapters}
 
