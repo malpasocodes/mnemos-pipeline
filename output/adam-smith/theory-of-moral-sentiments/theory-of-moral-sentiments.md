@@ -4,6 +4,10 @@ author: "Virginia Woolf"
 gutenberg_id: "64457"
 ---
 
+## Untitled
+
+The Common Reader The Pastons and Chaucer On Not Knowing Greek The Elizabethan Lumber Room Notes on an Elizabethan Play Montaigne The Duchess of Newcastle Rambling Round Evelyn Defoe Addison The Lives of the Obscure I. The Taylors and the Edgeworths II. Laetitia Pilkington III. Miss Ormerod Jane Austen Modern Fiction "Jane Eyre" and "Wuthering Heights" George Eliot The Russian Point of View Outlines— I. Miss Mitford II. Dr. Bentley III. Lady Dorothy Nevill IV. Archbishop Thomson The Patron and the Crocus The Modern Essay Joseph Conrad How It Strikes a Contemporary
+
 ## The Common Reader
 
 There is a sentence in Dr. Johnson's Life of Gray which might well be written up in all those rooms, too humble to be called libraries, yet full of books, where the pursuit of reading is carried on by private people. ". . . I rejoice to concur with the common reader; for by the common sense of readers, uncorrupted by literary prejudices, after all the refinements of subtilty and the dogmatism of learning, must be finally decided all claim to poetical honours." It defines their qualities; it dignifies their aims; it bestows upon a pursuit which devours a great deal of time, and is yet apt to leave behind it nothing very substantial, the sanction of the great man's approval.

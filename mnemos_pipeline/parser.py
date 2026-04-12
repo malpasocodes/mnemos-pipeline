@@ -134,37 +134,43 @@ def _get_content_elements(soup: BeautifulSoup) -> list[Tag]:
 
         # Skip title page and TOC (before first content heading)
         _content_start_re = re.compile(
-            r"^(PREFACE|CHAP\b|CHAPTER\b|INTRODUCTION|PART\b|SECTION\b)", re.IGNORECASE
+            r"^(PREFACE|CHAP\b|CHAPTER|INTRODUCTION|PART\b|SECTION\b)", re.IGNORECASE
         )
         if not past_title_page:
             text_check = el.get_text(strip=True)
-            if el.name in ("h2", "h3", "h4") and _content_start_re.match(text_check):
+            if el.name in ("h1", "h2", "h3", "h4") and _content_start_re.match(text_check):
                 past_title_page = True
             elif el.name in ("h2", "h3", "h4") and _has_anchor_id(el):
                 # Essay collections: h2 with <a id="..."> marks content start
                 past_title_page = True
-            elif el.name == "div" and el.get("class") and "chapter" in el.get("class", []):
-                h_tag = el.find(["h2", "h3", "h4"])
+            elif el.name == "div":
+                h_tag = el.find(["h1", "h2", "h3", "h4"])
                 if h_tag and _content_start_re.match(h_tag.get_text(strip=True)):
                     past_title_page = True
+                elif el.get("class") and "chapter" in el.get("class", []):
+                    continue
                 else:
                     continue
+            # No heading found yet — if this is a plain <p>, assume we're
+            # past front matter (handles novels with no chapter headings)
+            elif el.name == "p" and not el.get("class"):
+                past_title_page = True
             else:
                 continue
 
         # Stop at excluded back-matter sections
         heading_text = ""
-        if el.name in ("h2", "h3", "h4", "h5"):
+        if el.name in ("h1", "h2", "h3", "h4", "h5"):
             heading_text = el.get_text(strip=True).upper()
-        elif el.name == "div" and el.get("class") and "chapter" in el.get("class", []):
-            h_tag = el.find(["h2", "h3", "h4"])
+        elif el.name == "div":
+            h_tag = el.find(["h1", "h2", "h3", "h4"])
             if h_tag:
                 heading_text = h_tag.get_text(strip=True).upper()
         if heading_text:
             if heading_text in ("CONTENTS.", "ERRATA.", "INDEX.", "NEW PUBLICATIONS."):
                 in_excluded_section = True
                 continue
-            if heading_text == "THE END.":
+            if heading_text in ("THE END.", "TRANSCRIBER'S NOTES"):
                 in_excluded_section = True
                 continue
             if re.match(r"^(CHAPTER|CHAP\b|PREFACE|INTRODUCTION|PART\b|SECTION\b)", heading_text):
@@ -181,7 +187,7 @@ def _get_content_elements(soup: BeautifulSoup) -> list[Tag]:
 
         # Unwrap div containers that hold structural headings (Part, Section, Chapter)
         if el.name == "div":
-            has_heading = el.find(["h2", "h3", "h4"])
+            has_heading = el.find(["h1", "h2", "h3", "h4"])
             if has_heading:
                 for child in el.children:
                     if isinstance(child, Tag):
@@ -229,6 +235,19 @@ def _segment_chapters(elements: list[Tag], footnotes: dict[str, str]) -> list[di
     pending_roman = None
 
     for el in elements:
+        # h1 can be a Chapter heading (e.g. Hemingway)
+        if el.name == "h1":
+            text = _heading_text(el)
+            if _chap_re.match(text):
+                if current_chapter:
+                    chapters.append(_finalize_chapter(current_chapter, footnotes))
+                title_parts = []
+                if current_part:
+                    title_parts.append(current_part)
+                title_parts.append(text)
+                current_chapter = {"title_parts": title_parts, "elements": []}
+                continue
+
         # h2 can be a Part heading (context) or a Chapter/Preface heading
         if el.name == "h2":
             text = _heading_text(el)
@@ -330,8 +349,11 @@ def _segment_chapters(elements: list[Tag], footnotes: dict[str, str]) -> list[di
         if el.name == "hr" and current_chapter and not current_chapter["elements"]:
             continue
 
-        if current_chapter is not None:
-            current_chapter["elements"].append(el)
+        if current_chapter is None:
+            # No chapter heading seen yet — start a default chapter (e.g.
+            # stream-of-consciousness novels with no chapter divisions)
+            current_chapter = {"title_parts": [], "elements": []}
+        current_chapter["elements"].append(el)
 
     if current_chapter:
         chapters.append(_finalize_chapter(current_chapter, footnotes))

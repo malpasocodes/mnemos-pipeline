@@ -6,6 +6,738 @@ part: 1
 total_parts: 11
 ---
 
+## Untitled
+
+There are two Project Gutenberg sets produced by David Reed of the complete “History Of The Decline And Fall Of The Roman Empire” by Edward Gibbon: the 1996 edition (PG #731-736) has the advantage of including all the foonotes by Gibbon and others; the 1997 edition (PG #890-895) was provided at that time only in html format and footnotes were not included in the first five volumes of this set.
+
+Project Gutenberg files #731-736 in the utf-8 charset are the basis of the present complete edition, #25717.
+
+David Reed’s note in the original Project Gutenberg 1997 edition: I want to make this the best etext edition possible for both scholars and the general public and would like to thank those who have helped in making this text better. Especially Dale R. Fredrickson who has hand entered the Greek characters in the footnotes and who has suggested retaining the conjoined ae character in the text.
+
+A set in my library of the first original First American Edition of 1836 was used as a reference for the many questions which came up during the re-proofing and renovation of the 1996 and 1997 Project Gutenberg editions. Images of spines, front-leaf, frontispiece, and the titlepage of the 1836 set are inserted below along with the two large fold out maps.
+
+Full Size Original Archive Full Size Original Archive  Full Size Original Archive Full Size Original Archive
+
+Full Size Original Archive Full Size Original Archive  Full Size Original Archive Full Size Original Archive
+
+Introduction
+
+Preface By The Editor.
+
+Preface Of The Author.
+
+Preface To The First Volume.
+
+Preface To The Fourth Volume Of The Original Quarto Edition.
+
+Chapter I: The Extent Of The Empire In The Age Of The Antonines—Part I.
+
+The Extent And Military Force Of The Empire In The Age Of The Antonines.
+
+Chapter I: The Extent Of The Empire In The Age Of The Antonines.—Part II.
+
+Chapter I: The Extent Of The Empire In The Age Of The Antonines.—Part III.
+
+Chapter II: The Internal Prosperity In The Age Of The Antonines.—Part I.
+
+Of The Union And Internal Prosperity Of The Roman Empire, In The Age Of The Antonines.
+
+Chapter II: The Internal Prosperity In The Age Of The Antonines.—Part II.
+
+Chapter II: The Internal Prosperity In The Age Of The Antonines.—Part III.
+
+Chapter II: The Internal Prosperity In The Age Of The Antonines. Part IV.
+
+Chapter III: The Constitution In The Age Of The Antonines.—Part I.
+
+Of The Constitution Of The Roman Empire, In The Age Of The Antonines.
+
+Chapter III: The Constitution In The Age Of The Antonines.—Part II.
+
+Chapter IV: The Cruelty, Follies And Murder Of Commodus.—Part I.
+
+The Cruelty, Follies, And Murder Of Commodus—Election Of Pertinax—His Attempts To Reform The State—His Assassination By The Prætorian Guards.
+
+Chapter IV: The Cruelty, Follies And Murder Of Commodus.—Part II.
+
+Chapter V: Sale Of The Empire To Didius Julianus.—Part I.
+
+Public Sale Of The Empire To Didius Julianus By The Prætorian Guards—Clodius Albinus In Britain, Pescennius Niger In Syria, And Septimius Severus In Pannonia, Declare Against The Murderers Of Pertinax—Civil Wars And Victory Of Severus Over His Three Rivals—Relaxation Of Discipline—New Maxims Of Government.
+
+Chapter V: Sale Of The Empire To Didius Julianus.—Part II.
+
+Chapter VI: Death Of Severus, Tyranny Of Caracalla, Usurpation Of Macrinus.—Part I.
+
+The Death Of Severus.—Tyranny Of Caracalla.—Usurpation Of Macrinus.—Follies Of Elagabalus.—Virtues Of Alexander Severus.—Licentiousness Of The Army.—General State Of The Roman Finances.
+
+Chapter VI: Death Of Severus, Tyranny Of Caracalla, Usurpation Of Macrinus.—Part II.
+
+Chapter VI: Death Of Severus, Tyranny Of Caracalla, Usurpation Of Macrinus.—Part III.
+
+Chapter VI: Death Of Severus, Tyranny Of Caracalla, Usurpation Of Macrinus.—Part IV.
+
+Chapter VII: Tyranny Of Maximin, Rebellion, Civil Wars, Death Of Maximin.—Part I.
+
+The Elevation And Tyranny Of Maximin.—Rebellion In Africa And Italy, Under The Authority Of The Senate.—Civil Wars And Seditions.—Violent Deaths Of Maximin And His Son, Of Maximus And Balbinus, And Of The Three Gordians.— Usurpation And Secular Games Of Philip.
+
+Chapter VII: Tyranny Of Maximin, Rebellion, Civil Wars, Death Of Maximin.—Part II.
+
+Chapter VII: Tyranny Of Maximin, Rebellion, Civil Wars, Death Of Maximin.—Part III.
+
+Chapter VIII: State Of Persion And Restoration Of The Monarchy.—Part I.
+
+Of The State Of Persia After The Restoration Of The Monarchy By Artaxerxes.
+
+Chapter VIII: State Of Persion And Restoration Of The Monarchy.—Part II.
+
+Chapter IX: State Of Germany Until The Barbarians.—Part I.
+
+The State Of Germany Till The Invasion Of The Barbarians In The Time Of The Emperor Decius.
+
+Chapter IX: State Of Germany Until The Barbarians.—Part II.
+
+Chapter IX: State Of Germany Until The Barbarians.—Part III.
+
+Chapter X: Emperors Decius, Gallus, Æmilianus, Valerian And Gallienus—Part I.
+
+The Emperors Decius, Gallus, Æmilianus, Valerian, And Gallienus.—The General Irruption Of The Barbarians.—The Thirty Tyrants.
+
+Chapter X: Emperors Decius, Gallus, Æmilianus, Valerian And Gallienus.—Part II.
+
+Chapter X: Emperors Decius, Gallus, Æmilianus, Valerian And Gallienus.—Part III.
+
+Chapter X: Emperors Decius, Gallus, Æmilianus, Valerian And Gallienus.—Part IV.
+
+Chapter XI: Reign Of Claudius, Defeat Of The Goths.—Part I.
+
+Reign Of Claudius.—Defeat Of The Goths.—Victories, Triumph, And Death Of Aurelian.
+
+Chapter XI: Reign Of Claudius, Defeat Of The Goths.—Part II.
+
+Chapter XI: Reign Of Claudius, Defeat Of The Goths.—Part III.
+
+Chapter XII: Reigns Of Tacitus, Probus, Carus And His Sons.—Part I.
+
+Conduct Of The Army And Senate After The Death Of Aurelian. —Reigns Of Tacitus, Probus, Carus, And His Sons.
+
+Chapter XII: Reigns Of Tacitus, Probus, Carus And His Sons.—Part II.
+
+Chapter XII: Reigns Of Tacitus, Probus, Carus And His Sons.—Part III.
+
+Chapter XIII: Reign Of Diocletian And His Three Associates.—Part I.
+
+The Reign Of Diocletian And His Three Associates, Maximian, Galerius, And Constantius.—General Reestablishment Of Order And Tranquillity.—The Persian War, Victory, And Triumph.—The New Form Of Administration.—Abdication And Retirement Of Diocletian And Maximian.
+
+Chapter XIII: Reign Of Diocletian And His Three Associates.—Part II.
+
+Chapter XIII: Reign Of Diocletian And His Three Associates.—Part III.
+
+Chapter XIII: Reign Of Diocletian And His Three Associates.—Part IV.
+
+Chapter XIV: Six Emperors At The Same Time, Reunion Of The Empire.—Part I.
+
+Troubles After The Abdication Of Diocletian.—Death Of Constantius.—Elevation Of Constantine And Maxentius.— Six Emperors At The Same Time.—Death Of Maximian And Galerius.—Victories Of Constantine Over Maxentius And Licinus.—Reunion Of The Empire Under The Authority Of Constantine.
+
+Chapter XIV: Six Emperors At The Same Time, Reunion Of The Empire.—Part II.
+
+Chapter XIV: Six Emperors At The Same Time, Reunion Of The Empire.—Part III.
+
+Chapter XIV: Six Emperors At The Same Time, Reunion Of The Empire.—Part IV.
+
+Chapter XV: Progress Of The Christian Religion.—Part I.
+
+The Progress Of The Christian Religion, And The Sentiments, Manners, Numbers, And Condition Of The Primitive Christians.
+
+Chapter XV: Progress Of The Christian Religion.—Part II.
+
+Chapter XV: Progress Of The Christian Religion.—Part III.
+
+Chapter XV: Progress Of The Christian Religion.—Part IV.
+
+Chapter XV: Progress Of The Christian Religion.—Part V.
+
+Chapter XV: Progress Of The Christian Religion.—Part VI.
+
+Chapter XV: Progress Of The Christian Religion.—Part VII
+
+Chapter XV: Progress Of The Christian Religion.—Part VIII.
+
+Chapter XV: Progress Of The Christian Religion.—Part IX.
+
+Chapter XVI: Conduct Towards The Christians, From Nero To Constantine.—Part I.
+
+The Conduct Of The Roman Government Towards The Christians, From The Reign Of Nero To That Of Constantine.
+
+Chapter XVI: Conduct Towards The Christians, From Nero To Constantine.—Part II.
+
+Chapter XVI: Conduct Towards The Christians, From Nero To Constantine.—Part III.
+
+Chapter XVI: Conduct Towards The Christians, From Nero To Constantine.—Part IV.
+
+Chapter XVI: Conduct Towards The Christians, From Nero To Constantine.—Part V.
+
+Chapter XVI: Conduct Towards The Christians, From Nero To Constantine.—Part VI.
+
+Chapter XVI: Conduct Towards The Christians, From Nero To Constantine.—Part VII.
+
+Chapter XVI: Conduct Towards The Christians, From Nero To Constantine.—Part VIII.
+
+Chapter XVII: Foundation Of Constantinople.—Part I.
+
+Foundation Of Constantinople.—Political System Constantine, And His Successors.—Military Discipline.—The Palace.—The Finances.
+
+Chapter XVII: Foundation Of Constantinople.—Part II.
+
+Chapter XVII: Foundation Of Constantinople.—Part III.
+
+Chapter XVII: Foundation Of Constantinople.—Part IV.
+
+Chapter XVII: Foundation Of Constantinople.—Part V.
+
+Chapter XVII: Foundation Of Constantinople.—Part VI.
+
+Chapter XVIII: Character Of Constantine And His Sons.—Part I.
+
+Character Of Constantine.—Gothic War.—Death Of Constantine.—Division Of The Empire Among His Three Sons.— Persian War.—Tragic Deaths Of Constantine The Younger And Constans.—Usurpation Of Magnentius.—Civil War.—Victory Of Constantius.
+
+Chapter XVIII: Character Of Constantine And His Sons.—Part II.
+
+Chapter XVIII: Character Of Constantine And His Sons.—Part III.
+
+Chapter XVIII: Character Of Constantine And His Sons.—Part IV.
+
+Chapter XIX: Constantius Sole Emperor.—Part I.
+
+Constantius Sole Emperor.—Elevation And Death Of Gallus.— Danger And Elevation Of Julian.—Sarmatian And Persian Wars.—Victories Of Julian In Gaul.
+
+Chapter XIX: Constantius Sole Emperor.—Part II.
+
+Chapter XIX: Constantius Sole Emperor.—Part III.
+
+Chapter XIX: Constantius Sole Emperor.—Part IV.
+
+Chapter XX: Conversion Of Constantine.—Part I.
+
+The Motives, Progress, And Effects Of The Conversion Of Constantine.—Legal Establishment And Constitution Of The Christian Or Catholic Church.
+
+Chapter XX: Conversion Of Constantine.—Part II.
+
+Chapter XX: Conversion Of Constantine.—Part III.
+
+Chapter XX: Conversion Of Constantine.—Part IV.
+
+Chapter XXI: Persecution Of Heresy, State Of The Church.—Part I.
+
+Persecution Of Heresy.—The Schism Of The Donatists.—The Arian Controversy.—Athanasius.—Distracted State Of The Church And Empire Under Constantine And His Sons.— Toleration Of Paganism.
+
+Chapter XXI: Persecution Of Heresy, State Of The Church.—Part II.
+
+Chapter XXI: Persecution Of Heresy, State Of The Church.—Part III.
+
+Chapter XXI: Persecution Of Heresy, State Of The Church.—Part IV.
+
+Chapter XXI: Persecution Of Heresy, State Of The Church.—Part V.
+
+Chapter XXI: Persecution Of Heresy, State Of The Church.—Part VI.
+
+Chapter XXI: Persecution Of Heresy, State Of The Church.—Part VII.
+
+Chapter XXII: Julian Declared Emperor.—Part I.
+
+Julian Is Declared Emperor By The Legions Of Gaul.—His March And Success.—The Death Of Constantius.—Civil Administration Of Julian.
+
+Chapter XXII: Julian Declared Emperor.—Part II.
+
+Chapter XXII: Julian Declared Emperor.—Part III.
+
+Chapter XXII: Julian Declared Emperor.—Part IV.
+
+Chapter XXIII: Reign Of Julian.—Part I.
+
+The Religion Of Julian.—Universal Toleration.—He Attempts To Restore And Reform The Pagan Worship—To Rebuild The Temple Of Jerusalem—His Artful Persecution Of The Christians.—Mutual Zeal And Injustice.
+
+Chapter XXIII: Reign Of Julian.—Part II.
+
+Chapter XXIII: Reign Of Julian.—Part III.
+
+Chapter XXIII: Reign Of Julian.—Part IV.
+
+Chapter XXIII: Reign Of Julian.—Part V.
+
+Chapter XXIV: The Retreat And Death Of Julian.—Part I.
+
+Residence Of Julian At Antioch.—His Successful Expedition Against The Persians.—Passage Of The Tigris—The Retreat And Death Of Julian.—Election Of Jovian.—He Saves The Roman Army By A Disgraceful Treaty.
+
+Chapter XXIV: The Retreat And Death Of Julian.—Part II.
+
+Chapter XXIV: The Retreat And Death Of Julian.—Part III.
+
+Chapter XXIV: The Retreat And Death Of Julian.—Part IV.
+
+Chapter XXIV: The Retreat And Death Of Julian.—Part V.
+
+Chapter XXV: Reigns Of Jovian And Valentinian, Division Of The Empire.—Part I.
+
+The Government And Death Of Jovian.—Election Of Valentinian, Who Associates His Brother Valens, And Makes The Final Division Of The Eastern And Western Empires.— Revolt Of Procopius.—Civil And Ecclesiastical Administration.—Germany.—Britain.—Africa.—The East.— The Danube.—Death Of Valentinian.—His Two Sons, Gratian And Valentinian II., Succeed To The Western Empire.
+
+Chapter XXV: Reigns Of Jovian And Valentinian, Division Of The Empire.—Part II.
+
+Chapter XXV: Reigns Of Jovian And Valentinian, Division Of The Empire.—Part III.
+
+Chapter XXV: Reigns Of Jovian And Valentinian, Division Of The Empire.—Part IV.
+
+Chapter XXV: Reigns Of Jovian And Valentinian, Division Of The Empire.—Part V.
+
+Chapter XXV: Reigns Of Jovian And Valentinian, Division Of The Empire.—Part VI.
+
+Chapter XXV: Reigns Of Jovian And Valentinian, Division Of The Empire.—Part VII.
+
+Chapter XXVI: Progress of The Huns.—Part I.
+
+Manners Of The Pastoral Nations.—Progress Of The Huns, From China To Europe.—Flight Of The Goths.—They Pass The Danube.—Gothic War.—Defeat And Death Of Valens.—Gratian Invests Theodosius With The Eastern Empire.—His Character And Success.—Peace And Settlement Of The Goths.
+
+Chapter XXVI: Progress of The Huns.—Part II.
+
+Chapter XXVI: Progress of The Huns.—Part III.
+
+Chapter XXVI: Progress of The Huns.—Part IV.
+
+Chapter XXVI: Progress of The Huns.—Part V.
+
+Chapter XXVII: Civil Wars, Reign Of Theodosius.—Part I.
+
+Death Of Gratian.—Ruin Of Arianism.—St. Ambrose.—First Civil War, Against Maximus.—Character, Administration, And Penance Of Theodosius.—Death Of Valentinian II.—Second Civil War, Against Eugenius.—Death Of Theodosius.
+
+Chapter XXVII: Civil Wars, Reign Of Theodosius.—Part II.
+
+Chapter XXVII: Civil Wars, Reign Of Theodosius.—Part III.
+
+Chapter XXVII: Civil Wars, Reign Of Theodosius.—Part IV.
+
+Chapter XXVII: Civil Wars, Reign Of Theodosius.—Part V.
+
+Chapter XXVIII: Destruction Of Paganism.—Part I.
+
+Final Destruction Of Paganism.—Introduction Of The Worship Of Saints, And Relics, Among The Christians.
+
+Chapter XXVIII: Destruction Of Paganism.—Part II.
+
+Chapter XXVIII: Destruction Of Paganism.—Part III.
+
+Chapter XXIX: Division Of Roman Empire Between Sons Of Theodosius.—Part I.
+
+Final Division Of The Roman Empire Between The Sons Of Theodosius.—Reign Of Arcadius And Honorius—Administration Of Rufinus And Stilicho.—Revolt And Defeat Of Gildo In Africa.
+
+Chapter XXIX: Division Of Roman Empire Between Sons Of Theodosius.—Part II.
+
+Chapter XXX: Revolt Of The Goths.—Part I.
+
+Revolt Of The Goths.—They Plunder Greece.—Two Great Invasions Of Italy By Alaric And Radagaisus.—They Are Repulsed By Stilicho.—The Germans Overrun Gaul.—Usurpation Of Constantine In The West.—Disgrace And Death Of Stilicho.
+
+Chapter XXX: Revolt Of The Goths.—Part II.
+
+Chapter XXX: Revolt Of The Goths.—Part III.
+
+Chapter XXX: Revolt Of The Goths.—Part IV.
+
+Chapter XXX: Revolt Of The Goths.—Part V.
+
+Chapter XXXI: Invasion Of Italy, Occupation Of Territories By Barbarians.—Part I.
+
+Invasion Of Italy By Alaric.—Manners Of The Roman Senate And People.—Rome Is Thrice Besieged, And At Length Pillaged, By The Goths.—Death Of Alaric.—The Goths Evacuate Italy.—Fall Of Constantine.—Gaul And Spain Are Occupied By The Barbarians. —Independence Of Britain.
+
+Chapter XXXI: Invasion Of Italy, Occupation Of Territories By Barbarians.—Part II.
+
+Chapter XXXI: Invasion Of Italy, Occupation Of Territories By Barbarians.—Part III.
+
+Chapter XXXI: Invasion Of Italy, Occupation Of Territories By Barbarians.—Part IV.
+
+Chapter XXXI: Invasion Of Italy, Occupation Of Territories By Barbarians.—Part V.
+
+Chapter XXXI: Invasion Of Italy, Occupation Of Territories By Barbarians.—Part VI.
+
+Chapter XXXI: Invasion Of Italy, Occupation Of Territories By Barbarians.—Part VII.
+
+Chapter XXXII: Emperors Arcadius, Eutropius, Theodosius II.—Part I.
+
+Arcadius Emperor Of The East.—Administration And Disgrace Of Eutropius.—Revolt Of Gainas.—Persecution Of St. John Chrysostom.—Theodosius II. Emperor Of The East.—His Sister Pulcheria.—His Wife Eudocia.—The Persian War, And Division Of Armenia.
+
+Chapter XXXII: Emperors Arcadius, Eutropius, Theodosius II.—Part II.
+
+Chapter XXXII: Emperors Arcadius, Eutropius, Theodosius II.—Part III.
+
+Chapter XXXIII: Conquest Of Africa By The Vandals.—Part I.
+
+Death Of Honorius.—Valentinian III.—Emperor Of The East. —Administration Of His Mother Placidia—Aetius And Boniface.—Conquest Of Africa By The Vandals.
+
+Chapter XXXIII: Conquest Of Africa By The Vandals.—Part II.
+
+Chapter XXXIV: Attila.—Part I.
+
+The Character, Conquests, And Court Of Attila, King Of The Huns.—Death Of Theodosius The Younger.—Elevation Of Marcian To The Empire Of The East.
+
+Chapter XXXIV: Attila.—Part II.
+
+Chapter XXXIV: Attila.—Part III.
+
+Chapter XXXV: Invasion By Attila.—Part I.
+
+Invasion Of Gaul By Attila.—He Is Repulsed By Aetius And The Visigoths.—Attila Invades And Evacuates Italy.—The Deaths Of Attila, Aetius, And Valentinian The Third.
+
+Chapter XXXV: Invasion By Attila.—Part II.
+
+Chapter XXXV: Invasion By Attila.—Part III.
+
+Chapter XXXVI: Total Extinction Of The Western Empire.—Part I.
+
+Sack Of Rome By Genseric, King Of The Vandals.—His Naval Depredations.—Succession Of The Last Emperors Of The West, Maximus, Avitus, Majorian, Severus, Anthemius, Olybrius, Glycerius, Nepos, Augustulus.—Total Extinction Of The Western Empire.—Reign Of Odoacer, The First Barbarian King Of Italy.
+
+Chapter XXXVI: Total Extinction Of The Western Empire.—Part II.
+
+Chapter XXXVI: Total Extinction Of The Western Empire.—Part III.
+
+Chapter XXXVI: Total Extinction Of The Western Empire.—Part IV.
+
+Chapter XXXVI: Total Extinction Of The Western Empire.—Part V.
+
+Chapter XXXVII: Conversion Of The Barbarians To Christianity.—Part I.
+
+Origin Progress, And Effects Of The Monastic Life.— Conversion Of The Barbarians To Christianity And Arianism.— Persecution Of The Vandals In Africa.—Extinction Of Arianism Among The Barbarians.
+
+Chapter XXXVII: Conversion Of The Barbarians To Christianity.—Part II.
+
+Chapter XXXVII: Conversion Of The Barbarians To Christianity.—Part III.
+
+Chapter XXXVII: Conversion Of The Barbarians To Christianity.—Part IV.
+
+Chapter XXXVIII: Reign Of Clovis.—Part I.
+
+Reign And Conversion Of Clovis.—His Victories Over The Alemanni, Burgundians, And Visigoths.—Establishment Of The French Monarchy In Gaul.—Laws Of The Barbarians.—State Of The Romans.—The Visigoths Of Spain.—Conquest Of Britain By The Saxons.
+
+Chapter XXXVIII: Reign Of Clovis.—Part II.
+
+Chapter XXXVIII: Reign Of Clovis.—Part III.
+
+Chapter XXXVIII: Reign Of Clovis.—Part IV.
+
+Chapter XXXVIII: Reign Of Clovis.—Part V.
+
+Chapter XXXVIII: Reign Of Clovis.—Part VI.
+
+Chapter XXXIX: Gothic Kingdom Of Italy.—Part I.
+
+Zeno And Anastasius, Emperors Of The East.—Birth, Education, And First Exploits Of Theodoric The Ostrogoth.— His Invasion And Conquest Of Italy.—The Gothic Kingdom Of Italy.—State Of The West.—Military And Civil Government.— The Senator Boethius.—Last Acts And Death Of Theodoric.
+
+Chapter XXXIX: Gothic Kingdom Of Italy.—Part II.
+
+Chapter XXXIX: Gothic Kingdom Of Italy.—Part III.
+
+Chapter XL: Reign Of Justinian.—Part I.
+
+Elevation Of Justin The Elder.—Reign Of Justinian.—I. The Empress Theodora.—II. Factions Of The Circus, And Sedition Of Constantinople.—III. Trade And Manufacture Of Silk.— IV. Finances And Taxes.—V. Edifices Of Justinian.—Church Of St. Sophia.—Fortifications And Frontiers Of The Eastern Empire.—Abolition Of The Schools Of Athens, And The Consulship Of Rome.
+
+Chapter XL: Reign Of Justinian.—Part II.
+
+Chapter XL: Reign Of Justinian.—Part III.
+
+Chapter XL: Reign Of Justinian.—Part IV.
+
+Chapter XL: Reign Of Justinian.—Part V.
+
+Chapter XLI: Conquests Of Justinian, Character Of Balisarius.—Part I.
+
+Conquests Of Justinian In The West.—Character And First Campaigns Of Belisarius—He Invades And Subdues The Vandal Kingdom Of Africa—His Triumph.—The Gothic War.—He Recovers Sicily, Naples, And Rome.—Siege Of Rome By The Goths.—Their Retreat And Losses.—Surrender Of Ravenna.— Glory Of Belisarius.—His Domestic Shame And Misfortunes.
+
+Chapter XLI: Conquests Of Justinian, Character Of Balisarius.—Part II.
+
+Chapter XLI: Conquests Of Justinian, Character Of Balisarius.—Part III.
+
+Chapter XLI: Conquests Of Justinian, Character Of Balisarius.—Part IV.
+
+Chapter XLI: Conquests Of Justinian, Character Of Balisarius.—Part V.
+
+Chapter XLII: State Of The Barbaric World.—Part I.
+
+State Of The Barbaric World.—Establishment Of The Lombards On the Danube.—Tribes And Inroads Of The Sclavonians.— Origin, Empire, And Embassies Of The Turks.—The Flight Of The Avars.—Chosroes I, Or Nushirvan, King Of Persia.—His Prosperous Reign And Wars With The Romans.—The Colchian Or Lazic War.—The Æthiopians.
+
+Chapter XLII: State Of The Barbaric World.—Part II.
+
+Chapter XLII: State Of The Barbaric World.—Part III.
+
+Chapter XLII: State Of The Barbaric World.—Part IV.
+
+Chapter XLIII: Last Victory And Death Of Belisarius, Death Of Justinian.—Part I.
+
+Rebellions Of Africa.—Restoration Of The Gothic Kingdom By Totila.—Loss And Recovery Of Rome.—Final Conquest Of Italy By Narses.—Extinction Of The Ostrogoths.—Defeat Of The Franks And Alemanni.—Last Victory, Disgrace, And Death Of Belisarius.—Death And Character Of Justinian.—Comet, Earthquakes, And Plague.
+
+Chapter XLIII: Last Victory And Death Of Belisarius, Death OF Justinian.—Part II.
+
+Chapter XLIII: Last Victory And Death Of Belisarius, Death Of Justinian.—Part III.
+
+Chapter XLIII: Last Victory And Death Of Belisarius, Death Of Justinian.—Part IV.
+
+Chapter XLIV: Idea Of The Roman Jurisprudence.—Part I.
+
+Idea Of The Roman Jurisprudence.—The Laws Of The Kings—The Twelve Of The Decemvirs.—The Laws Of The People.—The Decrees Of The Senate.—The Edicts Of The Magistrates And Emperors—Authority Of The Civilians.—Code, Pandects, Novels, And Institutes Of Justinian:—I. Rights Of Persons.—II. Rights Of Things.—III. Private Injuries And Actions.—IV. Crimes And Punishments.
+
+Chapter XLIV: Idea Of The Roman Jurisprudence.—Part II.
+
+Chapter XLIV: Idea Of The Roman Jurisprudence.—Part III.
+
+Chapter XLIV: Idea Of The Roman Jurisprudence.—Part IV.
+
+Chapter XLIV: Idea Of The Roman Jurisprudence.—Part V.
+
+Chapter XLIV: Idea Of The Roman Jurisprudence.—Part VI.
+
+Chapter XLIV: Idea Of The Roman Jurisprudence.—Part VII.
+
+Chapter XLIV: Idea Of The Roman Jurisprudence.—Part VIII.
+
+Chapter XLV: State Of Italy Under The Lombards.—Part I.
+
+Reign Of The Younger Justin.—Embassy Of The Avars.—Their Settlement On The Danube.—Conquest Of Italy By The Lombards.—Adoption And Reign Of Tiberius.—Of Maurice.— State Of Italy Under The Lombards And The Exarchs.—Of Ravenna.—Distress Of Rome.—Character And Pontificate Of Gregory The First.
+
+Chapter XLV: State Of Italy Under The Lombards.—Part II.
+
+Chapter XLV: State Of Italy Under The Lombards.—Part III.
+
+Chapter XLVI: Troubles In Persia.—Part I.
+
+Revolutions On Persia After The Death Of Chosroes On Nushirvan.—His Son Hormouz, A Tyrant, Is Deposed.— Usurpation Of Baharam.—Flight And Restoration Of Chosroes II.—His Gratitude To The Romans.—The Chagan Of The Avars.— Revolt Of The Army Against Maurice.—His Death.—Tyranny Of Phocas.—Elevation Of Heraclius.—The Persian War.—Chosroes Subdues Syria, Egypt, And Asia Minor.—Siege Of Constantinople By The Persians And Avars.—Persian Expeditions.—Victories And Triumph Of Heraclius.
+
+Chapter XLVI: Troubles In Persia.—Part II.
+
+Chapter XLVI: Troubles In Persia.—Part III.
+
+Chapter XLVI: Troubles In Persia.—Part IV.
+
+Chapter XLVII: Ecclesiastical Discord.—Part I.
+
+Theological History Of The Doctrine Of The Incarnation.—The Human And Divine Nature Of Christ.—Enmity Of The Patriarchs Of Alexandria And Constantinople.—St. Cyril And Nestorius. —Third General Council Of Ephesus.—Heresy Of Eutyches.— Fourth General Council Of Chalcedon.—Civil And Ecclesiastical Discord.—Intolerance Of Justinian.—The Three Chapters.—The Monothelite Controversy.—State Of The Oriental Sects:—I. The Nestorians.—II. The Jacobites.— III. The Maronites.—IV. The Armenians.—V. The Copts And Abyssinians.
+
+Chapter XLVII: Ecclesiastical Discord.—Part II.
+
+Chapter XLVII: Ecclesiastical Discord.—Part III.
+
+Chapter XLVII: Ecclesiastical Discord.—Part IV.
+
+Chapter XLVII: Ecclesiastical Discord.—Part V.
+
+Chapter XLVII: Ecclesiastical Discord.—Part VI.
+
+Chapter XLVIII: Succession And Characters Of The Greek Emperors.—Part I.
+
+Plan Of The Two Last Volumes.—Succession And Characters Of The Greek Emperors Of Constantinople, From The Time Of Heraclius To The Latin Conquest.
+
+Chapter XLVIII: Succession And Characters Of The Greek Emperors.—Part II.
+
+Chapter XLVIII: Succession And Characters Of The Greek Emperors.—Part III.
+
+Chapter XLVIII: Succession And Characters Of The Greek Emperors.—Part IV.
+
+Chapter XLVIII: Succession And Characters Of The Greek Emperors.—Part V.
+
+Chapter XLIX: Conquest Of Italy By The Franks.—Part I.
+
+Introduction, Worship, And Persecution Of Images.—Revolt Of Italy And Rome.—Temporal Dominion Of The Popes.—Conquest Of Italy By The Franks.—Establishment Of Images.—Character And Coronation Of Charlemagne.—Restoration And Decay Of The Roman Empire In The West.—Independence Of Italy.— Constitution Of The Germanic Body.
+
+Chapter XLIX: Conquest Of Italy By The Franks.—Part II.
+
+Chapter XLIX: Conquest Of Italy By The Franks.—Part III.
+
+Chapter XLIX: Conquest Of Italy By The Franks.—Part IV.
+
+Chapter XLIX: Conquest Of Italy By The Franks.—Part V.
+
+Chapter XLIX: Conquest Of Italy By The Franks.—Part VI.
+
+Chapter L: Description Of Arabia And Its Inhabitants.—Part I.
+
+Description Of Arabia And Its Inhabitants.—Birth, Character, And Doctrine Of Mahomet.—He Preaches At Mecca.— Flies To Medina.—Propagates His Religion By The Sword.— Voluntary Or Reluctant Submission Of The Arabs.—His Death And Successors.—The Claims And Fortunes Of Ali And His Descendants.
+
+Chapter L: Description Of Arabia And Its Inhabitants.—Part II.
+
+Chapter L: Description Of Arabia And Its Inhabitants.—Part III.
+
+Chapter L: Description Of Arabia And Its Inhabitants.—Part IV.
+
+Chapter L: Description Of Arabia And Its Inhabitants.—Part V.
+
+Chapter L: Description Of Arabia And Its Inhabitants.—Part VI.
+
+Chapter L: Description Of Arabia And Its Inhabitants.—Part VII.
+
+Chapter L: Description Of Arabia And Its Inhabitants.—Part VIII.
+
+Chapter LI: Conquests By The Arabs.—Part I.
+
+The Conquest Of Persia, Syria, Egypt, Africa, And Spain, By The Arabs Or Saracens.—Empire Of The Caliphs, Or Successors Of Mahomet.—State Of The Christians, &c., Under Their Government.
+
+Chapter LI: Conquests By The Arabs.—Part II.
+
+Chapter LI: Conquests By The Arabs.—Part III.
+
+Chapter LI: Conquests By The Arabs.—Part IV.
+
+Chapter LI: Conquests By The Arabs.—Part V.
+
+Chapter LI: Conquests By The Arabs.—Part VI.
+
+Chapter LI: Conquests By The Arabs.—Part VII.
+
+Chapter LII: More Conquests By The Arabs.—Part I.
+
+The Two Sieges Of Constantinople By The Arabs.—Their Invasion Of France, And Defeat By Charles Martel.—Civil War Of The Ommiades And Abbassides.—Learning Of The Arabs.— Luxury Of The Caliphs.—Naval Enterprises On Crete, Sicily, And Rome.—Decay And Division Of The Empire Of The Caliphs. —Defeats And Victories Of The Greek Emperors.
+
+Chapter LII: More Conquests By The Arabs.—Part II.
+
+Chapter LII: More Conquests By The Arabs.—Part III.
+
+Chapter LII: More Conquests By The Arabs.—Part IV.
+
+Chapter LII: More Conquests By The Arabs.—Part V.
+
+Chapter LIII: Fate Of The Eastern Empire.—Part I.
+
+Fate Of The Eastern Empire In The Tenth Century.—Extent And Division.—Wealth And Revenue.—Palace Of Constantinople.— Titles And Offices.—Pride And Power Of The Emperors.— Tactics Of The Greeks, Arabs, And Franks.—Loss Of The Latin Tongue.—Studies And Solitude Of The Greeks.
+
+Chapter LIII: Fate Of The Eastern Empire.—Part II.
+
+Chapter LIII: Fate Of The Eastern Empire.—Part III.
+
+Chapter LIII: Fate Of The Eastern Empire.—Part IV.
+
+Chapter LIV: Origin And Doctrine Of The Paulicians.—Part I.
+
+Origin And Doctrine Of The Paulicians.—Their Persecution By The Greek Emperors.—Revolt In Armenia &c.—Transplantation Into Thrace.—Propagation In The West.—The Seeds, Character, And Consequences Of The Reformation.
+
+Chapter LIV: Origin And Doctrine Of The Paulicians.—Part II.
+
+Chapter LV: The Bulgarians, The Hungarians And The Russians.—Part I.
+
+The Bulgarians.—Origin, Migrations, And Settlement Of The Hungarians.—Their Inroads In The East And West.—The Monarchy Of Russia.—Geography And Trade.—Wars Of The Russians Against The Greek Empire.—Conversion Of The Barbarians.
+
+Chapter LV: The Bulgarians, The Hungarians And The Russians.—Part II.
+
+Chapter LV: The Bulgarians, The Hungarians And The Russians.—Part III.
+
+Chapter LVI: The Saracens, The Franks And The Normans.—Part I.
+
+The Saracens, Franks, And Greeks, In Italy.—First Adventures And Settlement Of The Normans.—Character And Conquest Of Robert Guiscard, Duke Of Apulia—Deliverance Of Sicily By His Brother Roger.—Victories Of Robert Over The Emperors Of The East And West.—Roger, King Of Sicily, Invades Africa And Greece.—The Emperor Manuel Comnenus.— Wars Of The Greeks And Normans.—Extinction Of The Normans.
+
+Chapter LVI: The Saracens, The Franks And The Normans.—Part II.
+
+Chapter LVI: The Saracens, The Franks And The Normans.—Part III.
+
+Chapter LVI: The Saracens, The Franks And The Normans.—Part IV.
+
+Chapter LVI: The Saracens, The Franks And The Normans.—Part V.
+
+Chapter LVII: The Turks.—Part I.
+
+The Turks Of The House Of Seljuk.—Their Revolt Against Mahmud Conqueror Of Hindostan.—Togrul Subdues Persia, And Protects The Caliphs.—Defeat And Captivity Of The Emperor Romanus Diogenes By Alp Arslan.—Power And Magnificence Of Malek Shah.—Conquest Of Asia Minor And Syria.—State And Oppression Of Jerusalem.—Pilgrimages To The Holy Sepulchre.
+
+Chapter LVII: The Turks.—Part II.
+
+Chapter LVII: The Turks.—Part III.
+
+Chapter LVIII: The First Crusade.—Part I.
+
+Origin And Numbers Of The First Crusade.—Characters Of The Latin Princes.—Their March To Constantinople.—Policy Of The Greek Emperor Alexius.—Conquest Of Nice, Antioch, And Jerusalem, By The Franks.—Deliverance Of The Holy Sepulchre.— Godfrey Of Bouillon, First King Of Jerusalem.—Institutions Of The French Or Latin Kingdom.
+
+Chapter LVIII: The First Crusade.—Part II.
+
+Chapter LVIII: The First Crusade.—Part III.
+
+Chapter LVIII: The First Crusade.—Part IV.
+
+Chapter LVIII: The First Crusade.—Part V.
+
+Chapter LIX: The Crusades.—Part I.
+
+Chapter LIX: The Crusades.—Part II.
+
+Chapter LIX: The Crusades.—Part III.
+
+Chapter LX: The Fourth Crusade.—Part I.
+
+Chapter LX: The Fourth Crusade.—Part II.
+
+Chapter LX: The Fourth Crusade.—Part III.
+
+Chapter LXI: Partition Of The Empire By The French And Venetians.—Part I.
+
+Chapter LXI: Partition Of The Empire By The French And Venetians.—Part II.
+
+Chapter LXI: Partition Of The Empire By The French And Venetians.—Part III.
+
+Chapter LXI: Partition Of The Empire By The French And Venetians.—Part IV.
+
+Chapter LXII: Greek Emperors Of Nice And Constantinople.—Part I.
+
+Chapter LXII: Greek Emperors Of Nice And Constantinople.—Part II.
+
+Chapter LXII: Greek Emperors Of Nice And Constantinople.—Part III.
+
+Chapter LXIII: Civil Wars And The Ruin Of The Greek Empire.—Part I.
+
+Chapter LXIII: Civil Wars And The Ruin Of The Greek Empire.—Part II.
+
+Chapter LXIV: Moguls, Ottoman Turks.—Part I.
+
+Chapter LXIV: Moguls, Ottoman Turks.—Part II.
+
+Chapter LXIV: Moguls, Ottoman Turks.—Part III.
+
+Chapter LXIV: Moguls, Ottoman Turks.—Part IV.
+
+Chapter LXV: Elevation Of Timour Or Tamerlane, And His Death.—Part I.
+
+Chapter LXV: Elevation Of Timour Or Tamerlane, And His Death.—Part II.
+
+Chapter LXV: Elevation Of Timour Or Tamerlane, And His Death.—Part III.
+
+Chapter LXVI: Union Of The Greek And Latin Churches.—Part I.
+
+Chapter LXVI: Union Of The Greek And Latin Churches.—Part II.
+
+Chapter LXVI: Union Of The Greek And Latin Churches.—Part III.
+
+Chapter LXVI: Union Of The Greek And Latin Churches.—Part IV.
+
+Chapter LXVII: Schism Of The Greeks And Latins.—Part I.
+
+Chapter LXVII: Schism Of The Greeks And Latins.—Part II.
+
+Chapter LXVIII: Reign Of Mahomet The Second, Extinction Of Eastern Empire.—Part I.
+
+Chapter LXVIII: Reign Of Mahomet The Second, Extinction Of Eastern Empire.—Part II.
+
+Chapter LXVIII: Reign Of Mahomet The Second, Extinction Of Eastern Empire.—Part III.
+
+Chapter LXVIII: Reign Of Mahomet The Second, Extinction Of Eastern Empire.—Part IV.
+
+Chapter LXIX: State Of Rome From The Twelfth Century.—Part I.
+
+Chapter LXIX: State Of Rome From The Twelfth Century.—Part II.
+
+Chapter LXIX: State Of Rome From The Twelfth Century.—Part III.
+
+Chapter LXIX: State Of Rome From The Twelfth Century.—Part IV.
+
+Chapter LXX: Final Settlement Of The Ecclesiastical State.—Part I.
+
+Chapter LXX: Final Settlement Of The Ecclesiastical State.—Part II.
+
+Chapter LXX: Final Settlement Of The Ecclesiastical State.—Part III.
+
+Chapter LXX: Final Settlement Of The Ecclesiastical State.—Part IV.
+
+Chapter LXXI: Prospect Of The Ruins Of Rome In The Fifteenth Century.—Part I.
+
+Chapter LXXI: Prospect Of The Ruins Of Rome In The Fifteenth Century.—Part II.
+
 ## Preface By The Editor.
 
 The great work of Gibbon is indispensable to the student of history. The literature of Europe offers no substitute for “The Decline and Fall of the Roman Empire.” It has obtained undisputed possession, as rightful occupant, of the vast period which it comprehends. However some subjects, which it embraces, may have undergone more complete investigation, on the general view of the whole period, this history is the sole undisputed authority to which all defer, and from which few appeal to the original writers, or to more modern compilers. The inherent interest of the subject, the inexhaustible labor employed upon it; the immense condensation of matter; the luminous arrangement; the general accuracy; the style, which, however monotonous from its uniform stateliness, and sometimes wearisome from its elaborate ar., is throughout vigorous, animated, often picturesque, always commands attention, always conveys its meaning with emphatic energy, describes with singular breadth and fidelity, and generalizes with unrivalled felicity of expression; all these high qualifications have secured, and seem likely to secure, its permanent place in historic literature.
@@ -975,45 +1707,3 @@ III. The obscure rebellion of Trebellianus, who assumed the purple in Isauria, a
 Our habits of thinking so fondly connect the order of the universe with the fate of man, that this gloomy period of history has been decorated with inundations, earthquakes, uncommon meteors, preternatural darkness, and a crowd of prodigies fictitious or exaggerated. But a long and general famine was a calamity of a more serious kind. It was the inevitable consequence of rapine and oppression, which extirpated the produce of the present and the hope of future harvests. Famine is almost always followed by epidemical diseases, the effect of scanty and unwholesome food. Other causes must, however, have contributed to the furious plague, which, from the year two hundred and fifty to the year two hundred and sixty-five, raged without interruption in every province, every city, and almost every family, of the Roman empire. During some time five thousand persons died daily in Rome; and many towns, that had escaped the hands of the Barbarians, were entirely depopulated.
 
 We have the knowledge of a very curious circumstance, of some use perhaps in the melancholy calculation of human calamities. An exact register was kept at Alexandria of all the citizens entitled to receive the distribution of corn. It was found, that the ancient number of those comprised between the ages of forty and seventy, had been equal to the whole sum of claimants, from fourteen to fourscore years of age, who remained alive after the reign of Gallienus. Applying this authentic fact to the most correct tables of mortality, it evidently proves, that above half the people of Alexandria had perished; and could we venture to extend the analogy to the other provinces, we might suspect, that war, pestilence, and famine, had consumed, in a few years, the moiety of the human species.
-
-## Chapter XI: Reign Of Claudius, Defeat Of The Goths.—Part I.
-
-Reign Of Claudius.—Defeat Of The Goths.—Victories, Triumph, And Death Of Aurelian.
-
-Under the deplorable reigns of Valerian and Gallienus, the empire was oppressed and almost destroyed by the soldiers, the tyrants, and the barbarians. It was saved by a series of great princes, who derived their obscure origin from the martial provinces of Illyricum. Within a period of about thirty years, Claudius, Aurelian, Probus, Diocletian and his colleagues, triumphed over the foreign and domestic enemies of the state, reëstablished, with the military discipline, the strength of the frontiers, and deserved the glorious title of Restorers of the Roman world.
-
-The removal of an effeminate tyrant made way for a succession of heroes. The indignation of the people imputed all their calamities to Gallienus, and the far greater part were, indeed, the consequence of his dissolute manners and careless administration. He was even destitute of a sense of honor, which so frequently supplies the absence of public virtue; and as long as he was permitted to enjoy the possession of Italy, a victory of the barbarians, the loss of a province, or the rebellion of a general, seldom disturbed the tranquil course of his pleasures. At length, a considerable army, stationed on the Upper Danube, invested with the Imperial purple their leader Aureolus; who, disdaining a confined and barren reign over the mountains of Rhætia, passed the Alps, occupied Milan, threatened Rome, and challenged Gallienus to dispute in the field the sovereignty of Italy. The emperor, provoked by the insult, and alarmed by the instant danger, suddenly exerted that latent vigor which sometimes broke through the indolence of his temper. Forcing himself from the luxury of the palace, he appeared in arms at the head of his legions, and advanced beyond the Po to encounter his competitor. The corrupted name of Pontirolo still preserves the memory of a bridge over the Adda, which, during the action, must have proved an object of the utmost importance to both armies. The Rhætian usurper, after receiving a total defeat and a dangerous wound, retired into Milan. The siege of that great city was immediately formed; the walls were battered with every engine in use among the ancients; and Aureolus, doubtful of his internal strength, and hopeless of foreign succors already anticipated the fatal consequences of unsuccessful rebellion.
-
-His last resource was an attempt to seduce the loyalty of the besiegers. He scattered libels through the camp, inviting the troops to desert an unworthy master, who sacrificed the public happiness to his luxury, and the lives of his most valuable subjects to the slightest suspicions. The arts of Aureolus diffused fears and discontent among the principal officers of his rival. A conspiracy was formed by Heraclianus, the Prætorian præfect, by Marcian, a general of rank and reputation, and by Cecrops, who commanded a numerous body of Dalmatian guards. The death of Gallienus was resolved; and notwithstanding their desire of first terminating the siege of Milan, the extreme danger which accompanied every moment’s delay obliged them to hasten the execution of their daring purpose. At a late hour of the night, but while the emperor still protracted the pleasures of the table, an alarm was suddenly given, that Aureolus, at the head of all his forces, had made a desperate sally from the town; Gallienus, who was never deficient in personal bravery, started from his silken couch, and without allowing himself time either to put on his armor, or to assemble his guards, he mounted on horseback, and rode full speed towards the supposed place of the attack. Encompassed by his declared or concealed enemies, he soon, amidst the nocturnal tumult, received a mortal dart from an uncertain hand. Before he expired, a patriotic sentiment rising in the mind of Gallienus, induced him to name a deserving successor; and it was his last request, that the Imperial ornaments should be delivered to Claudius, who then commanded a detached army in the neighborhood of Pavia. The report at least was diligently propagated, and the order cheerfully obeyed by the conspirators, who had already agreed to place Claudius on the throne. On the first news of the emperor’s death, the troops expressed some suspicion and resentment, till the one was removed, and the other assuaged, by a donative of twenty pieces of gold to each soldier. They then ratified the election, and acknowledged the merit of their new sovereign.
-
-The obscurity which covered the origin of Claudius, though it was afterwards embellished by some flattering fictions, sufficiently betrays the meanness of his birth. We can only discover that he was a native of one of the provinces bordering on the Danube; that his youth was spent in arms, and that his modest valor attracted the favor and confidence of Decius. The senate and people already considered him as an excellent officer, equal to the most important trusts; and censured the inattention of Valerian, who suffered him to remain in the subordinate station of a tribune. But it was not long before that emperor distinguished the merit of Claudius, by declaring him general and chief of the Illyrian frontier, with the command of all the troops in Thrace, Mæsia, Dacia, Pannonia, and Dalmatia, the appointments of the præfect of Egypt, the establishment of the proconsul of Africa, and the sure prospect of the consulship. By his victories over the Goths, he deserved from the senate the honor of a statue, and excited the jealous apprehensions of Gallienus. It was impossible that a soldier could esteem so dissolute a sovereign, nor is it easy to conceal a just contempt. Some unguarded expressions which dropped from Claudius were officiously transmitted to the royal ear. The emperor’s answer to an officer of confidence describes in very lively colors his own character, and that of the times. “There is not any thing capable of giving me more serious concern, than the intelligence contained in your last despatch; that some malicious suggestions have indisposed towards us the mind of our friend and *parent* Claudius. As you regard your allegiance, use every means to appease his resentment, but conduct your negotiation with secrecy; let it not reach the knowledge of the Dacian troops; they are already provoked, and it might inflame their fury. I myself have sent him some presents: be it your care that he accept them with pleasure. Above all, let him not suspect that I am made acquainted with his imprudence. The fear of my anger might urge him to desperate counsels.” The presents which accompanied this humble epistle, in which the monarch solicited a reconciliation with his discontented subject, consisted of a considerable sum of money, a splendid wardrobe, and a valuable service of silver and gold plate. By such arts Gallienus softened the indignation and dispelled the fears of his Illyrian general; and during the remainder of that reign, the formidable sword of Claudius was always drawn in the cause of a master whom he despised. At last, indeed, he received from the conspirators the bloody purple of Gallienus: but he had been absent from their camp and counsels; and however he might applaud the deed, we may candidly presume that he was innocent of the knowledge of it. When Claudius ascended the throne, he was about fifty-four years of age.
-
-The siege of Milan was still continued, and Aureolus soon discovered that the success of his artifices had only raised up a more determined adversary. He attempted to negotiate with Claudius a treaty of alliance and partition. “Tell him,” replied the intrepid emperor, “that such proposals should have been made to Gallienus; *he*, perhaps, might have listened to them with patience, and accepted a colleague as despicable as himself.” This stern refusal, and a last unsuccessful effort, obliged Aureolus to yield the city and himself to the discretion of the conqueror. The judgment of the army pronounced him worthy of death; and Claudius, after a feeble resistance, consented to the execution of the sentence. Nor was the zeal of the senate less ardent in the cause of their new sovereign. They ratified, perhaps with a sincere transport of zeal, the election of Claudius; and, as his predecessor had shown himself the personal enemy of their order, they exercised, under the name of justice, a severe revenge against his friends and family. The senate was permitted to discharge the ungrateful office of punishment, and the emperor reserved for himself the pleasure and merit of obtaining by his intercession a general act of indemnity.
-
-Such ostentatious clemency discovers less of the real character of Claudius, than a trifling circumstance in which he seems to have consulted only the dictates of his heart. The frequent rebellions of the provinces had involved almost every person in the guilt of treason, almost every estate in the case of confiscation; and Gallienus often displayed his liberality by distributing among his officers the property of his subjects. On the accession of Claudius, an old woman threw herself at his feet, and complained that a general of the late emperor had obtained an arbitrary grant of her patrimony. This general was Claudius himself, who had not entirely escaped the contagion of the times. The emperor blushed at the reproach, but deserved the confidence which she had reposed in his equity. The confession of his fault was accompanied with immediate and ample restitution.
-
-In the arduous task which Claudius had undertaken, of restoring the empire to its ancient splendor, it was first necessary to revive among his troops a sense of order and obedience. With the authority of a veteran commander, he represented to them that the relaxation of discipline had introduced a long train of disorders, the effects of which were at length experienced by the soldiers themselves; that a people ruined by oppression, and indolent from despair, could no longer supply a numerous army with the means of luxury, or even of subsistence; that the danger of each individual had increased with the despotism of the military order, since princes who tremble on the throne will guard their safety by the instant sacrifice of every obnoxious subject. The emperor expiated on the mischiefs of a lawless caprice, which the soldiers could only gratify at the expense of their own blood; as their seditious elections had so frequently been followed by civil wars, which consumed the flower of the legions either in the field of battle, or in the cruel abuse of victory. He painted in the most lively colors the exhausted state of the treasury, the desolation of the provinces, the disgrace of the Roman name, and the insolent triumph of rapacious barbarians. It was against those barbarians, he declared, that he intended to point the first effort of their arms. Tetricus might reign for a while over the West, and even Zenobia might preserve the dominion of the East. These usurpers were his personal adversaries; nor could he think of indulging any private resentment till he had saved an empire, whose impending ruin would, unless it was timely prevented, crush both the army and the people.
-
-The various nations of Germany and Sarmatia, who fought under the Gothic standard, had already collected an armament more formidable than any which had yet issued from the Euxine. On the banks of the Niester, one of the great rivers that discharge themselves into that sea, they constructed a fleet of two thousand, or even of six thousand vessels; numbers which, however incredible they may seem, would have been insufficient to transport their pretended army of three hundred and twenty thousand barbarians. Whatever might be the real strength of the Goths, the vigor and success of the expedition were not adequate to the greatness of the preparations. In their passage through the Bosphorus, the unskilful pilots were overpowered by the violence of the current; and while the multitude of their ships were crowded in a narrow channel, many were dashed against each other, or against the shore. The barbarians made several descents on the coasts both of Europe and Asia; but the open country was already plundered, and they were repulsed with shame and loss from the fortified cities which they assaulted. A spirit of discouragement and division arose in the fleet, and some of their chiefs sailed away towards the islands of Crete and Cyprus; but the main body, pursuing a more steady course, anchored at length near the foot of Mount Athos, and assaulted the city of Thessalonica, the wealthy capital of all the Macedonian provinces. Their attacks, in which they displayed a fierce but artless bravery, were soon interrupted by the rapid approach of Claudius, hastening to a scene of action that deserved the presence of a warlike prince at the head of the remaining powers of the empire. Impatient for battle, the Goths immediately broke up their camp, relinquished the siege of Thessalonica, left their navy at the foot of Mount Athos, traversed the hills of Macedonia, and pressed forwards to engage the last defence of Italy.
-
-We still posses an original letter addressed by Claudius to the senate and people on this memorable occasion. “Conscript fathers,” says the emperor, “know that three hundred and twenty thousand Goths have invaded the Roman territory. If I vanquish them, your gratitude will reward my services. Should I fall, remember that I am the successor of Gallienus. The whole republic is fatigued and exhausted. We shall fight after Valerian, after Ingenuus, Regillianus, Lollianus, Posthumus, Celsus, and a thousand others, whom a just contempt for Gallienus provoked into rebellion. We are in want of darts, of spears, and of shields. The strength of the empire, Gaul, and Spain, are usurped by Tetricus, and we blush to acknowledge that the archers of the East serve under the banners of Zenobia. Whatever we shall perform will be sufficiently great.” The melancholy firmness of this epistle announces a hero careless of his fate, conscious of his danger, but still deriving a well-grounded hope from the resources of his own mind.
-
-The event surpassed his own expectations and those of the world. By the most signal victories he delivered the empire from this host of barbarians, and was distinguished by posterity under the glorious appellation of the Gothic Claudius. The imperfect historians of an irregular war do not enable us to describe the order and circumstances of his exploits; but, if we could be indulged in the allusion, we might distribute into three acts this memorable tragedy. I. The decisive battle was fought near Naissus, a city of Dardania. The legions at first gave way, oppressed by numbers, and dismayed by misfortunes. Their ruin was inevitable, had not the abilities of their emperor prepared a seasonable relief. A large detachment, rising out of the secret and difficult passes of the mountains, which, by his order, they had occupied, suddenly assailed the rear of the victorious Goths.
-
-The favorable instant was improved by the activity of Claudius. He revived the courage of his troops, restored their ranks, and pressed the barbarians on every side. Fifty thousand men are reported to have been slain in the battle of Naissus. Several large bodies of barbarians, covering their retreat with a movable fortification of wagons, retired, or rather escaped, from the field of slaughter.
-
-II. We may presume that some insurmountable difficulty, the fatigue, perhaps, or the disobedience, of the conquerors, prevented Claudius from completing in one day the destruction of the Goths. The war was diffused over the province of Mæsia, Thrace, and Macedonia, and its operations drawn out into a variety of marches, surprises, and tumultuary engagements, as well by sea as by land. When the Romans suffered any loss, it was commonly occasioned by their own cowardice or rashness; but the superior talents of the emperor, his perfect knowledge of the country, and his judicious choice of measures as well as officers, assured on most occasions the success of his arms. The immense booty, the fruit of so many victories, consisted for the greater part of cattle and slaves. A select body of the Gothic youth was received among the Imperial troops; the remainder was sold into servitude; and so considerable was the number of female captives that every soldier obtained to his share two or three women. A circumstance from which we may conclude, that the invaders entertained some designs of settlement as well as of plunder; since even in a naval expedition, they were accompanied by their families.
-
-III. The loss of their fleet, which was either taken or sunk, had intercepted the retreat of the Goths. A vast circle of Roman posts, distributed with skill, supported with firmness, and gradually closing towards a common centre, forced the barbarians into the most inaccessible parts of Mount Hæmus, where they found a safe refuge, but a very scanty subsistence. During the course of a rigorous winter in which they were besieged by the emperor’s troops, famine and pestilence, desertion and the sword, continually diminished the imprisoned multitude. On the return of spring, nothing appeared in arms except a hardy and desperate band, the remnant of that mighty host which had embarked at the mouth of the Niester.
-
-The pestilence which swept away such numbers of the barbarians, at length proved fatal to their conqueror. After a short but glorious reign of two years, Claudius expired at Sirmium, amidst the tears and acclamations of his subjects. In his last illness, he convened the principal officers of the state and army, and in their presence recommended Aurelian, one of his generals, as the most deserving of the throne, and the best qualified to execute the great design which he himself had been permitted only to undertake. The virtues of Claudius, his valor, affability, justice, and temperance, his love of fame and of his country, place him in that short list of emperors who added lustre to the Roman purple. Those virtues, however, were celebrated with peculiar zeal and complacency by the courtly writers of the age of Constantine, who was the great-grandson of Crispus, the elder brother of Claudius. The voice of flattery was soon taught to repeat, that gods, who so hastily had snatched Claudius from the earth, rewarded his merit and piety by the perpetual establishment of the empire in his family.
-
-Notwithstanding these oracles, the greatness of the Flavian family (a name which it had pleased them to assume) was deferred above twenty years, and the elevation of Claudius occasioned the immediate ruin of his brother Quintilius, who possessed not sufficient moderation or courage to descend into the private station to which the patriotism of the late emperor had condemned him. Without delay or reflection, he assumed the purple at Aquileia, where he commanded a considerable force; and though his reign lasted only seventeen days, he had time to obtain the sanction of the senate, and to experience a mutiny of the troops.
-
-As soon as he was informed that the great army of the Danube had invested the well-known valor of Aurelian with Imperial power, he sunk under the fame and merit of his rival; and ordering his veins to be opened, prudently withdrew himself from the unequal contest.
-
-The general design of this work will not permit us minutely to relate the actions of every emperor after he ascended the throne, much less to deduce the various fortunes of his private life. We shall only observe, that the father of Aurelian was a peasant of the territory of Sirmium, who occupied a small farm, the property of Aurelius, a rich senator. His warlike son enlisted in the troops as a common soldier, successively rose to the rank of a centurion, a tribune, the præfect of a legion, the inspector of the camp, the general, or, as it was then called, the duke, of a frontier; and at length, during the Gothic war, exercised the important office of commander-in-chief of the cavalry. In every station he distinguished himself by matchless valor, rigid discipline, and successful conduct. He was invested with the consulship by the emperor Valerian, who styles him, in the pompous language of that age, the deliverer of Illyricum, the restorer of Gaul, and the rival of the Scipios. At the recommendation of Valerian, a senator of the highest rank and merit, Ulpius Crinitus, whose blood was derived from the same source as that of Trajan, adopted the Pannonian peasant, gave him his daughter in marriage, and relieved with his ample fortune the honorable poverty which Aurelian had preserved inviolate.
-
-The reign of Aurelian lasted only four years and about nine months; but every instant of that short period was filled by some memorable achievement. He put an end to the Gothic war, chastised the Germans who invaded Italy, recovered Gaul, Spain, and Britain out of the hands of Tetricus, and destroyed the proud monarchy which Zenobia had erected in the East on the ruins of the afflicted empire.
-
-It was the rigid attention of Aurelian, even to the minutest articles of discipline, which bestowed such uninterrupted success on his arms. His military regulations are contained in a very concise epistle to one of his inferior officers, who is commanded to enforce them, as he wishes to become a tribune, or as he is desirous to live. Gaming, drinking, and the arts of divination, were severely prohibited. Aurelian expected that his soldiers should be modest, frugal, and laborious; that their armor should be constantly kept bright, their weapons sharp, their clothing and horses ready for immediate service; that they should live in their quarters with chastity and sobriety, without damaging the cornfields, without stealing even a sheep, a fowl, or a bunch of grapes, without exacting from their landlords either salt, or oil, or wood. “The public allowance,” continues the emperor, “is sufficient for their support; their wealth should be collected from the spoils of the enemy, not from the tears of the provincials.” A single instance will serve to display the rigor, and even cruelty, of Aurelian. One of the soldiers had seduced the wife of his host. The guilty wretch was fastened to two trees forcibly drawn towards each other, and his limbs were torn asunder by their sudden separation. A few such examples impressed a salutary consternation. The punishments of Aurelian were terrible; but he had seldom occasion to punish more than once the same offence. His own conduct gave a sanction to his laws, and the seditious legions dreaded a chief who had learned to obey, and who was worthy to command.
