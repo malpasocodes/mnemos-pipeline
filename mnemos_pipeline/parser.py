@@ -75,6 +75,19 @@ def _extract_footnotes(soup: BeautifulSoup) -> dict[str, str]:
         text = re.sub(r"^\s*\[\d+\]\s*", "", text)
         footnotes[fn_key] = text
 
+    # Thoreau-style: <p class="footnote"> with <a id="Footnote_N">
+    for p in soup.find_all("p", class_="footnote"):
+        anchor = p.find("a", id=re.compile(r"^Footnote_\d+(_\d+)?$"))
+        if not anchor:
+            continue
+        fn_key = anchor["id"].replace("Footnote_", "")
+        if fn_key in footnotes:
+            continue
+        text = _inline_text(p).strip()
+        text = re.sub(r"^\s*\[\d+\]\s*", "", text)
+        if text:
+            footnotes[fn_key] = text
+
     # Gibbon-style: <p class="foot"> with <a class="pginternal" href="#linknoteref-...">
     for p in soup.find_all("p", class_="foot"):
         a = p.find("a", class_="pginternal")
@@ -147,6 +160,9 @@ def _get_content_elements(soup: BeautifulSoup) -> list[Tag]:
                 h_tag = el.find(["h1", "h2", "h3", "h4"])
                 if h_tag and _content_start_re.match(h_tag.get_text(strip=True)):
                     past_title_page = True
+                elif h_tag and (_has_anchor_id(h_tag) or h_tag.get("id")):
+                    # Essay collection wrapped in <div class="chapter"> (Thoreau)
+                    past_title_page = True
                 elif el.get("class") and "chapter" in el.get("class", []):
                     continue
                 else:
@@ -167,13 +183,23 @@ def _get_content_elements(soup: BeautifulSoup) -> list[Tag]:
             if h_tag:
                 heading_text = h_tag.get_text(strip=True).upper()
         if heading_text:
-            if heading_text in ("CONTENTS.", "ERRATA.", "INDEX.", "NEW PUBLICATIONS."):
+            bare = heading_text.rstrip(".").strip()
+            if bare in ("CONTENTS", "ERRATA", "INDEX", "NEW PUBLICATIONS",
+                        "ILLUSTRATIONS", "FOOTNOTES"):
                 in_excluded_section = True
                 continue
-            if heading_text in ("THE END.", "TRANSCRIBER'S NOTES"):
+            if bare == "THE END" or re.match(r"^TRANSCRIBER", bare):
                 in_excluded_section = True
                 continue
-            if re.match(r"^(CHAPTER|CHAP\b|PREFACE|INTRODUCTION|PART\b|SECTION\b)", heading_text):
+            is_start = bool(re.match(r"^(CHAPTER|CHAP\b|PREFACE|INTRODUCTION|PART\b|SECTION\b)", heading_text))
+            if not is_start and el.name in ("h1", "h2", "h3", "h4"):
+                if _has_anchor_id(el) or el.get("id"):
+                    is_start = True
+            if not is_start and el.name == "div":
+                h_inner = el.find(["h1", "h2", "h3", "h4"])
+                if h_inner and (_has_anchor_id(h_inner) or h_inner.get("id")):
+                    is_start = True
+            if is_start:
                 in_excluded_section = False
             elif in_excluded_section:
                 continue
@@ -292,8 +318,8 @@ def _segment_chapters(elements: list[Tag], footnotes: dict[str, str]) -> list[di
                 current_essay_group = None
                 current_chapter = {"title_parts": title_parts, "elements": []}
                 continue
-            # Essay collections: h2 with <a id="..."> starts a new essay/chapter
-            if _has_anchor_id(el):
+            # Essay collections: h2 with <a id="..."> or direct id= starts a new essay/chapter
+            if _has_anchor_id(el) or el.get("id"):
                 if current_chapter:
                     chapters.append(_finalize_chapter(current_chapter, footnotes))
                 title_parts = []
@@ -307,15 +333,30 @@ def _segment_chapters(elements: list[Tag], footnotes: dict[str, str]) -> list[di
                     # Standalone essay — clear essay group context
                     current_essay_group = None
                 title_parts.append(text)
-                current_chapter = {"title_parts": title_parts, "elements": []}
+                current_chapter = {"title_parts": title_parts, "elements": [], "subtitled": True}
                 continue
 
         # h3 can be a Section heading, Chapter heading, or subtitle
         if el.name == "h3":
             text = _heading_text(el)
+            # h3 with anchor/id starts a new essay-style sub-chapter (Thoreau appendix,
+            # Johnson's play notes). Placed before the subtitle rule so each anchored h3
+            # finalizes the prior chapter rather than being swallowed as a subtitle.
+            if _has_anchor_id(el) or el.get("id"):
+                if current_chapter:
+                    chapters.append(_finalize_chapter(current_chapter, footnotes))
+                title_parts = []
+                if current_part:
+                    title_parts.append(current_part)
+                if current_section:
+                    title_parts.append(current_section)
+                title_parts.append(text)
+                current_chapter = {"title_parts": title_parts, "elements": [], "subtitled": True}
+                continue
             # If we just started a chapter (no content yet), treat h3 as subtitle
-            if current_chapter and not current_chapter["elements"]:
+            if current_chapter and not current_chapter["elements"] and not current_chapter.get("subtitled"):
                 current_chapter["title_parts"].append(text)
+                current_chapter["subtitled"] = True
                 continue
             if re.match(r"^SECTION\b", text, re.IGNORECASE):
                 current_section = text
@@ -358,8 +399,9 @@ def _segment_chapters(elements: list[Tag], footnotes: dict[str, str]) -> list[di
                 continue
 
         # Capture subtitle (h3/h5 near start of chapter, possibly after <hr>)
-        if el.name in ("h3", "h5") and current_chapter and not current_chapter["elements"]:
+        if el.name in ("h3", "h5") and current_chapter and not current_chapter["elements"] and not current_chapter.get("subtitled"):
             current_chapter["title_parts"].append(_heading_text(el))
+            current_chapter["subtitled"] = True
             continue
 
         # Plain-<p> all-caps heading (e.g. Emerson's Nature uses "<p>CHAPTER I.</p>"
@@ -433,6 +475,11 @@ def _finalize_chapter(chapter_data: dict, footnotes: dict[str, str]) -> dict:
             text = _render_table(el)
             if text.strip():
                 paragraphs.append({"text": text.strip()})
+        elif el.name == "h5":
+            # Preserve h5 sub-headings (e.g. Johnson's act labels) as bold paragraphs
+            text = _inline_text(el).strip()
+            if text:
+                paragraphs.append({"text": f"**{text}**"})
 
     return {"title": title if title else None, "paragraphs": paragraphs}
 
