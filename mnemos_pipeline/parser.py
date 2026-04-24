@@ -220,6 +220,23 @@ def _heading_text(el: Tag) -> str:
     return text.strip()
 
 
+def _is_plain_p_heading(text: str) -> bool:
+    """True if `text` looks like a chapter heading rendered as a plain <p>:
+    short, all-caps letters, ending with a period."""
+    if not text or len(text) > 40 or not text.endswith("."):
+        return False
+    body = text.rstrip(".")
+    if not body:
+        return False
+    has_letter = False
+    for ch in body:
+        if ch.isalpha():
+            has_letter = True
+            if not ch.isupper():
+                return False
+    return has_letter
+
+
 def _segment_chapters(elements: list[Tag], footnotes: dict[str, str]) -> list[dict]:
     """Split elements into chapters based on CHAPTER/CHAP headings at h3 or h4 level."""
     chapters = []
@@ -344,6 +361,25 @@ def _segment_chapters(elements: list[Tag], footnotes: dict[str, str]) -> list[di
         if el.name in ("h3", "h5") and current_chapter and not current_chapter["elements"]:
             current_chapter["title_parts"].append(_heading_text(el))
             continue
+
+        # Plain-<p> all-caps heading (e.g. Emerson's Nature uses "<p>CHAPTER I.</p>"
+        # and "<p>NATURE.</p>" as paired chapter + subtitle instead of <h*> tags)
+        if el.name == "p" and not el.get("class"):
+            text = _inline_text(el).strip()
+            if _is_plain_p_heading(text):
+                if current_chapter and not current_chapter["elements"]:
+                    current_chapter["title_parts"].append(text)
+                    continue
+                if current_chapter:
+                    chapters.append(_finalize_chapter(current_chapter, footnotes))
+                title_parts = []
+                if current_part:
+                    title_parts.append(current_part)
+                if current_section:
+                    title_parts.append(current_section)
+                title_parts.append(text)
+                current_chapter = {"title_parts": title_parts, "elements": []}
+                continue
 
         # Skip <hr> between chapter heading and subtitle
         if el.name == "hr" and current_chapter and not current_chapter["elements"]:
