@@ -54,6 +54,9 @@ This produces:
 | David Ricardo | Principles of Political Economy | [pg33310](https://www.gutenberg.org/ebooks/33310) |
 | Edward Gibbon | Decline and Fall of the Roman Empire | [pg25717](https://www.gutenberg.org/ebooks/25717) |
 | Ernest Hemingway | The Sun Also Rises | [pg67138](https://www.gutenberg.org/ebooks/67138) |
+| Henry David Thoreau | The Maine Woods | [pg42500](https://www.gutenberg.org/ebooks/42500) |
+| Ralph Waldo Emerson | Nature | [pg29433](https://www.gutenberg.org/ebooks/29433) |
+| Samuel Johnson | Preface to Shakespeare | [pg5429](https://www.gutenberg.org/ebooks/5429) |
 | Virginia Woolf | The Common Reader | [pg67363](https://www.gutenberg.org/ebooks/67363) |
 | Virginia Woolf | Mrs. Dalloway | [pg71865](https://www.gutenberg.org/ebooks/71865) |
 
@@ -72,6 +75,12 @@ output/
       ...
   ernest-hemingway/
     the-sun-also-rises/
+  henry-david-thoreau/
+    the-maine-woods/
+  ralph-waldo-emerson/
+    nature/
+  samuel-johnson/
+    preface-to-shakespeare/
   virginia-woolf/
     common-reader/
     mrs-dalloway/
