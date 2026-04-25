@@ -4,10 +4,6 @@ author: "Samuel Johnson"
 gutenberg_id: "5429"
 ---
 
-## Untitled
-
-Steve Harris, Charles Franks and the Online Distributed Proofreading Team
-
 ## PREFACE TO SHAKESPEARE
 
 Together with selected notes on some of the plays

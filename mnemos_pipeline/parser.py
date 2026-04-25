@@ -119,6 +119,22 @@ def _get_content_elements(soup: BeautifulSoup) -> list[Tag]:
     if not body:
         return []
 
+    _content_start_re = re.compile(
+        r"^(PREFACE|CHAP\b|CHAPTER|INTRODUCTION|PART\b|SECTION\b)", re.IGNORECASE
+    )
+
+    # Pre-scan: does the body contain an explicit <h*> content heading? If so,
+    # the bare-<p> title-page fallback must not fire — otherwise title-page
+    # imprint paragraphs (e.g. Locke's "REPRINTED, THE SIXTH TIME...") get
+    # mistaken for body. Works that rely on the bare-<p> fallback either have
+    # no chapter headings at all (Mrs Dalloway) or use plain-<p> headings
+    # (Emerson's Nature) — neither of those leaves an <h*> match here.
+    has_explicit_content_heading = any(
+        h.name in ("h1", "h2", "h3", "h4")
+        and (_content_start_re.match(h.get_text(strip=True)) or _has_anchor_id(h))
+        for h in body.find_all(["h1", "h2", "h3", "h4"])
+    )
+
     elements = []
     past_header = False
     past_title_page = False
@@ -146,9 +162,6 @@ def _get_content_elements(soup: BeautifulSoup) -> list[Tag]:
             continue
 
         # Skip title page and TOC (before first content heading)
-        _content_start_re = re.compile(
-            r"^(PREFACE|CHAP\b|CHAPTER|INTRODUCTION|PART\b|SECTION\b)", re.IGNORECASE
-        )
         if not past_title_page:
             text_check = el.get_text(strip=True)
             if el.name in ("h1", "h2", "h3", "h4") and _content_start_re.match(text_check):
@@ -168,8 +181,11 @@ def _get_content_elements(soup: BeautifulSoup) -> list[Tag]:
                 else:
                     continue
             # No heading found yet — if this is a plain <p>, assume we're
-            # past front matter (handles novels with no chapter headings)
-            elif el.name == "p" and not el.get("class"):
+            # past front matter (novels with no chapter headings, or works
+            # using plain-<p> headings like Emerson's Nature). Suppressed when
+            # the document has an explicit <h*> content heading further down,
+            # otherwise title-page imprint paragraphs would be captured.
+            elif el.name == "p" and not el.get("class") and not has_explicit_content_heading:
                 past_title_page = True
             else:
                 continue

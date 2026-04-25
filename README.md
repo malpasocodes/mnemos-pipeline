@@ -55,6 +55,7 @@ This produces:
 | Edward Gibbon | Decline and Fall of the Roman Empire | [pg25717](https://www.gutenberg.org/ebooks/25717) |
 | Ernest Hemingway | The Sun Also Rises | [pg67138](https://www.gutenberg.org/ebooks/67138) |
 | Henry David Thoreau | The Maine Woods | [pg42500](https://www.gutenberg.org/ebooks/42500) |
+| John Locke | Second Treatise of Government | [pg7370](https://www.gutenberg.org/ebooks/7370) |
 | Ralph Waldo Emerson | Nature | [pg29433](https://www.gutenberg.org/ebooks/29433) |
 | Samuel Johnson | Preface to Shakespeare | [pg5429](https://www.gutenberg.org/ebooks/5429) |
 | Virginia Woolf | The Common Reader | [pg67363](https://www.gutenberg.org/ebooks/67363) |
@@ -78,6 +79,8 @@ output/
     the-sun-also-rises/
   henry-david-thoreau/
     the-maine-woods/
+  john-locke/
+    second-treatise/
   ralph-waldo-emerson/
     nature/
   samuel-johnson/
