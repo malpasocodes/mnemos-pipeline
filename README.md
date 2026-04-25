@@ -59,6 +59,7 @@ This produces:
 | Samuel Johnson | Preface to Shakespeare | [pg5429](https://www.gutenberg.org/ebooks/5429) |
 | Virginia Woolf | The Common Reader | [pg67363](https://www.gutenberg.org/ebooks/67363) |
 | Virginia Woolf | Mrs. Dalloway | [pg71865](https://www.gutenberg.org/ebooks/71865) |
+| W. E. B. Du Bois | The Suppression of the African Slave Trade | [pg17700](https://www.gutenberg.org/ebooks/17700) |
 
 ## Output structure
 
@@ -84,6 +85,8 @@ output/
   virginia-woolf/
     common-reader/
     mrs-dalloway/
+  w-e-b-du-bois/
+    suppression-of-the-african-slave-trade/
 ```
 
 Large texts are automatically split into parts at chapter boundaries so each file stays under the character limit.
