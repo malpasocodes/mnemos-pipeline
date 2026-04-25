@@ -58,6 +58,7 @@ This produces:
 | John Locke | Second Treatise of Government | [pg7370](https://www.gutenberg.org/ebooks/7370) |
 | Ralph Waldo Emerson | Nature | [pg29433](https://www.gutenberg.org/ebooks/29433) |
 | Samuel Johnson | Preface to Shakespeare | [pg5429](https://www.gutenberg.org/ebooks/5429) |
+| United States Presidents | Inaugural Speeches (Washington–G. W. Bush) | [pg925](https://www.gutenberg.org/ebooks/925) |
 | Virginia Woolf | The Common Reader | [pg67363](https://www.gutenberg.org/ebooks/67363) |
 | Virginia Woolf | Mrs. Dalloway | [pg71865](https://www.gutenberg.org/ebooks/71865) |
 | W. E. B. Du Bois | The Suppression of the African Slave Trade | [pg17700](https://www.gutenberg.org/ebooks/17700) |
@@ -85,6 +86,8 @@ output/
     nature/
   samuel-johnson/
     preface-to-shakespeare/
+  us-presidents/
+    inaugural-speeches/
   virginia-woolf/
     common-reader/
     mrs-dalloway/

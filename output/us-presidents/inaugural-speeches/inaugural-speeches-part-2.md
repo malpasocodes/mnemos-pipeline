@@ -1,0 +1,851 @@
+---
+title: "United States Presidents' Inaugural Speeches: From Washington to George W. Bush"
+author: "United States. Presidents"
+gutenberg_id: "925"
+part: 2
+total_parts: 2
+---
+
+## RICHARD MILHOUS NIXON, FIRST INAUGURAL ADDRESS. MONDAY, JANUARY 20, 1969
+
+Senator Dirksen, Mr. Chief Justice, Mr. Vice President, President Johnson, Vice President Humphrey, my fellow Americans—and my fellow citizens of the world community:
+
+I ask you to share with me today the majesty of this moment. In the orderly transfer of power, we celebrate the unity that keeps us free.
+
+Each moment in history is a fleeting time, precious and unique. But some stand out as moments of beginning, in which courses are set that shape decades or centuries.
+
+This can be such a moment.
+
+Forces now are converging that make possible, for the first time, the hope that many of man's deepest aspirations can at last be realized. The spiraling pace of change allows us to contemplate, within our own lifetime, advances that once would have taken centuries.
+
+In throwing wide the horizons of space, we have discovered new horizons on earth.
+
+For the first time, because the people of the world want peace, and the leaders of the world are afraid of war, the times are on the side of peace.
+
+Eight years from now America will celebrate its 200th anniversary as a nation. Within the lifetime of most people now living, mankind will celebrate that great new year which comes only once in a thousand years—the beginning of the third millennium.
+
+What kind of nation we will be, what kind of world we will live in, whether we shape the future in the image of our hopes, is ours to determine by our actions and our choices.
+
+The greatest honor history can bestow is the title of peacemaker. This honor now beckons America—the chance to help lead the world at last out of the valley of turmoil, and onto that high ground of peace that man has dreamed of since the dawn of civilization.
+
+If we succeed, generations to come will say of us now living that we mastered our moment, that we helped make the world safe for mankind.
+
+This is our summons to greatness.
+
+I believe the American people are ready to answer this call.
+
+The second third of this century has been a time of proud achievement. We have made enormous strides in science and industry and agriculture. We have shared our wealth more broadly than ever. We have learned at last to manage a modern economy to assure its continued growth.
+
+We have given freedom new reach, and we have begun to make its promise real for black as well as for white.
+
+We see the hope of tomorrow in the youth of today. I know America's youth. I believe in them. We can be proud that they are better educated, more committed, more passionately driven by conscience than any generation in our history.
+
+No people has ever been so close to the achievement of a just and abundant society, or so possessed of the will to achieve it. Because our strengths are so great, we can afford to appraise our weaknesses with candor and to approach them with hope.
+
+Standing in this same place a third of a century ago, Franklin Delano Roosevelt addressed a Nation ravaged by depression and gripped in fear. He could say in surveying the Nation's troubles: "They concern, thank God, only material things."
+
+Our crisis today is the reverse.
+
+We have found ourselves rich in goods, but ragged in spirit; reaching with magnificent precision for the moon, but falling into raucous discord on earth.
+
+We are caught in war, wanting peace. We are torn by division, wanting unity. We see around us empty lives, wanting fulfillment. We see tasks that need doing, waiting for hands to do them.
+
+To a crisis of the spirit, we need an answer of the spirit.
+
+To find that answer, we need only look within ourselves.
+
+When we listen to "the better angels of our nature," we find that they celebrate the simple things, the basic things—such as goodness, decency, love, kindness.
+
+Greatness comes in simple trappings.
+
+The simple things are the ones most needed today if we are to surmount what divides us, and cement what unites us.
+
+To lower our voices would be a simple thing.
+
+In these difficult years, America has suffered from a fever of words; from inflated rhetoric that promises more than it can deliver; from angry rhetoric that fans discontents into hatreds; from bombastic rhetoric that postures instead of persuading.
+
+We cannot learn from one another until we stop shouting at one another—until we speak quietly enough so that our words can be heard as well as our voices.
+
+For its part, government will listen. We will strive to listen in new ways—to the voices of quiet anguish, the voices that speak without words, the voices of the heart—to the injured voices, the anxious voices, the voices that have despaired of being heard.
+
+Those who have been left out, we will try to bring in.
+
+Those left behind, we will help to catch up.
+
+For all of our people, we will set as our goal the decent order that makes progress possible and our lives secure.
+
+As we reach toward our hopes, our task is to build on what has gone before—not turning away from the old, but turning toward the new.
+
+In this past third of a century, government has passed more laws, spent more money, initiated more programs, than in all our previous history.
+
+In pursuing our goals of full employment, better housing, excellence in education; in rebuilding our cities and improving our rural areas; in protecting our environment and enhancing the quality of life—in all these and more, we will and must press urgently forward.
+
+We shall plan now for the day when our wealth can be transferred from the destruction of war abroad to the urgent needs of our people at home.
+
+The American dream does not come to those who fall asleep.
+
+But we are approaching the limits of what government alone can do.
+
+Our greatest need now is to reach beyond government, and to enlist the legions of the concerned and the committed.
+
+What has to be done, has to be done by government and people together or it will not be done at all. The lesson of past agony is that without the people we can do nothing; with the people we can do everything.
+
+To match the magnitude of our tasks, we need the energies of our people—enlisted not only in grand enterprises, but more importantly in those small, splendid efforts that make headlines in the neighborhood newspaper instead of the national journal.
+
+With these, we can build a great cathedral of the spirit—each of us raising it one stone at a time, as he reaches out to his neighbor, helping, caring, doing.
+
+I do not offer a life of uninspiring ease. I do not call for a life of grim sacrifice. I ask you to join in a high adventure—one as rich as humanity itself, and as exciting as the times we live in.
+
+The essence of freedom is that each of us shares in the shaping of his own destiny.
+
+Until he has been part of a cause larger than himself, no man is truly whole.
+
+The way to fulfillment is in the use of our talents; we achieve nobility in the spirit that inspires that use.
+
+As we measure what can be done, we shall promise only what we know we can produce, but as we chart our goals we shall be lifted by our dreams.
+
+No man can be fully free while his neighbor is not. To go forward at all is to go forward together.
+
+This means black and white together, as one nation, not two. The laws have caught up with our conscience. What remains is to give life to what is in the law: to ensure at last that as all are born equal in dignity before God, all are born equal in dignity before man.
+
+As we learn to go forward together at home, let us also seek to go forward together with all mankind.
+
+Let us take as our goal: where peace is unknown, make it welcome; where peace is fragile, make it strong; where peace is temporary, make it permanent.
+
+After a period of confrontation, we are entering an era of negotiation.
+
+Let all nations know that during this administration our lines of communication will be open.
+
+We seek an open world—open to ideas, open to the exchange of goods and people—a world in which no people, great or small, will live in angry isolation.
+
+We cannot expect to make everyone our friend, but we can try to make no one our enemy.
+
+Those who would be our adversaries, we invite to a peaceful competition—not in conquering territory or extending dominion, but in enriching the life of man.
+
+As we explore the reaches of space, let us go to the new worlds together—not as new worlds to be conquered, but as a new adventure to be shared.
+
+With those who are willing to join, let us cooperate to reduce the burden of arms, to strengthen the structure of peace, to lift up the poor and the hungry.
+
+But to all those who would be tempted by weakness, let us leave no doubt that we will be as strong as we need to be for as long as we need to be.
+
+Over the past twenty years, since I first came to this Capital as a freshman Congressman, I have visited most of the nations of the world.
+
+I have come to know the leaders of the world, and the great forces, the hatreds, the fears that divide the world.
+
+I know that peace does not come through wishing for it—that there is no substitute for days and even years of patient and prolonged diplomacy.
+
+I also know the people of the world.
+
+I have seen the hunger of a homeless child, the pain of a man wounded in battle, the grief of a mother who has lost her son. I know these have no ideology, no race.
+
+I know America. I know the heart of America is good.
+
+I speak from my own heart, and the heart of my country, the deep concern we have for those who suffer, and those who sorrow.
+
+I have taken an oath today in the presence of God and my countrymen to uphold and defend the Constitution of the United States. To that oath I now add this sacred commitment: I shall consecrate my office, my energies, and all the wisdom I can summon, to the cause of peace among nations.
+
+Let this message be heard by strong and weak alike:
+
+The peace we seek to win is not victory over any other people, but the peace that comes "with healing in its wings"; with compassion for those who have suffered; with understanding for those who have opposed us; with the opportunity for all the peoples of this earth to choose their own destiny.
+
+Only a few short weeks ago, we shared the glory of man's first sight of the world as God sees it, as a single sphere reflecting light in the darkness.
+
+As the Apollo astronauts flew over the moon's gray surface on Christmas Eve, they spoke to us of the beauty of earth—and in that voice so clear across the lunar distance, we heard them invoke God's blessing on its goodness.
+
+In that moment, their view from the moon moved poet Archibald MacLeish to write:
+
+"To see the earth as it truly is, small and blue and beautiful in that eternal silence where it floats, is to see ourselves as riders on the earth together, brothers on that bright loveliness in the eternal cold—brothers who know now they are truly brothers."
+
+In that moment of surpassing technological triumph, men turned their thoughts toward home and humanity—seeing in that far perspective that man's destiny on earth is not divisible; telling us that however far we reach into the cosmos, our destiny lies not in the stars but on Earth itself, in our own hands, in our own hearts.
+
+We have endured a long night of the American spirit. But as our eyes catch the dimness of the first rays of dawn, let us not curse the remaining dark. Let us gather the light.
+
+Our destiny offers, not the cup of despair, but the chalice of opportunity. So let us seize it, not in fear, but in gladness—and, "riders on the earth together," let us go forward, firm in our faith, steadfast in our purpose, cautious of the dangers; but sustained by our confidence in the will of God and the promise of man.
+
+## RICHARD MILHOUS NIXON, SECOND INAUGURAL ADDRESS. SATURDAY, JANUARY 20, 1973
+
+Mr. Vice President, Mr. Speaker, Mr. Chief Justice, Senator Cook, Mrs. Eisenhower, and my fellow citizens of this great and good country we share together:
+
+When we met here four years ago, America was bleak in spirit, depressed by the prospect of seemingly endless war abroad and of destructive conflict at home.
+
+As we meet here today, we stand on the threshold of a new era of peace in the world.
+
+The central question before us is: How shall we use that peace? Let us resolve that this era we are about to enter will not be what other postwar periods have so often been: a time of retreat and isolation that leads to stagnation at home and invites new danger abroad.
+
+Let us resolve that this will be what it can become: a time of great responsibilities greatly borne, in which we renew the spirit and the promise of America as we enter our third century as a nation.
+
+This past year saw far-reaching results from our new policies for peace. By continuing to revitalize our traditional friendships, and by our missions to Peking and to Moscow, we were able to establish the base for a new and more durable pattern of relationships among the nations of the world. Because of America's bold initiatives, 1972 will be long remembered as the year of the greatest progress since the end of World War II toward a lasting peace in the world.
+
+The peace we seek in the world is not the flimsy peace which is merely an interlude between wars, but a peace which can endure for generations to come.
+
+It is important that we understand both the necessity and the limitations of America's role in maintaining that peace.
+
+Unless we in America work to preserve the peace, there will be no peace.
+
+Unless we in America work to preserve freedom, there will be no freedom.
+
+But let us clearly understand the new nature of America's role, as a result of the new policies we have adopted over these past four years.
+
+We shall respect our treaty commitments.
+
+We shall support vigorously the principle that no country has the right to impose its will or rule on another by force.
+
+We shall continue, in this era of negotiation, to work for the limitation of nuclear arms, and to reduce the danger of confrontation between the great powers.
+
+We shall do our share in defending peace and freedom in the world. But we shall expect others to do their share.
+
+The time has passed when America will make every other nation's conflict our own, or make every other nation's future our responsibility, or presume to tell the people of other nations how to manage their own affairs.
+
+Just as we respect the right of each nation to determine its own future, we also recognize the responsibility of each nation to secure its own future.
+
+Just as America's role is indispensable in preserving the world's peace, so is each nation's role indispensable in preserving its own peace.
+
+Together with the rest of the world, let us resolve to move forward from the beginnings we have made. Let us continue to bring down the walls of hostility which have divided the world for too long, and to build in their place bridges of understanding—so that despite profound differences between systems of government, the people of the world can be friends.
+
+Let us build a structure of peace in the world in which the weak are as safe as the strong—in which each respects the right of the other to live by a different system—in which those who would influence others will do so by the strength of their ideas, and not by the force of their arms.
+
+Let us accept that high responsibility not as a burden, but gladly—gladly because the chance to build such a peace is the noblest endeavor in which a nation can engage; gladly, also, because only if we act greatly in meeting our responsibilities abroad will we remain a great Nation, and only if we remain a great Nation will we act greatly in meeting our challenges at home.
+
+We have the chance today to do more than ever before in our history to make life better in America—to ensure better education, better health, better housing, better transportation, a cleaner environment—to restore respect for law, to make our communities more livable—and to insure the God-given right of every American to full and equal opportunity.
+
+Because the range of our needs is so great—because the reach of our opportunities is so great—let us be bold in our determination to meet those needs in new ways.
+
+Just as building a structure of peace abroad has required turning away from old policies that failed, so building a new era of progress at home requires turning away from old policies that have failed.
+
+Abroad, the shift from old policies to new has not been a retreat from our responsibilities, but a better way to peace.
+
+And at home, the shift from old policies to new will not be a retreat from our responsibilities, but a better way to progress.
+
+Abroad and at home, the key to those new responsibilities lies in the placing and the division of responsibility. We have lived too long with the consequences of attempting to gather all power and responsibility in Washington.
+
+Abroad and at home, the time has come to turn away from the condescending policies of paternalism—of "Washington knows best."
+
+A person can be expected to act responsibly only if he has responsibility. This is human nature. So let us encourage individuals at home and nations abroad to do more for themselves, to decide more for themselves. Let us locate responsibility in more places. Let us measure what we will do for others by what they will do for themselves.
+
+That is why today I offer no promise of a purely governmental solution for every problem. We have lived too long with that false promise. In trusting too much in government, we have asked of it more than it can deliver. This leads only to inflated expectations, to reduced individual effort, and to a disappointment and frustration that erode confidence both in what government can do and in what people can do.
+
+Government must learn to take less from people so that people can do more for themselves.
+
+Let us remember that America was built not by government, but by people—not by welfare, but by work—not by shirking responsibility, but by seeking responsibility.
+
+In our own lives, let each of us ask—not just what will government do for me, but what can I do for myself?
+
+In the challenges we face together, let each of us ask—not just how can government help, but how can I help?
+
+Your National Government has a great and vital role to play. And I pledge to you that where this Government should act, we will act boldly and we will lead boldly. But just as important is the role that each and every one of us must play, as an individual and as a member of his own community.
+
+From this day forward, let each of us make a solemn commitment in his own heart: to bear his responsibility, to do his part, to live his ideals—so that together, we can see the dawn of a new age of progress for America, and together, as we celebrate our 200th anniversary as a nation, we can do so proud in the fulfillment of our promise to ourselves and to the world.
+
+As America's longest and most difficult war comes to an end, let us again learn to debate our differences with civility and decency. And let each of us reach out for that one precious quality government cannot provide—a new level of respect for the rights and feelings of one another, a new level of respect for the individual human dignity which is the cherished birthright of every American.
+
+Above all else, the time has come for us to renew our faith in ourselves and in America.
+
+In recent years, that faith has been challenged.
+
+Our children have been taught to be ashamed of their country, ashamed of their parents, ashamed of America's record at home and of its role in the world.
+
+At every turn, we have been beset by those who find everything wrong with America and little that is right. But I am confident that this will not be the judgment of history on these remarkable times in which we are privileged to live.
+
+America's record in this century has been unparalleled in the world's history for its responsibility, for its generosity, for its creativity and for its progress.
+
+Let us be proud that our system has produced and provided more freedom and more abundance, more widely shared, than any other system in the history of the world.
+
+Let us be proud that in each of the four wars in which we have been engaged in this century, including the one we are now bringing to an end, we have fought not for our selfish advantage, but to help others resist aggression.
+
+Let us be proud that by our bold, new initiatives, and by our steadfastness for peace with honor, we have made a break-through toward creating in the world what the world has not known before—a structure of peace that can last, not merely for our time, but for generations to come.
+
+We are embarking here today on an era that presents challenges great as those any nation, or any generation, has ever faced.
+
+We shall answer to God, to history, and to our conscience for the way in which we use these years.
+
+As I stand in this place, so hallowed by history, I think of others who have stood here before me. I think of the dreams they had for America, and I think of how each recognized that he needed help far beyond himself in order to make those dreams come true.
+
+Today, I ask your prayers that in the years ahead I may have God's help in making decisions that are right for America, and I pray for your help so that together we may be worthy of our challenge.
+
+Let us pledge together to make these next four years the best four years in America's history, so that on its 200th birthday America will be as young and as vital as when it began, and as bright a beacon of hope for all the world.
+
+Let us go forward from here confident in hope, strong in our faith in one another, sustained by our faith in God who created us, and striving always to serve His purpose.
+
+## JIMMY CARTER, INAUGURAL ADDRESS. THURSDAY, JANUARY 20, 1977
+
+For myself and for our Nation, I want to thank my predecessor for all he has done to heal our land.
+
+In this outward and physical ceremony we attest once again to the inner and spiritual strength of our Nation. As my high school teacher, Miss Julia Coleman, used to say: "We must adjust to changing times and still hold to unchanging principles."
+
+Here before me is the Bible used in the inauguration of our first President, in 1789, and I have just taken the oath of office on the Bible my mother gave me a few years ago, opened to a timeless admonition from the ancient prophet Micah:
+
+"He hath showed thee, O man, what is good; and what doth the Lord require of thee, but to do justly, and to love mercy, and to walk humbly with thy God." (Micah 6: 8)
+
+This inauguration ceremony marks a new beginning, a new dedication within our Government, and a new spirit among us all. A President may sense and proclaim that new spirit, but only a people can provide it.
+
+Two centuries ago our Nation's birth was a milestone in the long quest for freedom, but the bold and brilliant dream which excited the founders of this Nation still awaits its consummation. I have no new dream to set forth today, but rather urge a fresh faith in the old dream.
+
+Ours was the first society openly to define itself in terms of both spirituality and of human liberty. It is that unique self-definition which has given us an exceptional appeal, but it also imposes on us a special obligation, to take on those moral duties which, when assumed, seem invariably to be in our own best interests.
+
+You have given me a great responsibility—to stay close to you, to be worthy of you, and to exemplify what you are. Let us create together a new national spirit of unity and trust. Your strength can compensate for my weakness, and your wisdom can help to minimize my mistakes.
+
+Let us learn together and laugh together and work together and pray together, confident that in the end we will triumph together in the right.
+
+The American dream endures. We must once again have full faith in our country—and in one another. I believe America can be better. We can be even stronger than before.
+
+Let our recent mistakes bring a resurgent commitment to the basic principles of our Nation, for we know that if we despise our own government we have no future. We recall in special times when we have stood briefly, but magnificently, united. In those times no prize was beyond our grasp.
+
+But we cannot dwell upon remembered glory. We cannot afford to drift. We reject the prospect of failure or mediocrity or an inferior quality of life for any person. Our Government must at the same time be both competent and compassionate.
+
+We have already found a high degree of personal liberty, and we are now struggling to enhance equality of opportunity. Our commitment to human rights must be absolute, our laws fair, our natural beauty preserved; the powerful must not persecute the weak, and human dignity must be enhanced.
+
+We have learned that "more" is not necessarily "better," that even our great Nation has its recognized limits, and that we can neither answer all questions nor solve all problems. We cannot afford to do everything, nor can we afford to lack boldness as we meet the future. So, together, in a spirit of individual sacrifice for the common good, we must simply do our best.
+
+Our Nation can be strong abroad only if it is strong at home. And we know that the best way to enhance freedom in other lands is to demonstrate here that our democratic system is worthy of emulation.
+
+To be true to ourselves, we must be true to others. We will not behave in foreign places so as to violate our rules and standards here at home, for we know that the trust which our Nation earns is essential to our strength.
+
+The world itself is now dominated by a new spirit. Peoples more numerous and more politically aware are craving and now demanding their place in the sun—not just for the benefit of their own physical condition, but for basic human rights.
+
+The passion for freedom is on the rise. Tapping this new spirit, there can be no nobler nor more ambitious task for America to undertake on this day of a new beginning than to help shape a just and peaceful world that is truly humane.
+
+We are a strong nation, and we will maintain strength so sufficient that it need not be proven in combat—a quiet strength based not merely on the size of an arsenal, but on the nobility of ideas.
+
+We will be ever vigilant and never vulnerable, and we will fight our wars against poverty, ignorance, and injustice—for those are the enemies against which our forces can be honorably marshaled.
+
+We are a purely idealistic Nation, but let no one confuse our idealism with weakness.
+
+Because we are free we can never be indifferent to the fate of freedom elsewhere. Our moral sense dictates a clearcut preference for these societies which share with us an abiding respect for individual human rights. We do not seek to intimidate, but it is clear that a world which others can dominate with impunity would be inhospitable to decency and a threat to the well-being of all people.
+
+The world is still engaged in a massive armaments race designed to ensure continuing equivalent strength among potential adversaries. We pledge perseverance and wisdom in our efforts to limit the world's armaments to those necessary for each nation's own domestic safety. And we will move this year a step toward ultimate goal—the elimination of all nuclear weapons from this Earth. We urge all other people to join us, for success can mean life instead of death.
+
+Within us, the people of the United States, there is evident a serious and purposeful rekindling of confidence. And I join in the hope that when my time as your President has ended, people might say this about our Nation:
+
+—that we had remembered the words of Micah and renewed our search for humility, mercy, and justice;
+
+—that we had torn down the barriers that separated those of different race and region and religion, and where there had been mistrust, built unity, with a respect for diversity;
+
+—that we had found productive work for those able to perform it;
+
+—that we had strengthened the American family, which is the basis of our society;
+
+—that we had ensured respect for the law, and equal treatment under the law, for the weak and the powerful, for the rich and the poor;
+
+—and that we had enabled our people to be proud of their own Government once again.
+
+I would hope that the nations of the world might say that we had built a lasting peace, built not on weapons of war but on international policies which reflect our own most precious values.
+
+These are not just my goals, and they will not be my accomplishments, but the affirmation of our Nation's continuing moral strength and our belief in an undiminished, ever-expanding American dream.
+
+## RONALD REAGAN, FIRST INAUGURAL ADDRESS. TUESDAY, JANUARY 20, 1981
+
+Senator Hatfield, Mr. Chief Justice, Mr. President, Vice President Bush, Vice President Mondale, Senator Baker, Speaker O'Neill, Reverend Moomaw, and my fellow citizens: To a few of us here today, this is a solemn and most momentous occasion; and yet, in the history of our Nation, it is a commonplace occurrence. The orderly transfer of authority as called for in the Constitution routinely takes place as it has for almost two centuries and few of us stop to think how unique we really are. In the eyes of many in the world, this every-4-year ceremony we accept as normal is nothing less than a miracle.
+
+Mr. President, I want our fellow citizens to know how much you did to carry on this tradition. By your gracious cooperation in the transition process, you have shown a watching world that we are a united people pledged to maintaining a political system which guarantees individual liberty to a greater degree than any other, and I thank you and your people for all your help in maintaining the continuity which is the bulwark of our Republic.
+
+The business of our nation goes forward. These United States are confronted with an economic affliction of great proportions. We suffer from the longest and one of the worst sustained inflations in our national history. It distorts our economic decisions, penalizes thrift, and crushes the struggling young and the fixed-income elderly alike. It threatens to shatter the lives of millions of our people.
+
+Idle industries have cast workers into unemployment, causing human misery and personal indignity. Those who do work are denied a fair return for their labor by a tax system which penalizes successful achievement and keeps us from maintaining full productivity.
+
+But great as our tax burden is, it has not kept pace with public spending. For decades, we have piled deficit upon deficit, mortgaging our future and our children's future for the temporary convenience of the present. To continue this long trend is to guarantee tremendous social, cultural, political, and economic upheavals.
+
+You and I, as individuals, can, by borrowing, live beyond our means, but for only a limited period of time. Why, then, should we think that collectively, as a nation, we are not bound by that same limitation?
+
+We must act today in order to preserve tomorrow. And let there be no misunderstanding—we are going to begin to act, beginning today.
+
+The economic ills we suffer have come upon us over several decades. They will not go away in days, weeks, or months, but they will go away. They will go away because we, as Americans, have the capacity now, as we have had in the past, to do whatever needs to be done to preserve this last and greatest bastion of freedom.
+
+In this present crisis, government is not the solution to our problem.
+
+From time to time, we have been tempted to believe that society has become too complex to be managed by self-rule, that government by an elite group is superior to government for, by, and of the people. But if no one among us is capable of governing himself, then who among us has the capacity to govern someone else? All of us together, in and out of government, must bear the burden. The solutions we seek must be equitable, with no one group singled out to pay a higher price.
+
+We hear much of special interest groups. Our concern must be for a special interest group that has been too long neglected. It knows no sectional boundaries or ethnic and racial divisions, and it crosses political party lines. It is made up of men and women who raise our food, patrol our streets, man our mines and our factories, teach our children, keep our homes, and heal us when we are sick—professionals, industrialists, shopkeepers, clerks, cabbies, and truckdrivers. They are, in short, "We the people," this breed called Americans.
+
+Well, this administration's objective will be a healthy, vigorous, growing economy that provides equal opportunity for all Americans, with no barriers born of bigotry or discrimination. Putting America back to work means putting all Americans back to work. Ending inflation means freeing all Americans from the terror of runaway living costs. All must share in the productive work of this "new beginning" and all must share in the bounty of a revived economy. With the idealism and fair play which are the core of our system and our strength, we can have a strong and prosperous America at peace with itself and the world.
+
+So, as we begin, let us take inventory. We are a nation that has a government—not the other way around. And this makes us special among the nations of the Earth. Our Government has no power except that granted it by the people. It is time to check and reverse the growth of government which shows signs of having grown beyond the consent of the governed.
+
+It is my intention to curb the size and influence of the Federal establishment and to demand recognition of the distinction between the powers granted to the Federal Government and those reserved to the States or to the people. All of us need to be reminded that the Federal Government did not create the States; the States created the Federal Government.
+
+Now, so there will be no misunderstanding, it is not my intention to do away with government. It is, rather, to make it work-work with us, not over us; to stand by our side, not ride on our back. Government can and must provide opportunity, not smother it; foster productivity, not stifle it.
+
+If we look to the answer as to why, for so many years, we achieved so much, prospered as no other people on Earth, it was because here, in this land, we unleashed the energy and individual genius of man to a greater extent than has ever been done before. Freedom and the dignity of the individual have been more available and assured here than in any other place on Earth. The price for this freedom at times has been high, but we have never been unwilling to pay that price.
+
+It is no coincidence that our present troubles parallel and are proportionate to the intervention and intrusion in our lives that result from unnecessary and excessive growth of government. It is time for us to realize that we are too great a nation to limit ourselves to small dreams. We are not, as some would have us believe, doomed to an inevitable decline. I do not believe in a fate that will fall on us no matter what we do. I do believe in a fate that will fall on us if we do nothing. So, with all the creative energy at our command, let us begin an era of national renewal. Let us renew our determination, our courage, and our strength. And let us renew our faith and our hope.
+
+We have every right to dream heroic dreams. Those who say that we are in a time when there are no heroes just don't know where to look. You can see heroes every day going in and out of factory gates. Others, a handful in number, produce enough food to feed all of us and then the world beyond. You meet heroes across a counter—and they are on both sides of that counter. There are entrepreneurs with faith in themselves and faith in an idea who create new jobs, new wealth and opportunity. They are individuals and families whose taxes support the Government and whose voluntary gifts support church, charity, culture, art, and education. Their patriotism is quiet but deep. Their values sustain our national life.
+
+I have used the words "they" and "their" in speaking of these heroes. I could say "you" and "your" because I am addressing the heroes of whom I speak—you, the citizens of this blessed land. Your dreams, your hopes, your goals are going to be the dreams, the hopes, and the goals of this administration, so help me God.
+
+We shall reflect the compassion that is so much a part of your makeup. How can we love our country and not love our countrymen, and loving them, reach out a hand when they fall, heal them when they are sick, and provide opportunities to make them self-sufficient so they will be equal in fact and not just in theory?
+
+Can we solve the problems confronting us? Well, the answer is an unequivocal and emphatic "yes." To paraphrase Winston Churchill, I did not take the oath I have just taken with the intention of presiding over the dissolution of the world's strongest economy.
+
+In the days ahead I will propose removing the roadblocks that have slowed our economy and reduced productivity. Steps will be taken aimed at restoring the balance between the various levels of government. Progress may be slow—measured in inches and feet, not miles—but we will progress. Is it time to reawaken this industrial giant, to get government back within its means, and to lighten our punitive tax burden. And these will be our first priorities, and on these principles, there will be no compromise.
+
+On the eve of our struggle for independence a man who might have been one of the greatest among the Founding Fathers, Dr. Joseph Warren, President of the Massachusetts Congress, said to his fellow Americans, "Our country is in danger, but not to be despaired of.... On you depend the fortunes of America. You are to decide the important questions upon which rests the happiness and the liberty of millions yet unborn. Act worthy of yourselves."
+
+Well, I believe we, the Americans of today, are ready to act worthy of ourselves, ready to do what must be done to ensure happiness and liberty for ourselves, our children and our children's children.
+
+And as we renew ourselves here in our own land, we will be seen as having greater strength throughout the world. We will again be the exemplar of freedom and a beacon of hope for those who do not now have freedom.
+
+To those neighbors and allies who share our freedom, we will strengthen our historic ties and assure them of our support and firm commitment. We will match loyalty with loyalty. We will strive for mutually beneficial relations. We will not use our friendship to impose on their sovereignty, for our own sovereignty is not for sale.
+
+As for the enemies of freedom, those who are potential adversaries, they will be reminded that peace is the highest aspiration of the American people. We will negotiate for it, sacrifice for it; we will not surrender for it—now or ever.
+
+Our forbearance should never be misunderstood. Our reluctance for conflict should not be misjudged as a failure of will. When action is required to preserve our national security, we will act. We will maintain sufficient strength to prevail if need be, knowing that if we do so we have the best chance of never having to use that strength.
+
+Above all, we must realize that no arsenal, or no weapon in the arsenals of the world, is so formidable as the will and moral courage of free men and women. It is a weapon our adversaries in today's world do not have. It is a weapon that we as Americans do have. Let that be understood by those who practice terrorism and prey upon their neighbors.
+
+I am told that tens of thousands of prayer meetings are being held on this day, and for that I am deeply grateful. We are a nation under God, and I believe God intended for us to be free. It would be fitting and good, I think, if on each Inauguration Day in future years it should be declared a day of prayer.
+
+This is the first time in history that this ceremony has been held, as you have been told, on this West Front of the Capitol. Standing here, one faces a magnificent vista, opening up on this city's special beauty and history. At the end of this open mall are those shrines to the giants on whose shoulders we stand.
+
+Directly in front of me, the monument to a monumental man: George Washington, Father of our country. A man of humility who came to greatness reluctantly. He led America out of revolutionary victory into infant nationhood. Off to one side, the stately memorial to Thomas Jefferson. The Declaration of Independence flames with his eloquence.
+
+And then beyond the Reflecting Pool the dignified columns of the Lincoln Memorial. Whoever would understand in his heart the meaning of America will find it in the life of Abraham Lincoln.
+
+Beyond those monuments to heroism is the Potomac River, and on the far shore the sloping hills of Arlington National Cemetery with its row on row of simple white markers bearing crosses or Stars of David. They add up to only a tiny fraction of the price that has been paid for our freedom.
+
+Each one of those markers is a monument to the kinds of hero I spoke of earlier. Their lives ended in places called Belleau Wood, The Argonne, Omaha Beach, Salerno and halfway around the world on Guadalcanal, Tarawa, Pork Chop Hill, the Chosin Reservoir, and in a hundred rice paddies and jungles of a place called Vietnam.
+
+Under one such marker lies a young man—Martin Treptow—who left his job in a small town barber shop in 1917 to go to France with the famed Rainbow Division. There, on the western front, he was killed trying to carry a message between battalions under heavy artillery fire.
+
+We are told that on his body was found a diary. On the flyleaf under the heading, "My Pledge," he had written these words: "America must win this war. Therefore, I will work, I will save, I will sacrifice, I will endure, I will fight cheerfully and do my utmost, as if the issue of the whole struggle depended on me alone."
+
+The crisis we are facing today does not require of us the kind of sacrifice that Martin Treptow and so many thousands of others were called upon to make. It does require, however, our best effort, and our willingness to believe in ourselves and to believe in our capacity to perform great deeds; to believe that together, with God's help, we can and will resolve the problems which now confront us.
+
+And, after all, why shouldn't we believe that? We are Americans. God bless you, and thank you.
+
+## RONALD REAGAN, SECOND INAUGURAL ADDRESS. MONDAY, JANUARY 21, 1985
+
+Senator Mathias, Chief Justice Burger, Vice President Bush, Speaker O'Neill, Senator Dole, Reverend Clergy, members of my family and friends, and my fellow citizens:
+
+This day has been made brighter with the presence here of one who, for a time, has been absent—Senator John Stennis.
+
+God bless you and welcome back.
+
+There is, however, one who is not with us today: Representative Gillis Long of Louisiana left us last night. I wonder if we could all join in a moment of silent prayer. (Moment of silent prayer.) Amen.
+
+There are no words adequate to express my thanks for the great honor that you have bestowed on me. I will do my utmost to be deserving of your trust.
+
+This is, as Senator Mathias told us, the 50th time that we the people have celebrated this historic occasion. When the first President, George Washington, placed his hand upon the Bible, he stood less than a single day's journey by horseback from raw, untamed wilderness. There were 4 million Americans in a union of 13 States. Today we are 60 times as many in a union of 50 States. We have lighted the world with our inventions, gone to the aid of mankind wherever in the world there was a cry for help, journeyed to the Moon and safely returned. So much has changed. And yet we stand together as we did two centuries ago.
+
+When I took this oath four years ago, I did so in a time of economic stress. Voices were raised saying we had to look to our past for the greatness and glory. But we, the present-day Americans, are not given to looking backward. In this blessed land, there is always a better tomorrow.
+
+Four years ago, I spoke to you of a new beginning and we have accomplished that. But in another sense, our new beginning is a continuation of that beginning created two centuries ago when, for the first time in history, government, the people said, was not our master, it is our servant; its only power that which we the people allow it to have.
+
+That system has never failed us, but, for a time, we failed the system. We asked things of government that government was not equipped to give. We yielded authority to the National Government that properly belonged to States or to local governments or to the people themselves. We allowed taxes and inflation to rob us of our earnings and savings and watched the great industrial machine that had made us the most productive people on Earth slow down and the number of unemployed increase.
+
+By 1980, we knew it was time to renew our faith, to strive with all our strength toward the ultimate in individual freedom consistent with an orderly society.
+
+We believed then and now there are no limits to growth and human progress when men and women are free to follow their dreams.
+
+And we were right to believe that. Tax rates have been reduced, inflation cut dramatically, and more people are employed than ever before in our history.
+
+We are creating a nation once again vibrant, robust, and alive. But there are many mountains yet to climb. We will not rest until every American enjoys the fullness of freedom, dignity, and opportunity as our birthright. It is our birthright as citizens of this great Republic, and we'll meet this challenge.
+
+These will be years when Americans have restored their confidence and tradition of progress; when our values of faith, family, work, and neighborhood were restated for a modern age; when our economy was finally freed from government's grip; when we made sincere efforts at meaningful arms reduction, rebuilding our defenses, our economy, and developing new technologies, and helped preserve peace in a troubled world; when Americans courageously supported the struggle for liberty, self-government, and free enterprise throughout the world, and turned the tide of history away from totalitarian darkness and into the warm sunlight of human freedom.
+
+My fellow citizens, our Nation is poised for greatness. We must do what we know is right and do it with all our might. Let history say of us, "These were golden years—when the American Revolution was reborn, when freedom gained new life, when America reached for her best."
+
+Our two-party system has served us well over the years, but never better than in those times of great challenge when we came together not as Democrats or Republicans, but as Americans united in a common cause.
+
+Two of our Founding Fathers, a Boston lawyer named Adams and a Virginia planter named Jefferson, members of that remarkable group who met in Independence Hall and dared to think they could start the world over again, left us an important lesson. They had become political rivals in the Presidential election of 1800. Then years later, when both were retired, and age had softened their anger, they began to speak to each other again through letters. A bond was reestablished between those two who had helped create this government of ours.
+
+In 1826, the 50th anniversary of the Declaration of Independence, they both died. They died on the same day, within a few hours of each other, and that day was the Fourth of July.
+
+In one of those letters exchanged in the sunset of their lives, Jefferson wrote: "It carries me back to the times when, beset with difficulties and dangers, we were fellow laborers in the same cause, struggling for what is most valuable to man, his right to self-government. Laboring always at the same oar, with some wave ever ahead threatening to overwhelm us, and yet passing harmless...we rode through the storm with heart and hand."
+
+Well, with heart and hand, let us stand as one today: One people under God determined that our future shall be worthy of our past. As we do, we must not repeat the well-intentioned errors of our past. We must never again abuse the trust of working men and women, by sending their earnings on a futile chase after the spiraling demands of a bloated Federal Establishment. You elected us in 1980 to end this prescription for disaster, and I don't believe you reelected us in 1984 to reverse course.
+
+At the heart of our efforts is one idea vindicated by 25 straight months of economic growth: Freedom and incentives unleash the drive and entrepreneurial genius that are the core of human progress. We have begun to increase the rewards for work, savings, and investment; reduce the increase in the cost and size of government and its interference in people's lives.
+
+We must simplify our tax system, make it more fair, and bring the rates down for all who work and earn. We must think anew and move with a new boldness, so every American who seeks work can find work; so the least among us shall have an equal chance to achieve the greatest things—to be heroes who heal our sick, feed the hungry, protect peace among nations, and leave this world a better place.
+
+The time has come for a new American emancipation—a great national drive to tear down economic barriers and liberate the spirit of enterprise in the most distressed areas of our country. My friends, together we can do this, and do it we must, so help me God.
+
+From new freedom will spring new opportunities for growth, a more productive, fulfilled and united people, and a stronger America—an America that will lead the technological revolution, and also open its mind and heart and soul to the treasures of literature, music, and poetry, and the values of faith, courage, and love.
+
+A dynamic economy, with more citizens working and paying taxes, will be our strongest tool to bring down budget deficits. But an almost unbroken 50 years of deficit spending has finally brought us to a time of reckoning. We have come to a turning point, a moment for hard decisions. I have asked the Cabinet and my staff a question, and now I put the same question to all of you: If not us, who? And if not now, when? It must be done by all of us going forward with a program aimed at reaching a balanced budget. We can then begin reducing the national debt.
+
+I will shortly submit a budget to the Congress aimed at freezing government program spending for the next year. Beyond that, we must take further steps to permanently control Government's power to tax and spend. We must act now to protect future generations from Government's desire to spend its citizens' money and tax them into servitude when the bills come due. Let us make it unconstitutional for the Federal Government to spend more than the Federal Government takes in.
+
+We have already started returning to the people and to State and local governments responsibilities better handled by them. Now, there is a place for the Federal Government in matters of social compassion. But our fundamental goals must be to reduce dependency and upgrade the dignity of those who are infirm or disadvantaged. And here a growing economy and support from family and community offer our best chance for a society where compassion is a way of life, where the old and infirm are cared for, the young and, yes, the unborn protected, and the unfortunate looked after and made self-sufficient.
+
+And there is another area where the Federal Government can play a part. As an older American, I remember a time when people of different race, creed, or ethnic origin in our land found hatred and prejudice installed in social custom and, yes, in law. There is no story more heartening in our history than the progress that we have made toward the "brotherhood of man" that God intended for us. Let us resolve there will be no turning back or hesitation on the road to an America rich in dignity and abundant with opportunity for all our citizens.
+
+Let us resolve that we the people will build an American opportunity society in which all of us—white and black, rich and poor, young and old—will go forward together arm in arm. Again, let us remember that though our heritage is one of blood lines from every corner of the Earth, we are all Americans pledged to carry on this last, best hope of man on Earth.
+
+I have spoken of our domestic goals and the limitations which we should put on our National Government. Now let me turn to a task which is the primary responsibility of National Government—the safety and security of our people.
+
+Today, we utter no prayer more fervently than the ancient prayer for peace on Earth. Yet history has shown that peace will not come, nor will our freedom be preserved, by good will alone. There are those in the world who scorn our vision of human dignity and freedom. One nation, the Soviet Union, has conducted the greatest military buildup in the history of man, building arsenals of awesome offensive weapons.
+
+We have made progress in restoring our defense capability. But much remains to be done. There must be no wavering by us, nor any doubts by others, that America will meet her responsibilities to remain free, secure, and at peace.
+
+There is only one way safely and legitimately to reduce the cost of national security, and that is to reduce the need for it. And this we are trying to do in negotiations with the Soviet Union. We are not just discussing limits on a further increase of nuclear weapons. We seek, instead, to reduce their number. We seek the total elimination one day of nuclear weapons from the face of the Earth.
+
+Now, for decades, we and the Soviets have lived under the threat of mutual assured destruction; if either resorted to the use of nuclear weapons, the other could retaliate and destroy the one who had started it. Is there either logic or morality in believing that if one side threatens to kill tens of millions of our people, our only recourse is to threaten killing tens of millions of theirs?
+
+I have approved a research program to find, if we can, a security shield that would destroy nuclear missiles before they reach their target. It wouldn't kill people, it would destroy weapons. It wouldn't militarize space, it would help demilitarize the arsenals of Earth. It would render nuclear weapons obsolete. We will meet with the Soviets, hoping that we can agree on a way to rid the world of the threat of nuclear destruction.
+
+We strive for peace and security, heartened by the changes all around us. Since the turn of the century, the number of democracies in the world has grown fourfold. Human freedom is on the march, and nowhere more so than our own hemisphere. Freedom is one of the deepest and noblest aspirations of the human spirit. People, worldwide, hunger for the right of self-determination, for those inalienable rights that make for human dignity and progress.
+
+America must remain freedom's staunchest friend, for freedom is our best ally.
+
+And it is the world's only hope, to conquer poverty and preserve peace. Every blow we inflict against poverty will be a blow against its dark allies of oppression and war. Every victory for human freedom will be a victory for world peace.
+
+So we go forward today, a nation still mighty in its youth and powerful in its purpose. With our alliances strengthened, with our economy leading the world to a new age of economic expansion, we look forward to a world rich in possibilities. And all this because we have worked and acted together, not as members of political parties, but as Americans.
+
+My friends, we live in a world that is lit by lightning. So much is changing and will change, but so much endures, and transcends time.
+
+History is a ribbon, always unfurling; history is a journey. And as we continue our journey, we think of those who traveled before us. We stand together again at the steps of this symbol of our democracy—or we would have been standing at the steps if it hadn't gotten so cold. Now we are standing inside this symbol of our democracy. Now we hear again the echoes of our past: a general falls to his knees in the hard snow of Valley Forge; a lonely President paces the darkened halls, and ponders his struggle to preserve the Union; the men of the Alamo call out encouragement to each other; a settler pushes west and sings a song, and the song echoes out forever and fills the unknowing air.
+
+It is the American sound. It is hopeful, big-hearted, idealistic, daring, decent, and fair. That's our heritage; that is our song. We sing it still. For all our problems, our differences, we are together as of old, as we raise our voices to the God who is the Author of this most tender music. And may He continue to hold us close as we fill the world with our sound—sound in unity, affection, and love—one people under God, dedicated to the dream of freedom that He has placed in the human heart, called upon now to pass that dream on to a waiting and hopeful world.
+
+God bless you and may God bless America.
+
+## GEORGE BUSH, INAUGURAL ADDRESS. FRIDAY, JANUARY 20, 1989
+
+Mr. Chief Justice, Mr. President, Vice President Quayle, Senator Mitchell, Speaker Wright, Senator Dole, Congressman Michel, and fellow citizens, neighbors, and friends:
+
+There is a man here who has earned a lasting place in our hearts and in our history. President Reagan, on behalf of our Nation, I thank you for the wonderful things that you have done for America.
+
+I have just repeated word for word the oath taken by George Washington 200 years ago, and the Bible on which I placed my hand is the Bible on which he placed his. It is right that the memory of Washington be with us today, not only because this is our Bicentennial Inauguration, but because Washington remains the Father of our Country. And he would, I think, be gladdened by this day; for today is the concrete expression of a stunning fact: our continuity these 200 years since our government began.
+
+We meet on democracy's front porch, a good place to talk as neighbors and as friends. For this is a day when our nation is made whole, when our differences, for a moment, are suspended.
+
+And my first act as President is a prayer. I ask you to bow your heads:
+
+Heavenly Father, we bow our heads and thank You for Your love. Accept our thanks for the peace that yields this day and the shared faith that makes its continuance likely. Make us strong to do Your work, willing to heed and hear Your will, and write on our hearts these words: "Use power to help people." For we are given power not to advance our own purposes, nor to make a great show in the world, nor a name. There is but one just use of power, and it is to serve people. Help us to remember it, Lord. Amen.
+
+I come before you and assume the Presidency at a moment rich with promise. We live in a peaceful, prosperous time, but we can make it better. For a new breeze is blowing, and a world refreshed by freedom seems reborn; for in man's heart, if not in fact, the day of the dictator is over. The totalitarian era is passing, its old ideas blown away like leaves from an ancient, lifeless tree. A new breeze is blowing, and a nation refreshed by freedom stands ready to push on. There is new ground to be broken, and new action to be taken. There are times when the future seems thick as a fog; you sit and wait, hoping the mists will lift and reveal the right path. But this is a time when the future seems a door you can walk right through into a room called tomorrow.
+
+Great nations of the world are moving toward democracy through the door to freedom. Men and women of the world move toward free markets through the door to prosperity. The people of the world agitate for free expression and free thought through the door to the moral and intellectual satisfactions that only liberty allows.
+
+We know what works: Freedom works. We know what's right: Freedom is right. We know how to secure a more just and prosperous life for man on Earth: through free markets, free speech, free elections, and the exercise of free will unhampered by the state.
+
+For the first time in this century, for the first time in perhaps all history, man does not have to invent a system by which to live. We don't have to talk late into the night about which form of government is better. We don't have to wrest justice from the kings. We only have to summon it from within ourselves. We must act on what we know. I take as my guide the hope of a saint: In crucial things, unity; in important things, diversity; in all things, generosity.
+
+America today is a proud, free nation, decent and civil, a place we cannot help but love. We know in our hearts, not loudly and proudly, but as a simple fact, that this country has meaning beyond what we see, and that our strength is a force for good. But have we changed as a nation even in our time? Are we enthralled with material things, less appreciative of the nobility of work and sacrifice?
+
+My friends, we are not the sum of our possessions. They are not the measure of our lives. In our hearts we know what matters. We cannot hope only to leave our children a bigger car, a bigger bank account. We must hope to give them a sense of what it means to be a loyal friend, a loving parent, a citizen who leaves his home, his neighborhood and town better than he found it. What do we want the men and women who work with us to say when we are no longer there? That we were more driven to succeed than anyone around us? Or that we stopped to ask if a sick child had gotten better, and stayed a moment there to trade a word of friendship?
+
+No President, no government, can teach us to remember what is best in what we are. But if the man you have chosen to lead this government can help make a difference; if he can celebrate the quieter, deeper successes that are made not of gold and silk, but of better hearts and finer souls; if he can do these things, then he must.
+
+America is never wholly herself unless she is engaged in high moral principle. We as a people have such a purpose today. It is to make kinder the face of the Nation and gentler the face of the world. My friends, we have work to do. There are the homeless, lost and roaming. There are the children who have nothing, no love, no normalcy. There are those who cannot free themselves of enslavement to whatever addiction—drugs, welfare, the demoralization that rules the slums. There is crime to be conquered, the rough crime of the streets. There are young women to be helped who are about to become mothers of children they can't care for and might not love. They need our care, our guidance, and our education, though we bless them for choosing life.
+
+The old solution, the old way, was to think that public money alone could end these problems. But we have learned that is not so. And in any case, our funds are low. We have a deficit to bring down. We have more will than wallet; but will is what we need. We will make the hard choices, looking at what we have and perhaps allocating it differently, making our decisions based on honest need and prudent safety. And then we will do the wisest thing of all: We will turn to the only resource we have that in times of need always grows—the goodness and the courage of the American people.
+
+I am speaking of a new engagement in the lives of others, a new activism, hands-on and involved, that gets the job done. We must bring in the generations, harnessing the unused talent of the elderly and the unfocused energy of the young. For not only leadership is passed from generation to generation, but so is stewardship. And the generation born after the Second World War has come of age.
+
+I have spoken of a thousand points of light, of all the community organizations that are spread like stars throughout the Nation, doing good. We will work hand in hand, encouraging, sometimes leading, sometimes being led, rewarding. We will work on this in the White House, in the Cabinet agencies. I will go to the people and the programs that are the brighter points of light, and I will ask every member of my government to become involved. The old ideas are new again because they are not old, they are timeless: duty, sacrifice, commitment, and a patriotism that finds its expression in taking part and pitching in.
+
+We need a new engagement, too, between the Executive and the Congress. The challenges before us will be thrashed out with the House and the Senate. We must bring the Federal budget into balance. And we must ensure that America stands before the world united, strong, at peace, and fiscally sound. But, of course, things may be difficult. We need compromise; we have had dissension. We need harmony; we have had a chorus of discordant voices.
+
+For Congress, too, has changed in our time. There has grown a certain divisiveness. We have seen the hard looks and heard the statements in which not each other's ideas are challenged, but each other's motives. And our great parties have too often been far apart and untrusting of each other. It has been this way since Vietnam. That war cleaves us still. But, friends, that war began in earnest a quarter of a century ago; and surely the statute of limitations has been reached. This is a fact: The final lesson of Vietnam is that no great nation can long afford to be sundered by a memory. A new breeze is blowing, and the old bipartisanship must be made new again.
+
+To my friends—and yes, I do mean friends—in the loyal opposition—and yes, I mean loyal: I put out my hand. I am putting out my hand to you, Mr. Speaker. I am putting out my hand to you Mr. Majority Leader. For this is the thing: This is the age of the offered hand. We can't turn back clocks, and I don't want to. But when our fathers were young, Mr. Speaker, our differences ended at the water's edge. And we don't wish to turn back time, but when our mothers were young, Mr. Majority Leader, the Congress and the Executive were capable of working together to produce a budget on which this nation could live. Let us negotiate soon and hard. But in the end, let us produce. The American people await action. They didn't send us here to bicker. They ask us to rise above the merely partisan. "In crucial things, unity"—and this, my friends, is crucial.
+
+To the world, too, we offer new engagement and a renewed vow: We will stay strong to protect the peace. The "offered hand" is a reluctant fist; but once made, strong, and can be used with great effect. There are today Americans who are held against their will in foreign lands, and Americans who are unaccounted for. Assistance can be shown here, and will be long remembered. Good will begets good will. Good faith can be a spiral that endlessly moves on.
+
+Great nations like great men must keep their word. When America says something, America means it, whether a treaty or an agreement or a vow made on marble steps. We will always try to speak clearly, for candor is a compliment, but subtlety, too, is good and has its place. While keeping our alliances and friendships around the world strong, ever strong, we will continue the new closeness with the Soviet Union, consistent both with our security and with progress. One might say that our new relationship in part reflects the triumph of hope and strength over experience. But hope is good, and so are strength and vigilance.
+
+Here today are tens of thousands of our citizens who feel the understandable satisfaction of those who have taken part in democracy and seen their hopes fulfilled. But my thoughts have been turning the past few days to those who would be watching at home to an older fellow who will throw a salute by himself when the flag goes by, and the women who will tell her sons the words of the battle hymns. I don't mean this to be sentimental. I mean that on days like this, we remember that we are all part of a continuum, inescapably connected by the ties that bind.
+
+Our children are watching in schools throughout our great land. And to them I say, thank you for watching democracy's big day. For democracy belongs to us all, and freedom is like a beautiful kite that can go higher and higher with the breeze. And to all I say: No matter what your circumstances or where you are, you are part of this day, you are part of the life of our great nation.
+
+A President is neither prince nor pope, and I don't seek a window on men's souls. In fact, I yearn for a greater tolerance, an easy-goingness about each other's attitudes and way of life.
+
+There are few clear areas in which we as a society must rise up united and express our intolerance. The most obvious now is drugs. And when that first cocaine was smuggled in on a ship, it may as well have been a deadly bacteria, so much has it hurt the body, the soul of our country. And there is much to be done and to be said, but take my word for it: This scourge will stop.
+
+And so, there is much to do; and tomorrow the work begins. I do not mistrust the future; I do not fear what is ahead. For our problems are large, but our heart is larger. Our challenges are great, but our will is greater. And if our flaws are endless, God's love is truly boundless.
+
+Some see leadership as high drama, and the sound of trumpets calling, and sometimes it is that. But I see history as a book with many pages, and each day we fill a page with acts of hopefulness and meaning. The new breeze blows, a page turns, the story unfolds. And so today a chapter begins, a small and stately story of unity, diversity, and generosity—shared, and written, together.
+
+Thank you. God bless you and God bless the United States of America.
+
+## WILLIAM JEFFERSON CLINTON, FIRST INAUGURAL ADDRESS. JANUARY 20, 1993
+
+My fellow citizens:
+
+Today we celebrate the mystery of American renewal.
+
+This ceremony is held in the depth of winter, but by the words we speak and the faces we show the world, we force the spring. A spring reborn in the world's oldest democracy, that brings forth the vision and courage to reinvent America. When our founders boldly declared America's independence to the world, and our purposes to the Almighty, they knew that America, to endure, would have to change. Not change for change sake, but change to preserve America's ideals: life, liberty, the pursuit of happiness.
+
+Though we march to the music of our time, our mission is timeless. Each generation of American's must define what it means to be an American. On behalf of our nation, I salute my predecessor, President Bush, for his half-century of service to America...and I thank the millions of men and women whose steadfastness and sacrifice triumphed over depression, fascism and communism.
+
+Today, a generation raised in the shadows of the Cold War assumes new responsibilities in a world warmed by the sunshine of freedom, but threatened still by ancient hatreds and new plagues. Raised in unrivalled prosperity, we inherit an economy that is still the world's strongest, but is weakened by business failures, stagnant wages, increasing inequality, and deep divisions among *our own* people.
+
+When George Washington first took the oath I have just sworn to uphold, news travelled slowly across the land by horseback, and across the ocean by boat. Now the sights and sounds of this ceremony are broadcast instantaneously to billions around the world. Communications and commerce are global. Investment is mobile. Technology is almost magical, and ambition for a better life is now universal.
+
+We earn our livelihood in America today in peaceful competition with people all across the Earth. Profound and powerful forces are shaking and remaking our world, and the *urgent* question of our time is whether we can make change our friend and not our enemy. This new world has already enriched the lives of *millions* of Americans who are able to compete and win in it. But when most people are working harder for less, when others cannot work at all, when the cost of health care devastates families and threatens to bankrupt our enterprises, great and small; when the fear of crime robs law abiding citizens of their freedom; and when millions of poor children cannot even imagine the lives we are calling them to lead, we have not made change our friend.
+
+We know we have to face hard truths and take strong steps, but we have not done so. Instead we have drifted, and that drifting has eroded our resources, fractured our economy, and shaken our confidence. Though our challenges are fearsome, so are our strengths. Americans have ever been a restless, questing, hopeful people, and we must bring to our task today the vision and will of those who came before us. From our Revolution to the Civil War, to the Great Depression, to the Civil Rights movement, our people have always mustered the determination to construct from these crises the pillars of our history. Thomas Jefferson believed that to preserve the very foundations of our nation we would need dramatic change from time to time. Well, my fellow Americans, this is OUR time. Let us embrace it.
+
+Our democracy must be not only the envy of the world but the engine of our *own* renewal. There is nothing *wrong* with America that cannot be cured by what is *right* with America.
+
+And so today we pledge an end to the era of deadlock and drift, and a new season of American renewal has begun.
+
+To renew America we must be bold. We must do what no generation has had to do before. We must invest more in our own people, in their jobs, and in their future, and at the same time cut our massive debt...and we must do so in a world in which we must compete for every opportunity. It will not be easy. It will require sacrifice, but it can be done, and done fairly. Not choosing sacrifice for its own sake, but for *our* own sake. We must provide for our nation the way a family provides for its children. Our founders saw themselves in the light of posterity. We can do no less. Anyone who has ever watched a child's eyes wander into sleep knows what posterity is. Posterity is the world to come, the world for whom we hold our ideals, from whom we have borrowed our planet, and to whom we bear sacred responsibilities. We must do what America does best, offer more opportunity TO all and demand more responsibility *from* all.
+
+It is time to break the bad habit of expecting something for nothing: from our government, or from each other. Let us all take more responsibility, not only for ourselves and our families, but for our communities and our country. To renew America we must revitalize our democracy. This beautiful capitol, like every capitol since the dawn of civilization, is often a place of intrigue and calculation. Powerful people maneuver for position and worry endlessly about who is *in* and who is *out*, who is *up* and who is *down*, forgetting those people whose toil and sweat sends us here and paves our way.
+
+Americans deserve better, and in this city today there are people who want to do better, and so I say to all of you here, let us resolve to reform our politics, so that power and privilege no longer shout down the voice of the people. Let us put aside personal advantage, so that we can feel the pain and see the promise of America. Let us resolve to make our government a place for what Franklin Roosevelt called "bold, persistent experimentation, a government for our tomorrows, not our yesterdays." Let us give this capitol back to the people to whom it belongs.
+
+To renew America we must meet challenges abroad, as well as at home. There is no longer a clear division between what is foreign and what is domestic. The world economy, the world environment, the world AIDS crisis, the world arms race: they affect us all. Today as an old order passes, the new world is more free, but less stable. Communism's collapse has called forth old animosities, and new dangers. Clearly, America must continue to lead the world we did so much to make. While America rebuilds at home, we will not shrink from the challenges nor fail to seize the opportunities of this new world. Together with our friends and allies, we will work together to shape change, lest it engulf us. When our vital interests are challenged, or the will and conscience of the international community is defied, we will act; with peaceful diplomacy whenever possible, with force when necessary. The brave Americans serving our nation today in the Persian Gulf, in Somalia, and wherever else they stand, are testament to our resolve, but our greatest strength is the power of our ideas, which are still new in many lands. Across the world, we see them embraced and we rejoice. Our hopes, our hearts, our hands, are with those on every continent, who are building democracy and freedom. Their cause is America's cause. The American people have summoned the change we celebrate today. You have raised your voices in an unmistakable chorus, you have cast your votes in historic numbers, you have changed the face of congress, the presidency, and the political process itself. Yes, *you*, my fellow Americans, have forced the spring. Now *we* must do the work the season demands. To that work I now turn with *all* the authority of my office. I ask the congress to join with me; but no president, no congress, no government can undertake *this* mission alone.
+
+My fellow Americans, you, too, must play your part in our renewal. I challenge a new generation of *young* Americans to a season of service, to act on your idealism, by helping troubled children, keeping company with those in need, reconnecting our torn communities. There is so much to be done. Enough, indeed, for millions of others who are still young in spirit, to give of themselves in service, too. In serving we recognize a simple, but powerful, truth: we need each other, and we must care for one another. Today we do more than celebrate America, we rededicate ourselves to the very idea of America, an idea born in revolution, and renewed through two centuries of challenge, an idea tempered by the knowledge that but for fate, we, the fortunate and the unfortunate, might have been each other; an idea ennobled by the faith that our nation can summon from its myriad diversity, the deepest measure of unity; an idea infused with the conviction that America's journey long, heroic journey must go forever upward.
+
+And so, my fellow Americans, as we stand at the edge of the 21st Century, let us begin anew, with energy and hope, with faith and discipline, and let us work until our work is done. The Scripture says: "And let us not be weary in well-doing, for in due season we shall reap, if we faint not." From this joyful mountaintop of celebration we hear a call to service in the valley. We have heard the trumpets, we have changed the guard, and now each in our own way, and with God's help, we must answer the call.
+
+Thank you, and God bless you all.
+
+## WILLIAM JEFFERSON CLINTON, SECOND INAUGURAL ADDRESS. JANUARY 20, 1997
+
+My fellow citizens:
+
+At this last presidential inauguration of the 20th century, let us lift our eyes toward the challenges that await us in the next century. It is our great good fortune that time and chance have put us not only at the edge of a new century, in a new millennium, but on the edge of a bright new prospect in human affairs—a moment that will define our course, and our character, for decades to come. We must keep our old democracy forever young. Guided by the ancient vision of a promised land, let us set our sights upon a land of new promise.
+
+The promise of America was born in the 18th century out of the bold conviction that we are all created equal. It was extended and preserved in the 19th century, when our nation spread across the continent, saved the union, and abolished the awful scourge of slavery.
+
+Then, in turmoil and triumph, that promise exploded onto the world stage to make this the American Century.
+
+And what a century it has been. America became the world's mightiest industrial power; saved the world from tyranny in two world wars and a long cold war; and time and again, reached out across the globe to millions who, like us, longed for the blessings of liberty.
+
+Along the way, Americans produced a great middle class and security in old age; built unrivaled centers of learning and opened public schools to all; split the atom and explored the heavens; invented the computer and the microchip; and deepened the wellspring of justice by making a revolution in civil rights for African Americans and all minorities, and extending the circle of citizenship, opportunity and dignity to women.
+
+Now, for the third time, a new century is upon us, and another time to choose. We began the 19th century with a choice, to spread our nation from coast to coast. We began the 20th century with a choice, to harness the Industrial Revolution to our values of free enterprise, conservation, and human decency. Those choices made all the difference. At the dawn of the 21st century a free people must now choose to shape the forces of the Information Age and the global society, to unleash the limitless potential of all our people, and, yes, to form a more perfect union.
+
+When last we gathered, our march to this new future seemed less certain than it does today. We vowed then to set a clear course to renew our nation.
+
+In these four years, we have been touched by tragedy, exhilarated by challenge, strengthened by achievement. America stands alone as the world's indispensable nation. Once again, our economy is the strongest on Earth. Once again, we are building stronger families, thriving communities, better educational opportunities, a cleaner environment. Problems that once seemed destined to deepen now bend to our efforts: our streets are safer and record numbers of our fellow citizens have moved from welfare to work.
+
+And once again, we have resolved for our time a great debate over the role of government. Today we can declare: Government is not the problem, and government is not the solution. We—the American people—we are the solution. Our founders understood that well and gave us a democracy strong enough to endure for centuries, flexible enough to face our common challenges and advance our common dreams in each new day.
+
+As times change, so government must change. We need a new government for a new century—humble enough not to try to solve all our problems for us, but strong enough to give us the tools to solve our problems for ourselves; a government that is smaller, lives within its means, and does more with less. Yet where it can stand up for our values and interests in the world, and where it can give Americans the power to make a real difference in their everyday lives, government should do more, not less. The preeminent mission of our new government is to give all Americans an opportunity—not a guarantee, but a real opportunity—to build better lives.
+
+Beyond that, my fellow citizens, the future is up to us. Our founders taught us that the preservation of our liberty and our union depends upon responsible citizenship. And we need a new sense of responsibility for a new century. There is work to do, work that government alone cannot do: teaching children to read; hiring people off welfare rolls; coming out from behind locked doors and shuttered windows to help reclaim our streets from drugs and gangs and crime; taking time out of our own lives to serve others.
+
+Each and every one of us, in our own way, must assume personal responsibility—not only for ourselves and our families, but for our neighbors and our nation. Our greatest responsibility is to embrace a new spirit of community for a new century. For any one of us to succeed, we must succeed as one America.
+
+The challenge of our past remains the challenge of our future—will we be one nation, one people, with one common destiny, or not? Will we all come together, or come apart?
+
+The divide of race has been America's constant curse. And each new wave of immigrants gives new targets to old prejudices. Prejudice and contempt, cloaked in the pretense of religious or political conviction are no different. These forces have nearly destroyed our nation in the past. They plague us still. They fuel the fanaticism of terror. And they torment the lives of millions in fractured nations all around the world.
+
+These obsessions cripple both those who hate and, of course, those who are hated, robbing both of what they might become. We cannot, we will not, succumb to the dark impulses that lurk in the far regions of the soul everywhere. We shall overcome them. And we shall replace them with the generous spirit of a people who feel at home with one another.
+
+Our rich texture of racial, religious and political diversity will be a Godsend in the 21st century. Great rewards will come to those who can live together, learn together, work together, forge new ties that bind together.
+
+As this new era approaches we can already see its broad outlines. Ten years ago, the Internet was the mystical province of physicists; today, it is a commonplace encyclopedia for millions of schoolchildren. Scientists now are decoding the blueprint of human life. Cures for our most feared illnesses seem close at hand.
+
+The world is no longer divided into two hostile camps. Instead, now we are building bonds with nations that once were our adversaries. Growing connections of commerce and culture give us a chance to lift the fortunes and spirits of people the world over. And for the very first time in all of history, more people on this planet live under democracy than dictatorship.
+
+My fellow Americans, as we look back at this remarkable century, we may ask, can we hope not just to follow, but even to surpass the achievements of the 20th century in America and to avoid the awful bloodshed that stained its legacy? To that question, every American here and every American in our land today must answer a resounding "Yes."
+
+This is the heart of our task. With a new vision of government, a new sense of responsibility, a new spirit of community, we will sustain America's journey. The promise we sought in a new land we will find again in a land of new promise.
+
+In this new land, education will be every citizen's most prized possession. Our schools will have the highest standards in the world, igniting the spark of possibility in the eyes of every girl and every boy. And the doors of higher education will be open to all. The knowledge and power of the Information Age will be within reach not just of the few, but of every classroom, every library, every child. Parents and children will have time not only to work, but to read and play together. And the plans they make at their kitchen table will be those of a better home, a better job, the certain chance to go to college.
+
+Our streets will echo again with the laughter of our children, because no one will try to shoot them or sell them drugs anymore. Everyone who can work, will work, with today's permanent under class part of tomorrow's growing middle class. New miracles of medicine at last will reach not only those who can claim care now, but the children and hardworking families too long denied.
+
+We will stand mighty for peace and freedom, and maintain a strong defense against terror and destruction. Our children will sleep free from the threat of nuclear, chemical or biological weapons. Ports and airports, farms and factories will thrive with trade and innovation and ideas. And the world's greatest democracy will lead a whole world of democracies.
+
+Our land of new promise will be a nation that meets its obligations—a nation that balances its budget, but never loses the balance of its values. A nation where our grandparents have secure retirement and health care, and their grandchildren know we have made the reforms necessary to sustain those benefits for their time. A nation that fortifies the world's most productive economy even as it protects the great natural bounty of our water, air, and majestic land.
+
+And in this land of new promise, we will have reformed our politics so that the voice of the people will always speak louder than the din of narrow interests—regaining the participation and deserving the trust of all Americans.
+
+Fellow citizens, let us build that America, a nation ever moving forward toward realizing the full potential of all its citizens. Prosperity and power—yes, they are important, and we must maintain them. But let us never forget: The greatest progress we have made, and the greatest progress we have yet to make, is in the human heart. In the end, all the world's wealth and a thousand armies are no match for the strength and decency of the human spirit.
+
+Thirty-four years ago, the man whose life we celebrate today spoke to us down there, at the other end of this Mall, in words that moved the conscience of a nation. Like a prophet of old, he told of his dream that one day America would rise up and treat all its citizens as equals before the law and in the heart. Martin Luther King's dream was the American Dream. His quest is our quest: the ceaseless striving to live out our true creed. Our history has been built on such dreams and labors. And by our dreams and labors we will redeem the promise of America in the 21st century.
+
+To that effort I pledge all my strength and every power of my office. I ask the members of Congress here to join in that pledge. The American people returned to office a President of one party and a Congress of another. Surely, they did not do this to advance the politics of petty bickering and extreme partisanship they plainly deplore. No, they call on us instead to be repairers of the breach, and to move on with America's mission.
+
+America demands and deserves big things from us—and nothing big ever came from being small. Let us remember the timeless wisdom of Cardinal Bernardin, when facing the end of his own life. He said:
+
+"It is wrong to waste the precious gift of time, on acrimony and division."
+
+Fellow citizens, we must not waste the precious gift of this time. For all of us are on that same journey of our lives, and our journey, too, will come to an end. But the journey of our America must go on.
+
+And so, my fellow Americans, we must be strong, for there is much to dare. The demands of our time are great and they are different. Let us meet them with faith and courage, with patience and a grateful and happy heart. Let us shape the hope of this day into the noblest chapter in our history. Yes, let us build our bridge. A bridge wide enough and strong enough for every American to cross over to a blessed land of new promise.
+
+May those generations whose faces we cannot yet see, whose names we may never know, say of us here that we led our beloved land into a new century with the American Dream alive for all her children; with the American promise of a more perfect union a reality for all her people; with America's bright flame of freedom spreading throughout all the world.
+
+From the height of this place and the summit of this century, let us go forth. May God strengthen our hands for the good work ahead—and always, always bless our America.
+
+## GEORGE W. BUSH, FIRST INAUGURAL ADDRESS. FRIDAY, JANUARY 20, 2001
+
+President Clinton, distinguished guests and my fellow citizens, the peaceful transfer of authority is rare in history, yet common in our country. With a simple oath, we affirm old traditions and make new beginnings.
+
+As I begin, I thank President Clinton for his service to our nation.
+
+And I thank Vice President Gore for a contest conducted with spirit and ended with grace.
+
+I am honored and humbled to stand here, where so many of America's leaders have come before me, and so many will follow.
+
+We have a place, all of us, in a long story—a story we continue, but whose end we will not see. It is the story of a new world that became a friend and liberator of the old, a story of a slave-holding society that became a servant of freedom, the story of a power that went into the world to protect but not possess, to defend but not to conquer.
+
+It is the American story—a story of flawed and fallible people, united across the generations by grand and enduring ideals.
+
+The grandest of these ideals is an unfolding American promise that everyone belongs, that everyone deserves a chance, that no insignificant person was ever born.
+
+Americans are called to enact this promise in our lives and in our laws. And though our nation has sometimes halted, and sometimes delayed, we must follow no other course.
+
+Through much of the last century, America's faith in freedom and democracy was a rock in a raging sea. Now it is a seed upon the wind, taking root in many nations.
+
+Our democratic faith is more than the creed of our country, it is the inborn hope of our humanity, an ideal we carry but do not own, a trust we bear and pass along. And even after nearly 225 years, we have a long way yet to travel.
+
+While many of our citizens prosper, others doubt the promise, even the justice, of our own country. The ambitions of some Americans are limited by failing schools and hidden prejudice and the circumstances of their birth. And sometimes our differences run so deep, it seems we share a continent, but not a country.
+
+We do not accept this, and we will not allow it. Our unity, our union, is the serious work of leaders and citizens in every generation. And this is my solemn pledge: I will work to build a single nation of justice and opportunity.
+
+I know this is in our reach because we are guided by a power larger than ourselves who creates us equal in His image.
+
+And we are confident in principles that unite and lead us onward.
+
+America has never been united by blood or birth or soil. We are bound by ideals that move us beyond our backgrounds, lift us above our interests and teach us what it means to be citizens. Every child must be taught these principles. Every citizen must uphold them. And every immigrant, by embracing these ideals, makes our country more, not less, American.
+
+Today, we affirm a new commitment to live out our nation's promise through civility, courage, compassion and character.
+
+America, at its best, matches a commitment to principle with a concern for civility. A civil society demands from each of us good will and respect, fair dealing and forgiveness.
+
+Some seem to believe that our politics can afford to be petty because, in a time of peace, the stakes of our debates appear small.
+
+But the stakes for America are never small. If our country does not lead the cause of freedom, it will not be led. If we do not turn the hearts of children toward knowledge and character, we will lose their gifts and undermine their idealism. If we permit our economy to drift and decline, the vulnerable will suffer most.
+
+We must live up to the calling we share. Civility is not a tactic or a sentiment. It is the determined choice of trust over cynicism, of community over chaos. And this commitment, if we keep it, is a way to shared accomplishment.
+
+America, at its best, is also courageous.
+
+Our national courage has been clear in times of depression and war, when defending common dangers defined our common good. Now we must choose if the example of our fathers and mothers will inspire us or condemn us. We must show courage in a time of blessing by confronting problems instead of passing them on to future generations.
+
+Together, we will reclaim America's schools, before ignorance and apathy claim more young lives.
+
+We will reform Social Security and Medicare, sparing our children from struggles we have the power to prevent. And we will reduce taxes, to recover the momentum of our economy and reward the effort and enterprise of working Americans.
+
+We will build our defenses beyond challenge, lest weakness invite challenge.
+
+We will confront weapons of mass destruction, so that a new century is spared new horrors.
+
+The enemies of liberty and our country should make no mistake: America remains engaged in the world by history and by choice, shaping a balance of power that favors freedom. We will defend our allies and our interests. We will show purpose without arrogance. We will meet aggression and bad faith with resolve and strength. And to all nations, we will speak for the values that gave our nation birth.
+
+America, at its best, is compassionate. In the quiet of American conscience, we know that deep, persistent poverty is unworthy of our nation's promise.
+
+And whatever our views of its cause, we can agree that children at risk are not at fault. Abandonment and abuse are not acts of God, they are failures of love.
+
+And the proliferation of prisons, however necessary, is no substitute for hope and order in our souls.
+
+Where there is suffering, there is duty. Americans in need are not strangers, they are citizens, not problems, but priorities. And all of us are diminished when any are hopeless.
+
+Government has great responsibilities for public safety and public health, for civil rights and common schools. Yet compassion is the work of a nation, not just a government.
+
+And some needs and hurts are so deep they will only respond to a mentor's touch or a pastor's prayer. Church and charity, synagogue and mosque lend our communities their humanity, and they will have an honored place in our plans and in our laws.
+
+Many in our country do not know the pain of poverty, but we can listen to those who do.
+
+And I can pledge our nation to a goal: When we see that wounded traveler on the road to Jericho, we will not pass to the other side.
+
+America, at its best, is a place where personal responsibility is valued and expected.
+
+Encouraging responsibility is not a search for scapegoats, it is a call to conscience. And though it requires sacrifice, it brings a deeper fulfillment. We find the fullness of life not only in options, but in commitments. And we find that children and community are the commitments that set us free.
+
+Our public interest depends on private character, on civic duty and family bonds and basic fairness, on uncounted, unhonored acts of decency which give direction to our freedom.
+
+Sometimes in life we are called to do great things. But as a saint of our times has said, every day we are called to do small things with great love. The most important tasks of a democracy are done by everyone.
+
+I will live and lead by these principles: to advance my convictions with civility, to pursue the public interest with courage, to speak for greater justice and compassion, to call for responsibility and try to live it as well.
+
+In all these ways, I will bring the values of our history to the care of our times.
+
+What you do is as important as anything government does. I ask you to seek a common good beyond your comfort; to defend needed reforms against easy attacks; to serve your nation, beginning with your neighbor. I ask you to be citizens: citizens, not spectators; citizens, not subjects; responsible citizens, building communities of service and a nation of character.
+
+Americans are generous and strong and decent, not because we believe in ourselves, but because we hold beliefs beyond ourselves. When this spirit of citizenship is missing, no government program can replace it. When this spirit is present, no wrong can stand against it.
+
+After the Declaration of Independence was signed, Virginia statesman John Page wrote to Thomas Jefferson: "We know the race is not to the swift nor the battle to the strong. Do you not think an angel rides in the whirlwind and directs this storm?"
+
+Much time has passed since Jefferson arrived for his inauguration. The years and changes accumulate. But the themes of this day he would know: our nation's grand story of courage and its simple dream of dignity.
+
+We are not this story's author, who fills time and eternity with his purpose. Yet his purpose is achieved in our duty, and our duty is fulfilled in service to one another.
+
+Never tiring, never yielding, never finishing, we renew that purpose today, to make our country more just and generous, to affirm the dignity of our lives and every life.
+
+This work continues. This story goes on. And an angel still rides in the whirlwind and directs this storm.
+
+God bless you all, and God bless America.
+
+## GEORGE W. BUSH, SECOND INAUGURAL ADDRESS. THURSDAY, JANUARY 20, 2005
+
+Vice President Cheney, Mr. Chief Justice, President Carter, President Bush, President Clinton, reverend clergy, distinguished guests, fellow citizens:
+
+On this day, prescribed by law and marked by ceremony, we celebrate the durable wisdom of our Constitution, and recall the deep commitments that unite our country. I am grateful for the honor of this hour, mindful of the consequential times in which we live, and determined to fulfill the oath that I have sworn and you have witnessed.
+
+At this second gathering, our duties are defined not by the words I use, but by the history we have seen together. For a half century, America defended our own freedom by standing watch on distant borders. After the shipwreck of communism came years of relative quiet, years of repose, years of sabbatical—and then there came a day of fire.
+
+We have seen our vulnerability—and we have seen its deepest source. For as long as whole regions of the world simmer in resentment and tyranny—prone to ideologies that feed hatred and excuse murder—violence will gather, and multiply in destructive power, and cross the most defended borders, and raise a mortal threat. There is only one force of history that can break the reign of hatred and resentment, and expose the pretensions of tyrants, and reward the hopes of the decent and tolerant, and that is the force of human freedom.
+
+We are led, by events and common sense, to one conclusion: The survival of liberty in our land increasingly depends on the success of liberty in other lands. The best hope for peace in our world is the expansion of freedom in all the world.
+
+America's vital interests and our deepest beliefs are now one. From the day of our Founding, we have proclaimed that every man and woman on this earth has rights, and dignity, and matchless value, because they bear the image of the Maker of Heaven and earth. Across the generations we have proclaimed the imperative of self-government, because no one is fit to be a master, and no one deserves to be a slave. Advancing these ideals is the mission that created our Nation. It is the honorable achievement of our fathers. Now it is the urgent requirement of our nation's security, and the calling of our time.
+
+So it is the policy of the United States to seek and support the growth of democratic movements and institutions in every nation and culture, with the ultimate goal of ending tyranny in our world.
+
+This is not primarily the task of arms, though we will defend ourselves and our friends by force of arms when necessary. Freedom, by its nature, must be chosen, and defended by citizens, and sustained by the rule of law and the protection of minorities. And when the soul of a nation finally speaks, the institutions that arise may reflect customs and traditions very different from our own. America will not impose our own style of government on the unwilling. Our goal instead is to help others find their own voice, attain their own freedom, and make their own way.
+
+The great objective of ending tyranny is the concentrated work of generations. The difficulty of the task is no excuse for avoiding it. America's influence is not unlimited, but fortunately for the oppressed, America's influence is considerable, and we will use it confidently in freedom's cause.
+
+My most solemn duty is to protect this nation and its people against further attacks and emerging threats. Some have unwisely chosen to test America's resolve, and have found it firm.
+
+We will persistently clarify the choice before every ruler and every nation: The moral choice between oppression, which is always wrong, and freedom, which is eternally right. America will not pretend that jailed dissidents prefer their chains, or that women welcome humiliation and servitude, or that any human being aspires to live at the mercy of bullies.
+
+We will encourage reform in other governments by making clear that success in our relations will require the decent treatment of their own people. America's belief in human dignity will guide our policies, yet rights must be more than the grudging concessions of dictators; they are secured by free dissent and the participation of the governed. In the long run, there is no justice without freedom, and there can be no human rights without human liberty.
+
+Some, I know, have questioned the global appeal of liberty—though this time in history, four decades defined by the swiftest advance of freedom ever seen, is an odd time for doubt. Americans, of all people, should never be surprised by the power of our ideals. Eventually, the call of freedom comes to every mind and every soul. We do not accept the existence of permanent tyranny because we do not accept the possibility of permanent slavery. Liberty will come to those who love it.
+
+Today, America speaks anew to the peoples of the world:
+
+All who live in tyranny and hopelessness can know: the United States will not ignore your oppression, or excuse your oppressors. When you stand for your liberty, we will stand with you.
+
+Democratic reformers facing repression, prison, or exile can know: America sees you for who you are: the future leaders of your free country.
+
+The rulers of outlaw regimes can know that we still believe as Abraham Lincoln did: "Those who deny freedom to others deserve it not for themselves; and, under the rule of a just God, cannot long retain it."
+
+The leaders of governments with long habits of control need to know: To serve your people you must learn to trust them. Start on this journey of progress and justice, and America will walk at your side.
+
+And all the allies of the United States can know: we honor your friendship, we rely on your counsel, and we depend on your help. Division among free nations is a primary goal of freedom's enemies. The concerted effort of free nations to promote democracy is a prelude to our enemies' defeat.
+
+Today, I also speak anew to my fellow citizens:
+
+From all of you, I have asked patience in the hard task of securing America, which you have granted in good measure. Our country has accepted obligations that are difficult to fulfill, and would be dishonorable to abandon. Yet because we have acted in the great liberating tradition of this nation, tens of millions have achieved their freedom. And as hope kindles hope, millions more will find it. By our efforts, we have lit a fire as well—a fire in the minds of men. It warms those who feel its power, it burns those who fight its progress, and one day this untamed fire of freedom will reach the darkest corners of our world.
+
+A few Americans have accepted the hardest duties in this cause—in the quiet work of intelligence and diplomacy...the idealistic work of helping raise up free governments...the dangerous and necessary work of fighting our enemies. Some have shown their devotion to our country in deaths that honored their whole lives—and we will always honor their names and their sacrifice.
+
+All Americans have witnessed this idealism, and some for the first time. I ask our youngest citizens to believe the evidence of your eyes. You have seen duty and allegiance in the determined faces of our soldiers. You have seen that life is fragile, and evil is real, and courage triumphs. Make the choice to serve in a cause larger than your wants, larger than yourself—and in your days you will add not just to the wealth of our country, but to its character.
+
+America has need of idealism and courage, because we have essential work at home—the unfinished work of American freedom. In a world moving toward liberty, we are determined to show the meaning and promise of liberty.
+
+In America's ideal of freedom, citizens find the dignity and security of economic independence, instead of laboring on the edge of subsistence. This is the broader definition of liberty that motivated the Homestead Act, the Social Security Act, and the G.I. Bill of Rights. And now we will extend this vision by reforming great institutions to serve the needs of our time. To give every American a stake in the promise and future of our country, we will bring the highest standards to our schools, and build an ownership society. We will widen the ownership of homes and businesses, retirement savings and health insurance—preparing our people for the challenges of life in a free society. By making every citizen an agent of his or her own destiny, we will give our fellow Americans greater freedom from want and fear, and make our society more prosperous and just and equal.
+
+In America's ideal of freedom, the public interest depends on private character—on integrity, and tolerance toward others, and the rule of conscience in our own lives. Self-government relies, in the end, on the governing of the self. That edifice of character is built in families, supported by communities with standards, and sustained in our national life by the truths of Sinai, the Sermon on the Mount, the words of the Koran, and the varied faiths of our people. Americans move forward in every generation by reaffirming all that is good and true that came before—ideals of justice and conduct that are the same yesterday, today, and forever.
+
+In America's ideal of freedom, the exercise of rights is ennobled by service, and mercy, and a heart for the weak. Liberty for all does not mean independence from one another. Our nation relies on men and women who look after a neighbor and surround the lost with love. Americans, at our best, value the life we see in one another, and must always remember that even the unwanted have worth. And our country must abandon all the habits of racism, because we cannot carry the message of freedom and the baggage of bigotry at the same time.
+
+From the perspective of a single day, including this day of dedication, the issues and questions before our country are many. From the viewpoint of centuries, the questions that come to us are narrowed and few. Did our generation advance the cause of freedom? And did our character bring credit to that cause?
+
+These questions that judge us also unite us, because Americans of every party and background, Americans by choice and by birth, are bound to one another in the cause of freedom. We have known divisions, which must be healed to move forward in great purposes—and I will strive in good faith to heal them. Yet those divisions do not define America. We felt the unity and fellowship of our nation when freedom came under attack, and our response came like a single hand over a single heart. And we can feel that same unity and pride whenever America acts for good, and the victims of disaster are given hope, and the unjust encounter justice, and the captives are set free.
+
+We go forward with complete confidence in the eventual triumph of freedom. Not because history runs on the wheels of inevitability; it is human choices that move events. Not because we consider ourselves a chosen nation; God moves and chooses as He wills. We have confidence because freedom is the permanent hope of mankind, the hunger in dark places, the longing of the soul. When our Founders declared a new order of the ages; when soldiers died in wave upon wave for a union based on liberty; when citizens marched in peaceful outrage under the banner "Freedom Now"—they were acting on an ancient hope that is meant to be fulfilled. History has an ebb and flow of justice, but history also has a visible direction, set by liberty and the Author of Liberty.
+
+When the Declaration of Independence was first read in public and the Liberty Bell was sounded in celebration, a witness said, "It rang as if it meant something." In our time it means something still. America, in this young century, proclaims liberty throughout all the world, and to all the inhabitants thereof. Renewed in our strength—tested, but not weary—we are ready for the greatest achievements in the history of freedom.
+
+May God bless you, and may He watch over the United States of America.
+
+## NOTES—PRESIDENTS WHO WERE NOT INAUGURATED
+
+JOHN TYLER Vice President John Tyler became President upon William Henry Harrison's death one month after his inauguration. U.S. Circuit Court Judge William Cranch administered the oath to Mr. Tyler at his residence in the Indian Queen Hotel on April 6, 1841.
+
+MILLARD FILLMORE Judge William Cranch administered the executive oath of office to Vice President Millard Fillmore on July 10, 1850 in the Hall of the House of Representatives. President Zachary Taylor had died the day before.
+
+ANDREW JOHNSON On April 15, 1865, after visiting the wounded and dying President Lincoln in a house across the street from Ford's Theatre, the Vice President returned to his rooms at Kirkwood House. A few hours later he received the Cabinet and Chief Justice Salmon Chase in his rooms to take the executive oath of office.
+
+CHESTER A. ARTHUR On September 20, 1881, upon the death of President Garfield, Vice President Arthur received a group at his home in New York City to take the oath of office, administered by New York Supreme Court Judge John R. Brady. The next day he again took the oath of office, administered by Chief Justice Morrison Waite, in the Vice President's Office in the Capitol in Washington, D.C.
+
+GERALD R. FORD The Minority Leader of the House of Representatives became Vice President upon the resignation of Spiro Agnew, under the process of the 25th Amendment to the Constitution. When President Nixon resigned on August 9, 1974, Vice President Ford took the executive oath of office, administered by Chief Justice Warren Burger, in the East Room of the White House.
+
+EXECUTIVE OATH OF OFFICE "I do solemnly swear (or affirm) that I will faithfully execute the Office of President of the United States, and will to the best of my ability, preserve, protect and defend the Constitution of the United States."
+
+United States Constitution, Article II, Section 1, Clause 8

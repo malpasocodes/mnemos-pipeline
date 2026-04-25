@@ -551,7 +551,7 @@ There appears to be little positive evidence of a large illicit importation into
 
 On the whole, it is plain that, although in the period from 1807 to 1820 Congress laid down broad lines of legislation sufficient, save in some details, to suppress the African slave trade to America, yet the execution of these laws was criminally lax. Moreover, by the facility with which slavers could disguise their identity, it was possible for them to escape even a vigorous enforcement of our laws. This situation could properly be met only by energetic and sincere international co-operation. The next chapter will review efforts directed toward this end. [486] 151 Among interesting minor proceedings in this period were two Senate bills to register slaves so as to prevent illegal importation. They were both dropped in the House; a House proposition to the same effect also came to nothing: *Senate Journal*, 15 Cong. 1 sess. pp. 147, 152, 157, 165, 170, 188, 201, 203, 232, 237; 15 Cong. 2 sess. pp. 63, 74, 77, 202, 207, 285, 291, 297; *House Journal*, 15 Cong. 1 sess. p. 332; 15 Cong. 2 sess. pp. 303, 305, 316; 16 Cong. 1 sess. p. 150. Another proposition was contained in the Meigs resolution presented to the House, Feb. 5, 1820, which proposed to devote the public lands to the suppression of the slave-trade. This was ruled out of order. It was presented again and laid on the table in 1821: *House Journal*, 16 Cong. 1 sess. pp. 196, 200, 227; 16 Cong. 2 sess. p. 238.
 
-## Chapter IX. THE INTERNATIONAL STATUS OF THE SLAVE-TRADE.
+## Chapter IX. THE INTERNATIONAL STATUS OF THE SLAVE-TRADE. 1783–1862.
 
 66. The Rise of the Movement against the Slave-Trade, 1788–1807.
 67. Concerted Action of the Powers, 1783–1814.
@@ -792,7 +792,7 @@ With the faith of the nation broken at the very outset, the system of slavery un
 
 It behooves the United States, therefore, in the interest both of scientific truth and of future social reform, carefully to study such chapters of her history as that of the suppression of the slave-trade. The most obvious question which this study suggests is: How far in a State can a recognized moral wrong safely be compromised? And although this chapter of history can give us no definite answer suited to the ever-varying aspects of political life, yet it would seem to warn any nation from allowing, through carelessness and moral cowardice, any social evil to grow. No persons would have seen the Civil War with more surprise and horror than the Revolutionists of 1776; yet from the small and apparently dying institution of their day arose the walled and castled Slave-Power. From this we may conclude that it behooves nations as well as men to do things at the very moment when they ought to be done.
 
-## APPENDIX A.
+## APPENDIX A. A CHRONOLOGICAL CONSPECTUS OF COLONIAL AND STATE LEGISLATION RESTRICTING THE AFRICAN SLAVE-TRADE. 1641-1787.
 
 1641. Massachusetts: Limitations on Slavery.
 
@@ -1460,7 +1460,7 @@ Title and text not found. Cf. *Public Laws of Rhode Island* (revision of 1822), 
 
 "An act to prevent the slave trade and to encourage the abolition of slavery." This act prohibited and censured trade under penalty of £100 for each person and £1,000 for each vessel. Bartlett, *Index to the Printed Acts and Resolves*, p. 333; *Narragansett Historical Register*, II. 298–9.
 
-## APPENDIX B.
+## APPENDIX B. A CHRONOLOGICAL CONSPECTUS OF STATE, NATIONAL, AND INTERNATIONAL LEGISLATION. 1788–1871.
 
 As the State statutes and Congressional reports and bills are difficult to find, the significant parts of such documents are printed in full. In the case of national statutes and treaties, the texts may easily be found through the references.
 
@@ -2802,7 +2802,7 @@ Senate Bill No. 251, to repeal an act entitled "An act to prevent the importatio
 
 On the call of States, Mr. Banks introduced "a bill (House, No. 490) to carry into effect article thirteen of the Constitution of the United States, and to prohibit the owning or dealing in slaves by American citizens in foreign countries." *House Journal*, 42 Cong. 2 sess. p. 48.
 
-## APPENDIX C.
+## APPENDIX C. TYPICAL CASES OF VESSELS ENGAGED IN THE AMERICAN SLAVE-TRADE. 1619-1864.
 
 **1619.** ——. Dutch man-of-war, imports twenty Negroes into Virginia, the first slaves brought to the continent. Smith, *Generall Historie of Virginia* (1626 and 1632), p. 126.
 

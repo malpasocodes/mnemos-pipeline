@@ -139,6 +139,7 @@ def _get_content_elements(soup: BeautifulSoup) -> list[Tag]:
     past_header = False
     past_title_page = False
     in_excluded_section = False
+    pending_anchor_id = None
 
     for el in body.children:
         if not isinstance(el, Tag):
@@ -158,16 +159,30 @@ def _get_content_elements(soup: BeautifulSoup) -> list[Tag]:
             continue
 
         # Skip transcriber's note
-        if el.get("class") and "box" in el.get("class", []):
+        if el.get("class") and ("box" in el.get("class", []) or "mynote" in el.get("class", [])):
             continue
+
+        # Anchor-only <p> (e.g. <p><a id="link..."></a></p>) — Gutenberg uses
+        # this to place a link target before a heading rather than as a child
+        # of it. Capture the id, skip the <p>, and attach the id to the next
+        # heading so existing essay-collection logic recognizes it.
+        if el.name == "p" and _is_anchor_only_p(el):
+            anchor = el.find("a", id=True)
+            if anchor:
+                pending_anchor_id = anchor["id"]
+            continue
+        if pending_anchor_id and el.name in ("h1", "h2", "h3", "h4"):
+            if not el.get("id") and not _has_anchor_id(el):
+                el["id"] = pending_anchor_id
+            pending_anchor_id = None
 
         # Skip title page and TOC (before first content heading)
         if not past_title_page:
             text_check = el.get_text(strip=True)
             if el.name in ("h1", "h2", "h3", "h4") and _content_start_re.match(text_check):
                 past_title_page = True
-            elif el.name in ("h2", "h3", "h4") and _has_anchor_id(el):
-                # Essay collections: h2 with <a id="..."> marks content start
+            elif el.name in ("h2", "h3", "h4") and (_has_anchor_id(el) or el.get("id")):
+                # Essay collections: h2 with anchor child or own id marks content start
                 past_title_page = True
             elif el.name == "div":
                 h_tag = el.find(["h1", "h2", "h3", "h4"])
@@ -245,6 +260,32 @@ def _has_anchor_id(el: Tag) -> bool:
     """Check if an element contains an <a> child with an id attribute."""
     a_tag = el.find("a", id=True)
     return a_tag is not None
+
+
+def _is_anchor_only_p(el: Tag) -> bool:
+    """True if `el` is a <p> whose only meaningful content is one <a id="...">.
+    Whitespace, <br>, and HTML comments don't count. Used to detect Gutenberg
+    chapter-anchor paragraphs that precede the actual heading."""
+    has_anchor = False
+    for child in el.children:
+        if isinstance(child, Comment):
+            continue
+        if isinstance(child, NavigableString):
+            if child.strip():
+                return False
+            continue
+        if isinstance(child, Tag):
+            if child.name == "br":
+                continue
+            if child.name == "a" and child.get("id"):
+                if _inline_text(child).strip():
+                    return False
+                if has_anchor:
+                    return False
+                has_anchor = True
+                continue
+            return False
+    return has_anchor
 
 
 def _heading_text(el: Tag) -> str:
@@ -349,6 +390,11 @@ def _segment_chapters(elements: list[Tag], footnotes: dict[str, str]) -> list[di
                     # Standalone essay — clear essay group context
                     current_essay_group = None
                 title_parts.append(text)
+                # subtitled=True protects against an h5 sub-section marker
+                # (Johnson's act/scene labels) being absorbed as subtitle. A
+                # following h3 without id (e.g. the date line under each
+                # presidential inaugural, Du Bois's APPENDIX subtitles) is
+                # still absorbed by the h3-specific catcher below.
                 current_chapter = {"title_parts": title_parts, "elements": [], "subtitled": True}
                 continue
 
@@ -414,8 +460,19 @@ def _segment_chapters(elements: list[Tag], footnotes: dict[str, str]) -> list[di
                 current_chapter = {"title_parts": title_parts, "elements": []}
                 continue
 
-        # Capture subtitle (h3/h5 near start of chapter, possibly after <hr>)
-        if el.name in ("h3", "h5") and current_chapter and not current_chapter["elements"] and not current_chapter.get("subtitled"):
+        # Capture subtitle near start of chapter (possibly after <hr>).
+        # - h3: absorb unconditionally. The chapter-starting branches that
+        #   set subtitled=True (h2 with id) are followed either by an h3
+        #   with its own id (handled in the h3 branch above as a sub-chapter
+        #   start) or by a plain h3 we want as subtitle.
+        # - h5: only when subtitled=False, since Johnson uses h5 for act/
+        #   scene sub-section markers under h2-with-id chapters where we
+        #   want it rendered as a bold paragraph instead.
+        if el.name == "h3" and current_chapter and not current_chapter["elements"]:
+            current_chapter["title_parts"].append(_heading_text(el))
+            current_chapter["subtitled"] = True
+            continue
+        if el.name == "h5" and current_chapter and not current_chapter["elements"] and not current_chapter.get("subtitled"):
             current_chapter["title_parts"].append(_heading_text(el))
             current_chapter["subtitled"] = True
             continue
