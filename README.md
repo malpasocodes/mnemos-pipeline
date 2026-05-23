@@ -62,6 +62,7 @@ This produces:
 | Virginia Woolf | The Common Reader | [pg67363](https://www.gutenberg.org/ebooks/67363) |
 | Virginia Woolf | Mrs. Dalloway | [pg71865](https://www.gutenberg.org/ebooks/71865) |
 | W. E. B. Du Bois | The Suppression of the African Slave Trade | [pg17700](https://www.gutenberg.org/ebooks/17700) |
+| W. E. B. Du Bois | The Souls of Black Folk | [pg408](https://www.gutenberg.org/ebooks/408) |
 
 ## Output structure
 
@@ -93,6 +94,7 @@ output/
     mrs-dalloway/
   w-e-b-du-bois/
     suppression-of-the-african-slave-trade/
+    souls-of-black-folk/
 ```
 
 Large texts are automatically split into parts at chapter boundaries so each file stays under the character limit.
