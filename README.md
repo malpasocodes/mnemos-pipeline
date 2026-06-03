@@ -56,6 +56,7 @@ This produces:
 | Ernest Hemingway | The Sun Also Rises | [pg67138](https://www.gutenberg.org/ebooks/67138) |
 | Henry David Thoreau | The Maine Woods | [pg42500](https://www.gutenberg.org/ebooks/42500) |
 | John Locke | Second Treatise of Government | [pg7370](https://www.gutenberg.org/ebooks/7370) |
+| Josiah Royce | The Sources of Religious Insight | [pg33677](https://www.gutenberg.org/ebooks/33677) |
 | Ralph Waldo Emerson | Nature | [pg29433](https://www.gutenberg.org/ebooks/29433) |
 | Samuel Johnson | Preface to Shakespeare | [pg5429](https://www.gutenberg.org/ebooks/5429) |
 | United States Presidents | Inaugural Speeches (Washington–G. W. Bush) | [pg925](https://www.gutenberg.org/ebooks/925) |
@@ -83,6 +84,8 @@ output/
     the-maine-woods/
   john-locke/
     second-treatise/
+  josiah-royce/
+    sources-religious-insight/
   ralph-waldo-emerson/
     nature/
   samuel-johnson/

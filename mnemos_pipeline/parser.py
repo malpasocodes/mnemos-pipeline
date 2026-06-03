@@ -131,7 +131,8 @@ def _get_content_elements(soup: BeautifulSoup) -> list[Tag]:
     # (Emerson's Nature) — neither of those leaves an <h*> match here.
     has_explicit_content_heading = any(
         h.name in ("h1", "h2", "h3", "h4")
-        and (_content_start_re.match(h.get_text(strip=True)) or _has_anchor_id(h))
+        and (_content_start_re.match(h.get_text(strip=True)) or _has_anchor_id(h)
+             or _is_lecture_heading(h))
         for h in body.find_all(["h1", "h2", "h3", "h4"])
     )
 
@@ -180,6 +181,9 @@ def _get_content_elements(soup: BeautifulSoup) -> list[Tag]:
         if not past_title_page:
             text_check = el.get_text(strip=True)
             if el.name in ("h1", "h2", "h3", "h4") and _content_start_re.match(text_check):
+                past_title_page = True
+            elif _is_lecture_heading(el):
+                # Royce-style "<roman> <TITLE>" lecture heading marks content start
                 past_title_page = True
             elif el.name in ("h2", "h3", "h4") and (_has_anchor_id(el) or el.get("id")):
                 # Essay collections: h2 with anchor child or own id marks content start
@@ -303,6 +307,21 @@ def _heading_text(el: Tag) -> str:
     return text.strip()
 
 
+# Lecture heading of the form "<roman> <TITLE>" rendered as h1 (or, for the
+# mis-tagged Lecture III, h2) — e.g. Royce's "Sources of Religious Insight",
+# whose lectures use "I<br><br>THE RELIGIOUS PROBLEM...". The roman numeral and
+# title are joined by a space via _heading_text. Bare roman sub-section markers
+# ("<h2>I</h2>") have no following title, so they do not match.
+_lecture_re = re.compile(r"^(?:I{1,3}|IV|IX|VI{0,3}|V|X)\s+[A-Z]")
+
+
+def _is_lecture_heading(el: Tag) -> bool:
+    """True if `el` is an h1/h2 lecture heading of the form '<roman> <TITLE>'."""
+    if el.name not in ("h1", "h2"):
+        return False
+    return bool(_lecture_re.match(_heading_text(el)))
+
+
 def _is_plain_p_heading(text: str) -> bool:
     """True if `text` looks like a chapter heading rendered as a plain <p>:
     short, all-caps letters, ending with a period."""
@@ -335,6 +354,18 @@ def _segment_chapters(elements: list[Tag], footnotes: dict[str, str]) -> list[di
     pending_roman = None
 
     for el in elements:
+        # Royce-style lecture heading: h1 (or mis-tagged h2) of form "<roman>
+        # <TITLE>". Each lecture heading is duplicated in the source (title-page
+        # copy + body-start copy); the first copy collects only anchor <div>s and
+        # finalizes to an empty chapter, which _segment_chapters drops below.
+        if _is_lecture_heading(el):
+            if current_chapter:
+                chapters.append(_finalize_chapter(current_chapter, footnotes))
+            pending_roman = None
+            current_essay_group = None
+            current_chapter = {"title_parts": [_heading_text(el)], "elements": []}
+            continue
+
         # h1 can be a Chapter heading (e.g. Hemingway)
         if el.name == "h1":
             text = _heading_text(el)
@@ -600,7 +631,11 @@ def _inline_text(el: Tag) -> str:
                 fn_key = child["href"].replace("#linknote-", "")
                 parts.append(f"[^{fn_key}]")
             elif child.name == "a":
-                parts.append(_inline_text(child))
+                inner = _inline_text(child)
+                # Drop inline page markers like <a id="id_4">{4}</a> (Royce)
+                if re.fullmatch(r"\s*\{\d+\}\s*", inner):
+                    continue
+                parts.append(inner)
             elif child.name == "span":
                 cls = " ".join(child.get("class", []))
                 if "xhtml_big" in cls:
